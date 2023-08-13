@@ -2,27 +2,250 @@ var tree =
 [
   {
     "text": "Abstract algebra",
-    "item-id": "c18,iNone",
+    "item-id": "c18,i195",
     "nodes": [
       {
+        "text": "An Introduction to Surreal Numbers",
+        "item-id": "i195",
+        "nodes": [
+          {
+            "text": "Grimm - An Introduction to Surreal Numbers.pdf",
+            "item-id": "i194",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Grimm - An Introduction to Surreal Numbers.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "Grimm - An Introduction to Surreal Numbers.pdf"
+              ]
+            ],
+            "resource": "storage/i194.pdf"
+          }
+        ],
+        "icon": "glyphicon glyphicon-file",
+        "item_title": "An Introduction to Surreal Numbers",
+        "item_type": "journalArticle",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Creators",
+            "Gretchen Grimm"
+          ],
+          [
+            "Language",
+            "en"
+          ],
+          [
+            "Library Catalog",
+            "Zotero"
+          ],
+          [
+            "Title",
+            "An Introduction to Surreal Numbers"
+          ]
+        ],
+        "resource": "storage/i194.pdf",
+        "selectable": false
+      },
+      {
         "text": "Category theory",
-        "item-id": "c21,iNone",
+        "item-id": "c21,i189",
+        "nodes": [
+          {
+            "text": "Cats1.pdf",
+            "item-id": "i187",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Cats1.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "Cats1.pdf"
+              ]
+            ],
+            "resource": "storage/i187.pdf"
+          }
+        ],
         "item_title": "Category theory",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Group theory",
-        "item-id": "c19,iNone",
+        "item-id": "c19,i183",
         "nodes": [
           {
+            "text": "A Group-Theoretical Approach to the Periodic Table of Chemical Elements: Old and New Developments",
+            "item-id": "i174",
+            "nodes": [
+              {
+                "text": "Kibler - A Group-Theoretical Approach to the Periodic Table.pdf",
+                "item-id": "i173",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Kibler - A Group-Theoretical Approach to the Periodic Table.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Kibler - A Group-Theoretical Approach to the Periodic Table.pdf"
+                  ]
+                ],
+                "resource": "storage/i173.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "A Group-Theoretical Approach to the Periodic Table of Chemical Elements: Old and New Developments",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "This paper is a companion article to the review paper by the present author devoted to the classification of matter constituents (chemical elements and particles) and published in the first part of the proceedings of The Second Harry Wiener International Memorial Conference. It is mainly concerned with a group-theoretical approach to the Periodic Table of the neutral elements based on the noncompact group SO(4, 2)\u2297SU(2)."
+              ],
+              [
+                "Creators",
+                "Maurice R Kibler"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "A Group-Theoretical Approach to the Periodic Table of Chemical Elements: Old and New Developments"
+              ]
+            ],
+            "resource": "storage/i173.pdf",
+            "selectable": false
+          },
+          {
             "text": "Clifford algebra",
-            "item-id": "c43,iNone",
+            "item-id": "c43,i203",
+            "nodes": [
+              {
+                "text": "IJMSI-v6n1p79-en.pdf",
+                "item-id": "i203",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "IJMSI-v6n1p79-en.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "IJMSI-v6n1p79-en.pdf"
+                  ]
+                ],
+                "resource": "storage/i203.pdf"
+              },
+              {
+                "text": "Mathematical Viruses",
+                "item-id": "i197",
+                "nodes": [
+                  {
+                    "text": "Hestenes - 1992 - Mathematical Viruses.pdf",
+                    "item-id": "i196",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Hestenes - 1992 - Mathematical Viruses.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Title",
+                        "Hestenes - 1992 - Mathematical Viruses.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i196.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-book",
+                "item_title": "Mathematical Viruses",
+                "item_type": "bookSection",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "The discovery of Mathematical Viruses is announced here for the \ufb01rst time. Such viruses are a serious threat to the general mental health of the mathematical community. Several viruses inimical to the unity of mathematics are identi\ufb01ed, and their deleterious characteristics are described. A strong dose of geometric algebra and calculus is the best medicine for both prevention and cure."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-13 06:21:02"
+                  ],
+                  [
+                    "Book Title",
+                    "Clifford Algebras and their Applications in Mathematical Physics"
+                  ],
+                  [
+                    "Creators",
+                    "A. Micali, R. Boudet, J. Helmstetter, David Hestenes"
+                  ],
+                  [
+                    "Date",
+                    "1992-00-00 1992"
+                  ],
+                  [
+                    "Extra",
+                    "DOI: 10.1007/978-94-015-8090-8_1"
+                  ],
+                  [
+                    "ISBN",
+                    "978-90-481-4130-2 978-94-015-8090-8"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "DOI.org (Crossref)"
+                  ],
+                  [
+                    "Pages",
+                    "3-16"
+                  ],
+                  [
+                    "Place",
+                    "Dordrecht"
+                  ],
+                  [
+                    "Publisher",
+                    "Springer Netherlands"
+                  ],
+                  [
+                    "Title",
+                    "Mathematical Viruses"
+                  ],
+                  [
+                    "URL",
+                    "http://link.springer.com/10.1007/978-94-015-8090-8_1"
+                  ]
+                ],
+                "resource": "storage/i196.pdf",
+                "selectable": false
+              }
+            ],
             "item_title": "Clifford algebra",
             "item_type": null,
             "item_note": null,
-            "node_type": "collection"
+            "node_type": "collection",
+            "selectable": false
           },
           {
             "text": "Frobenius algebra",
@@ -39,6 +262,22 @@ var tree =
             "item_type": null,
             "item_note": null,
             "node_type": "collection"
+          },
+          {
+            "text": "geom-group2006.pdf",
+            "item-id": "i183",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "geom-group2006.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "geom-group2006.pdf"
+              ]
+            ],
+            "resource": "storage/i183.pdf"
           }
         ],
         "item_title": "Group theory",
@@ -165,11 +404,171 @@ var tree =
       },
       {
         "text": "Functional analysis",
-        "item-id": "c46,iNone",
+        "item-id": "c46,i204",
+        "nodes": [
+          {
+            "text": "Banach algebra",
+            "item-id": "c128,iNone",
+            "nodes": [
+              {
+                "text": "C*-algebra",
+                "item-id": "c129,i185",
+                "nodes": [
+                  {
+                    "text": "Representation Theory of Analytic Holonomy C* Algebras",
+                    "item-id": "i185",
+                    "nodes": [
+                      {
+                        "text": "Ashtekar and Lewandowski - 1993 - Representation Theory of Analytic Holonomy C Alge.pdf",
+                        "item-id": "i184",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "Ashtekar and Lewandowski - 1993 - Representation Theory of Analytic Holonomy C Alge.pdf",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Title",
+                            "Ashtekar and Lewandowski - 1993 - Representation Theory of Analytic Holonomy C Alge.pdf"
+                          ]
+                        ],
+                        "resource": "storage/i184.pdf"
+                      },
+                      {
+                        "text": "Comment: 42 pages, To be published in ``Knots and Quantum Gravity'' (ed. J.Baez, Oxford U.Press)",
+                        "item-id": "n186",
+                        "icon": "glyphicon glyphicon-text-background",
+                        "item_title": "Comment: 42 pages, To be published in ``Knots and Quantum Gravity'' (ed. J.Baez, Oxford U.Press)",
+                        "item_type": "note",
+                        "item_note": "<div class=\"zotero-note znv1\">Comment: 42 pages, To be published in ``Knots and Quantum Gravity'' (ed. J.Baez, Oxford U.Press)</div>",
+                        "node_type": "note"
+                      }
+                    ],
+                    "icon": "glyphicon glyphicon-unchecked",
+                    "item_title": "Representation Theory of Analytic Holonomy C* Algebras",
+                    "item_type": "preprint",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Abstract Note",
+                        "Integral calculus on the space A/G of gauge equivalent connections is developed. Loops, knots, links and graphs feature prominently in this description. The framework is well\u2013suited for quantization of di\ufb00eomorphism invariant theories of connections."
+                      ],
+                      [
+                        "Access Date",
+                        "2023-08-13 06:17:19"
+                      ],
+                      [
+                        "Archiveid",
+                        "arXiv:gr-qc/9311010"
+                      ],
+                      [
+                        "Creators",
+                        "Abhay Ashtekar, Jerzy Lewandowski"
+                      ],
+                      [
+                        "Date",
+                        "1993-11-07 1993-11-07"
+                      ],
+                      [
+                        "Extra",
+                        "arXiv:gr-qc/9311010"
+                      ],
+                      [
+                        "Language",
+                        "en"
+                      ],
+                      [
+                        "Library Catalog",
+                        "arXiv.org"
+                      ],
+                      [
+                        "Repository",
+                        "arXiv"
+                      ],
+                      [
+                        "Title",
+                        "Representation Theory of Analytic Holonomy C* Algebras"
+                      ],
+                      [
+                        "URL",
+                        "http://arxiv.org/abs/gr-qc/9311010"
+                      ]
+                    ],
+                    "resource": "storage/i184.pdf",
+                    "selectable": false
+                  }
+                ],
+                "item_title": "C*-algebra",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection",
+                "selectable": false
+              }
+            ],
+            "item_title": "Banach algebra",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "HagenKleinert_PathIntegrals.pdf",
+            "item-id": "i150",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "HagenKleinert_PathIntegrals.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-08-13 06:02:23"
+              ],
+              [
+                "Title",
+                "HagenKleinert_PathIntegrals.pdf"
+              ],
+              [
+                "URL",
+                "https://hagenkleinert.de/documents/pi/HagenKleinert_PathIntegrals.pdf"
+              ]
+            ],
+            "resource": "storage/i150.pdf"
+          },
+          {
+            "text": "Variational calculus",
+            "item-id": "c131,i205",
+            "nodes": [
+              {
+                "text": "Legendre.pdf",
+                "item-id": "i205",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Legendre.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Legendre.pdf"
+                  ]
+                ],
+                "resource": "storage/i205.pdf"
+              }
+            ],
+            "item_title": "Variational calculus",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          }
+        ],
         "item_title": "Functional analysis",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Measure theory",
@@ -211,11 +610,30 @@ var tree =
       },
       {
         "text": "Real analysis",
-        "item-id": "c48,iNone",
+        "item-id": "c48,i221",
+        "nodes": [
+          {
+            "text": "tao.pdf",
+            "item-id": "i221",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "tao.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "tao.pdf"
+              ]
+            ],
+            "resource": "storage/i221.pdf"
+          }
+        ],
         "item_title": "Real analysis",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       }
     ],
     "item_title": "Analysis",
@@ -2048,11 +2466,61 @@ var tree =
     "nodes": [
       {
         "text": "Astrophysics",
-        "item-id": "c58,iNone",
+        "item-id": "c58,i140",
+        "nodes": [
+          {
+            "text": "Elements of Astrophysics",
+            "item-id": "i140",
+            "nodes": [
+              {
+                "text": "Kaiser - Elements of Astrophysics.pdf",
+                "item-id": "i139",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Kaiser - Elements of Astrophysics.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Kaiser - Elements of Astrophysics.pdf"
+                  ]
+                ],
+                "resource": "storage/i139.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Elements of Astrophysics",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Nick Kaiser"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Elements of Astrophysics"
+              ]
+            ],
+            "resource": "storage/i139.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Astrophysics",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Cosmic inflation",
@@ -2207,11 +2675,278 @@ var tree =
       },
       {
         "text": "Dark energy",
-        "item-id": "c37,iNone",
+        "item-id": "c37,i131",
+        "nodes": [
+          {
+            "text": "Cosmological dynamics of multifield dark energy",
+            "item-id": "i127",
+            "nodes": [
+              {
+                "text": "Comment: 19 pages, 12 figures. v2: Improved and published version",
+                "item-id": "n128",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 19 pages, 12 figures. v2: Improved and published version",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 19 pages, 12 figures. v2: Improved and published version</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i130",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 05:53:21"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2201.08841.pdf"
+                  ]
+                ],
+                "resource": "storage/i130.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i129",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 05:53:20"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2201.08841"
+                  ]
+                ],
+                "resource": "storage/i129.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Cosmological dynamics of multifield dark energy",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We numerically and analytically explore the background cosmological dynamics of multifield dark energy with highly nongeodesic or \"spinning\" field-space trajectories. These extensions of standard single-field quintessence possess appealing theoretical features and observable differences from the cosmological standard model. At the level of the cosmological background, we perform a phase-space analysis and identify approximate attractors with late-time acceleration for a wide range of initial conditions. Focusing on two classes of field-space geometry, we derive bounds on parameter space by demanding viable late-time acceleration and the absence of gradient instabilities, as well as from the de Sitter swampland conjecture."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 05:53:15"
+              ],
+              [
+                "Creators",
+                "Johannes R. Eskilt, Yashar Akrami, Adam R. Solomon, Valeri Vardanyan"
+              ],
+              [
+                "DOI",
+                "10.1103/PhysRevD.106.023512"
+              ],
+              [
+                "Date",
+                "2022-07-18 2022-7-18"
+              ],
+              [
+                "Extra",
+                "arXiv:2201.08841 [astro-ph, physics:gr-qc, physics:hep-ph, physics:hep-th]"
+              ],
+              [
+                "ISSN",
+                "2470-0010, 2470-0029"
+              ],
+              [
+                "Issue",
+                "2"
+              ],
+              [
+                "Journal Abbreviation",
+                "Phys. Rev. D"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "023512"
+              ],
+              [
+                "Publication Title",
+                "Physical Review D"
+              ],
+              [
+                "Title",
+                "Cosmological dynamics of multifield dark energy"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2201.08841"
+              ],
+              [
+                "Volume",
+                "106"
+              ]
+            ],
+            "resource": "storage/i130.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Multi-field dark energy",
+            "item-id": "i131",
+            "nodes": [
+              {
+                "text": "Comment: 9 pages, 1 figure. Extended discussion, added references, matches published version",
+                "item-id": "n132",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 9 pages, 1 figure. Extended discussion, added references, matches published version",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 9 pages, 1 figure. Extended discussion, added references, matches published version</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i134",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 05:54:42"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2008.13660.pdf"
+                  ]
+                ],
+                "resource": "storage/i134.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i133",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 05:54:41"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2008.13660"
+                  ]
+                ],
+                "resource": "storage/i133.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Multi-field dark energy",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We argue that dark energy with multiple fields is theoretically well-motivated and predicts distinct observational signatures, in particular when cosmic acceleration takes place along a trajectory that is highly non-geodesic in field space. Such models provide novel physics compared to $\\Lambda$CDM and quintessence by allowing cosmic acceleration on steep potentials. From the theoretical point of view, these theories can easily satisfy the conjectured swampland constraints and may in certain cases be technically natural, potential problems which are endemic to standard single-field dark energy. Observationally, we argue that while such multi-field models are likely to be largely indistinguishable from the concordance cosmology at the background level, dark energy perturbations can cluster, leading to an enhanced growth of large-scale structure that may be testable as early as the next generation of cosmological surveys."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 05:54:35"
+              ],
+              [
+                "Creators",
+                "Yashar Akrami, Misao Sasaki, Adam R. Solomon, Valeri Vardanyan"
+              ],
+              [
+                "DOI",
+                "10.1016/j.physletb.2021.136427"
+              ],
+              [
+                "Date",
+                "2021-08-00 08/2021"
+              ],
+              [
+                "Extra",
+                "arXiv:2008.13660 [astro-ph, physics:gr-qc, physics:hep-ph, physics:hep-th]"
+              ],
+              [
+                "ISSN",
+                "03702693"
+              ],
+              [
+                "Journal Abbreviation",
+                "Physics Letters B"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "136427"
+              ],
+              [
+                "Publication Title",
+                "Physics Letters B"
+              ],
+              [
+                "Short Title",
+                "Multi-field dark energy"
+              ],
+              [
+                "Title",
+                "Multi-field dark energy: cosmic acceleration on a steep potential"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2008.13660"
+              ],
+              [
+                "Volume",
+                "819"
+              ]
+            ],
+            "resource": "storage/i134.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Dark energy",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Dark matter",
@@ -2231,19 +2966,341 @@ var tree =
       },
       {
         "text": "Loop quantum cosmology",
-        "item-id": "c111,iNone",
+        "item-id": "c111,i161",
+        "nodes": [
+          {
+            "text": "Cosmological constant in spinfoam cosmology",
+            "item-id": "i123",
+            "nodes": [
+              {
+                "text": "Comment: 4 pages, 2 figures",
+                "item-id": "n124",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 4 pages, 2 figures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 4 pages, 2 figures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i126",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 05:52:26"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1101.4049.pdf"
+                  ]
+                ],
+                "resource": "storage/i126.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i125",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 05:52:25"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1101.4049"
+                  ]
+                ],
+                "resource": "storage/i125.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Cosmological constant in spinfoam cosmology",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We consider a simple modification of the amplitude defining the dynamics of loop quantum gravity, corresponding to the introduction of the cosmological constant, and possibly related to the SL(2,C)q extension of the theory recently considered by Fairbairn-Meusburger and Han. We show that in the context of spinfoam cosmology, this modification yields the de Sitter cosmological solution."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 05:52:19"
+              ],
+              [
+                "Creators",
+                "Eugenio Bianchi, Thomas Krajewski, Carlo Rovelli, Francesca Vidotto"
+              ],
+              [
+                "DOI",
+                "10.1103/PhysRevD.83.104015"
+              ],
+              [
+                "Date",
+                "2011-05-05 2011-5-5"
+              ],
+              [
+                "Extra",
+                "arXiv:1101.4049 [gr-qc]"
+              ],
+              [
+                "ISSN",
+                "1550-7998, 1550-2368"
+              ],
+              [
+                "Issue",
+                "10"
+              ],
+              [
+                "Journal Abbreviation",
+                "Phys. Rev. D"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "104015"
+              ],
+              [
+                "Publication Title",
+                "Physical Review D"
+              ],
+              [
+                "Title",
+                "Cosmological constant in spinfoam cosmology"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1101.4049"
+              ],
+              [
+                "Volume",
+                "83"
+              ]
+            ],
+            "resource": "storage/i126.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Quantization of time and the big bang via scale-invariant loop gravity",
+            "item-id": "i161",
+            "nodes": [
+              {
+                "text": "Comment: 7 pages, 4 figures, version to appear in PLB",
+                "item-id": "n162",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 7 pages, 4 figures, version to appear in PLB",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 7 pages, 4 figures, version to appear in PLB</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Wang and Stankiewicz - 2020 - Quantization of time and the big bang via scale-in.pdf",
+                "item-id": "i160",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Wang and Stankiewicz - 2020 - Quantization of time and the big bang via scale-in.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Wang and Stankiewicz - 2020 - Quantization of time and the big bang via scale-in.pdf"
+                  ]
+                ],
+                "resource": "storage/i160.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Quantization of time and the big bang via scale-invariant loop gravity",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We consider the background-independent quantization of a general scale-invariant theory of gravity with matter, which supports a conserved Weyl current recently suggested as a natural flow of time. For scalar-metric systems, a conformal class of Ashtekar-Barbero connection variables is constructed, which can be quantized using spin networks. Crucially, the quantum states become separable into the eigen states of the generator of the scale transformation and spin-network states in the Einstein frame. The eigen values consist of additional quantum numbers including a new type of fundamental frequency $\\omega$ and energy $E = \\hbar \\omega$ with respect to a new local time $\\tau$ carried by every spin-network vertex. The discretely distributed $\\tau$ values as the \"quanta of time\" correspond to a functional time related to the integrated Weyl current in the classical theory. The Immirzi ambiguity of loop quantum geometry is removed by scale symmetry. To probe the quantum behaviour of the early Universe, the new formalism is applied to a scale-invariant homogenous and isotropic cosmological model coupled to a doublet of scalars with illustrative numerical simulations. The Einstein-frame volume is quantized in recently improved and regularized polymer representations with an arbitrary Immirzi parameter. The resulting unitary evolution of the quantum state of an expanding universe has a positive energy spectrum. A rescaling of the Immirzi parameter is equivalent to a translation in time without changing dynamics. The big bang can be identified in the past time limit when the expectation values of the Jordan-frame volume tend to zero. Remarkably, the quantized big bang is not replaced by a big bounce---a prevalent scenario in present loop quantum cosmology."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:07:36"
+              ],
+              [
+                "Creators",
+                "Charles H.-T. Wang, Marcin Stankiewicz"
+              ],
+              [
+                "DOI",
+                "10.1016/j.physletb.2019.135106"
+              ],
+              [
+                "Date",
+                "2020-01-00 01/2020"
+              ],
+              [
+                "Extra",
+                "arXiv:1910.03300 [gr-qc]"
+              ],
+              [
+                "ISSN",
+                "03702693"
+              ],
+              [
+                "Journal Abbreviation",
+                "Physics Letters B"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "135106"
+              ],
+              [
+                "Publication Title",
+                "Physics Letters B"
+              ],
+              [
+                "Title",
+                "Quantization of time and the big bang via scale-invariant loop gravity"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1910.03300"
+              ],
+              [
+                "Volume",
+                "800"
+              ]
+            ],
+            "resource": "storage/i160.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Loop quantum cosmology",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Quantum cosmology",
-        "item-id": "c110,iNone",
+        "item-id": "c110,i212",
+        "nodes": [
+          {
+            "text": "The Nature of Space and Time",
+            "item-id": "i212",
+            "nodes": [
+              {
+                "text": "Comment: 62 pages with 51 figures, plain TeX",
+                "item-id": "n213",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 62 pages with 51 figures, plain TeX",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 62 pages with 51 figures, plain TeX</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Hawking - 1994 - The Nature of Space and Time.pdf",
+                "item-id": "i211",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Hawking - 1994 - The Nature of Space and Time.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Hawking - 1994 - The Nature of Space and Time.pdf"
+                  ]
+                ],
+                "resource": "storage/i211.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "The Nature of Space and Time",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "Three illustrated lectures given by Stephen Hawking as part of a series of six lectures with Roger Penrose on the nature of space and time sponsored by Princeton University Press."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:29:19"
+              ],
+              [
+                "Archiveid",
+                "arXiv:hep-th/9409195"
+              ],
+              [
+                "Creators",
+                "S. W. Hawking"
+              ],
+              [
+                "Date",
+                "1994-09-30 1994-09-30"
+              ],
+              [
+                "Extra",
+                "arXiv:hep-th/9409195"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "The Nature of Space and Time"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/hep-th/9409195"
+              ]
+            ],
+            "resource": "storage/i211.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Quantum cosmology",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "String cosmology",
@@ -2270,7 +3327,7 @@ var tree =
   },
   {
     "text": "General relativity",
-    "item-id": "c3,i88",
+    "item-id": "c3,i219",
     "nodes": [
       {
         "text": "A Generalized Wick Transform for Gravity",
@@ -2607,6 +3664,14 @@ var tree =
         "selectable": false
       },
       {
+        "text": "Linearized gravity",
+        "item-id": "c125,iNone",
+        "item_title": "Linearized gravity",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
         "text": "Modified gravity",
         "item-id": "c38,iNone",
         "nodes": [
@@ -2623,6 +3688,185 @@ var tree =
         "item_type": null,
         "item_note": null,
         "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "NOTES ON GENERAL RELATIVITY (GR) AND GRAVITY",
+        "item-id": "i219",
+        "nodes": [
+          {
+            "text": "Yeung - NOTES ON GENERAL RELATIVITY (GR) AND GRAVITY.pdf",
+            "item-id": "i218",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Yeung - NOTES ON GENERAL RELATIVITY (GR) AND GRAVITY.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "Yeung - NOTES ON GENERAL RELATIVITY (GR) AND GRAVITY.pdf"
+              ]
+            ],
+            "resource": "storage/i218.pdf"
+          }
+        ],
+        "icon": "glyphicon glyphicon-file",
+        "item_title": "NOTES ON GENERAL RELATIVITY (GR) AND GRAVITY",
+        "item_type": "journalArticle",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Abstract Note",
+            "These are notes on General Relativity (GR) and Gravity. As of March 23, 2015, I \ufb01nd that the Central Lectures given by Dr. Frederic P. Schuller for the WE Heraeus International Winter School to be, unequivocally, the best, most lucid, and well-constructed lecture series on General Relativity and Gravity. Instead of reinventing the wheel, I write these notes to build upon and supplement the video lectures and tutorials already created by them. This includes my corrections, comments, relations to other aspects of theoretical physics, and code implementing calculations in GR. It should be noted that for symbolic computation, I heavily use the SageManifolds v.0.7 package for Sage Math. My goal in this area is this: we see a concept or idea from GR and we go from the equation on the blackboard or textbook and into (Python/Sage Math) code that immediately computes a calculation. I keep these notes available online, openly accessible, and free for anyone, anytime (with your (\ufb01nancial) help and contribution at Tilt/Open, which is a subscription service). I want to keep these notes openly accessible because I want to encourage anyone to freely edit, copy, and make their own notes in the spirit of open-source software. I continuously update these notes and post them here ernestyalumni.wordpress.com The stated goal of the WE Heraeus International Winter School on Gravity and Light is to take the student from an introduction to the research frontier (cf. http://www.gravity-and-light.org/lectures). I want to get myself and other students or ambitious non-academic (maybe he or she is a working professional who had studied physics before in college, went to work in another \ufb01eld, maybe even, gasp, investment banking or mobile app developer, but still is curious and passionate about physics and want to contribute) equipped with all the tools available to do research, do calculations, to design experiments or collect data. Again, we\u2019re not here to reinvent the wheel. I\u2019m not trying to make a General Relativity appreciation class, but this is a serious attempt towards training to do research."
+          ],
+          [
+            "Creators",
+            "Ernest Yeung"
+          ],
+          [
+            "Language",
+            "en"
+          ],
+          [
+            "Library Catalog",
+            "Zotero"
+          ],
+          [
+            "Title",
+            "NOTES ON GENERAL RELATIVITY (GR) AND GRAVITY"
+          ]
+        ],
+        "resource": "storage/i218.pdf",
+        "selectable": false
+      },
+      {
+        "text": "On Geometric Objects, the Non-Existence of a Gravitational Stress-Energy Tensor, and the Uniqueness of the Einstein Field Equation",
+        "item-id": "i135",
+        "nodes": [
+          {
+            "text": "Comment: 30 pages, 24 of main text; published 2019 in \\emph{Studies in History and Philosophy of Modern Physics}; a grea",
+            "item-id": "n136",
+            "icon": "glyphicon glyphicon-text-background",
+            "item_title": "Comment: 30 pages, 24 of main text; published 2019 in \\emph{Studies in History and Philosophy of Modern Physics}; a grea",
+            "item_type": "note",
+            "item_note": "<div class=\"zotero-note znv1\">Comment: 30 pages, 24 of main text; published 2019 in \\emph{Studies in History and Philosophy of Modern Physics}; a greatly shortened version, focusing only on technical results, is available at arXiv:1601.03032; this replaces a much older and impoverished incarnation of this paper (arXiv:0908.3322)</div>",
+            "node_type": "note"
+          },
+          {
+            "text": "Full Text PDF",
+            "item-id": "i138",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Full Text PDF",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-08-13 05:56:38"
+              ],
+              [
+                "Title",
+                "Full Text PDF"
+              ],
+              [
+                "URL",
+                "https://arxiv.org/pdf/1808.08998.pdf"
+              ]
+            ],
+            "resource": "storage/i138.pdf"
+          },
+          {
+            "text": "arXiv.org Snapshot",
+            "item-id": "i137",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "arXiv.org Snapshot",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-08-13 05:56:37"
+              ],
+              [
+                "Title",
+                "arXiv.org Snapshot"
+              ],
+              [
+                "URL",
+                "https://arxiv.org/abs/1808.08998"
+              ]
+            ],
+            "resource": "storage/i137.html"
+          }
+        ],
+        "icon": "glyphicon glyphicon-file",
+        "item_title": "On Geometric Objects, the Non-Existence of a Gravitational Stress-Energy Tensor, and the Uniqueness of the Einstein Field Equation",
+        "item_type": "journalArticle",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Abstract Note",
+            "The question of the existence of gravitational stress-energy in general relativity has exercised investigators in the field since the inception of the theory. Folklore has it that no adequate definition of a localized gravitational stress-energetic quantity can be given. Most arguments to that effect invoke one version or another of the Principle of Equivalence. I argue that not only are such arguments of necessity vague and hand-waving but, worse, are beside the point and do not address the heart of the issue. Based on a novel analysis of what it may mean for one tensor to depend in the proper way on another, which, \\emph{en passant}, provides a precise characterization of the idea of a `geometric object', I prove that, under certain natural conditions, there can be no tensor whose interpretation could be that it represents gravitational stress-energy in general relativity. It follows that gravitational energy, such as it is in general relativity, is necessarily non-local. Along the way, I prove a result of some interest in own right about the structure of the associated jet bundles of the bundle of Lorentz metrics over spacetime. I conclude by showing that my results also imply that, under a few natural conditions, the Einstein field equation is the unique equation relating gravitational phenomena to spatiotemporal structure, and discuss how this relates to the non-localizability of gravitational stress-energy. The main theorem proven underlying all the arguments is considerably stronger than the standard result in the literature used for the same purposes (Lovelock's theorem of 1972): it holds in all dimensions (not only in four); it does not require an assumption about the differential order of the desired concomitant of the metric; and it has a more natural physical interpretation."
+          ],
+          [
+            "Access Date",
+            "2023-08-13 05:56:32"
+          ],
+          [
+            "Creators",
+            "Erik Curiel"
+          ],
+          [
+            "DOI",
+            "10.1016/j.shpsb.2018.08.003"
+          ],
+          [
+            "Date",
+            "2019-05-00 05/2019"
+          ],
+          [
+            "Extra",
+            "arXiv:1808.08998 [gr-qc, physics:physics]"
+          ],
+          [
+            "ISSN",
+            "13552198"
+          ],
+          [
+            "Journal Abbreviation",
+            "Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics"
+          ],
+          [
+            "Library Catalog",
+            "arXiv.org"
+          ],
+          [
+            "Pages",
+            "90-102"
+          ],
+          [
+            "Publication Title",
+            "Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics"
+          ],
+          [
+            "Title",
+            "On Geometric Objects, the Non-Existence of a Gravitational Stress-Energy Tensor, and the Uniqueness of the Einstein Field Equation"
+          ],
+          [
+            "URL",
+            "http://arxiv.org/abs/1808.08998"
+          ],
+          [
+            "Volume",
+            "66"
+          ]
+        ],
+        "resource": "storage/i138.pdf",
         "selectable": false
       },
       {
@@ -3159,6 +4403,14 @@ var tree =
         "selectable": false
       },
       {
+        "text": "Spinor theory",
+        "item-id": "c132,iNone",
+        "item_title": "Spinor theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
         "text": "The Dynamics of General Relativity",
         "item-id": "i88",
         "nodes": [
@@ -3299,7 +4551,7 @@ var tree =
   },
   {
     "text": "Geometry and Topology",
-    "item-id": "c1,iNone",
+    "item-id": "c1,i215",
     "nodes": [
       {
         "text": "Algebraic geometry",
@@ -3311,8 +4563,55 @@ var tree =
       },
       {
         "text": "Differential geometry",
-        "item-id": "c22,iNone",
+        "item-id": "c22,i208",
         "nodes": [
+          {
+            "text": "A Practical Introduction to Di\ufb00erential Forms",
+            "item-id": "i202",
+            "nodes": [
+              {
+                "text": "Schulz and Schulz - A Practical Introduction to Di\ufb00erential Forms.pdf",
+                "item-id": "i201",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Schulz and Schulz - A Practical Introduction to Di\ufb00erential Forms.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Schulz and Schulz - A Practical Introduction to Di\ufb00erential Forms.pdf"
+                  ]
+                ],
+                "resource": "storage/i201.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "A Practical Introduction to Di\ufb00erential Forms",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Alexia E Schulz, William C Schulz"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "A Practical Introduction to Di\ufb00erential Forms"
+              ]
+            ],
+            "resource": "storage/i201.pdf",
+            "selectable": false
+          },
           {
             "text": "Complex geometry",
             "item-id": "c62,iNone",
@@ -3381,6 +4680,157 @@ var tree =
             "node_type": "collection"
           },
           {
+            "text": "Notes on Di\ufb00erential Geometry and Lie Groups",
+            "item-id": "i208",
+            "nodes": [
+              {
+                "text": "Gallier - Notes on Di\ufb00erential Geometry and Lie Groups.pdf",
+                "item-id": "i207",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Gallier - Notes on Di\ufb00erential Geometry and Lie Groups.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Gallier - Notes on Di\ufb00erential Geometry and Lie Groups.pdf"
+                  ]
+                ],
+                "resource": "storage/i207.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Notes on Di\ufb00erential Geometry and Lie Groups",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Jean Gallier"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Notes on Di\ufb00erential Geometry and Lie Groups"
+              ]
+            ],
+            "resource": "storage/i207.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Overview of the Geometries of Shape Spaces and Diffeomorphism Groups",
+            "item-id": "i199",
+            "nodes": [
+              {
+                "text": "Bauer et al. - 2014 - Overview of the Geometries of Shape Spaces and Dif.pdf",
+                "item-id": "i198",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Bauer et al. - 2014 - Overview of the Geometries of Shape Spaces and Dif.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Bauer et al. - 2014 - Overview of the Geometries of Shape Spaces and Dif.pdf"
+                  ]
+                ],
+                "resource": "storage/i198.pdf"
+              },
+              {
+                "text": "Comment: 38 pages, 10 figures. This version has many more small changes and finally agrees with the published version",
+                "item-id": "n200",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 38 pages, 10 figures. This version has many more small changes and finally agrees with the published version",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 38 pages, 10 figures. This version has many more small changes and finally agrees with the published version</div>",
+                "node_type": "note"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Overview of the Geometries of Shape Spaces and Diffeomorphism Groups",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "This article provides an overview of various notions of shape spaces, including the space of parametrized and unparametrized curves, the space of immersions, the di\ufb00eomorphism group and the space of Riemannian metrics. We discuss the Riemannian metrics that can be de\ufb01ned thereon, and what is known about the properties of these metrics. We put particular emphasis on the induced geodesic distance, the geodesic equation and its well-posedness, geodesic and metric completeness and properties of the curvature."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:22:47"
+              ],
+              [
+                "Creators",
+                "Martin Bauer, Martins Bruveris, Peter W. Michor"
+              ],
+              [
+                "DOI",
+                "10.1007/s10851-013-0490-z"
+              ],
+              [
+                "Date",
+                "2014-09-00 9/2014"
+              ],
+              [
+                "Extra",
+                "arXiv:1305.1150 [math]"
+              ],
+              [
+                "ISSN",
+                "0924-9907, 1573-7683"
+              ],
+              [
+                "Issue",
+                "1-2"
+              ],
+              [
+                "Journal Abbreviation",
+                "J Math Imaging Vis"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "60-97"
+              ],
+              [
+                "Publication Title",
+                "Journal of Mathematical Imaging and Vision"
+              ],
+              [
+                "Title",
+                "Overview of the Geometries of Shape Spaces and Diffeomorphism Groups"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1305.1150"
+              ],
+              [
+                "Volume",
+                "50"
+              ]
+            ],
+            "resource": "storage/i198.pdf",
+            "selectable": false
+          },
+          {
             "text": "Pseudo-Riemannian geometry",
             "item-id": "c60,iNone",
             "item_title": "Pseudo-Riemannian geometry",
@@ -3439,9 +4889,64 @@ var tree =
         "selectable": false
       },
       {
+        "text": "Lectures on the Geometric Anatomy of Theoretical Physics",
+        "item-id": "i215",
+        "nodes": [
+          {
+            "text": "Schuller - Lectures on the Geometric Anatomy of Theoretical P.pdf",
+            "item-id": "i214",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Schuller - Lectures on the Geometric Anatomy of Theoretical P.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "Schuller - Lectures on the Geometric Anatomy of Theoretical P.pdf"
+              ]
+            ],
+            "resource": "storage/i214.pdf"
+          }
+        ],
+        "icon": "glyphicon glyphicon-file",
+        "item_title": "Lectures on the Geometric Anatomy of Theoretical Physics",
+        "item_type": "journalArticle",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Creators",
+            "Dr Frederic P Schuller"
+          ],
+          [
+            "Language",
+            "en"
+          ],
+          [
+            "Library Catalog",
+            "Zotero"
+          ],
+          [
+            "Title",
+            "Lectures on the Geometric Anatomy of Theoretical Physics"
+          ]
+        ],
+        "resource": "storage/i214.pdf",
+        "selectable": false
+      },
+      {
         "text": "Noncommutative geometry",
         "item-id": "c52,iNone",
         "item_title": "Noncommutative geometry",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Projective geometry",
+        "item-id": "c127,iNone",
+        "item_title": "Projective geometry",
         "item_type": null,
         "item_note": null,
         "node_type": "collection"
@@ -3476,11 +4981,77 @@ var tree =
           },
           {
             "text": "General topology",
-            "item-id": "c23,iNone",
+            "item-id": "c23,i210",
+            "nodes": [
+              {
+                "text": "Notes.pdf",
+                "item-id": "i206",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Notes.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Notes.pdf"
+                  ]
+                ],
+                "resource": "storage/i206.pdf"
+              },
+              {
+                "text": "TOPOLOGY WITHOUT TEARS",
+                "item-id": "i210",
+                "nodes": [
+                  {
+                    "text": "Morris - TOPOLOGY WITHOUT TEARS.pdf",
+                    "item-id": "i209",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Morris - TOPOLOGY WITHOUT TEARS.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Title",
+                        "Morris - TOPOLOGY WITHOUT TEARS.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i209.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "TOPOLOGY WITHOUT TEARS",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "Sidney A Morris"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "TOPOLOGY WITHOUT TEARS"
+                  ]
+                ],
+                "resource": "storage/i209.pdf",
+                "selectable": false
+              }
+            ],
             "item_title": "General topology",
             "item_type": null,
             "item_note": null,
-            "node_type": "collection"
+            "node_type": "collection",
+            "selectable": false
           },
           {
             "text": "Geometric topology",
@@ -3557,25 +5128,661 @@ var tree =
         "node_type": "collection"
       },
       {
+        "text": "Linearized quantum gravity",
+        "item-id": "c126,i153",
+        "nodes": [
+          {
+            "text": "Linearized Quantum Gravity Using the Projection Operator Formalism",
+            "item-id": "i153",
+            "nodes": [
+              {
+                "text": "Comment: 30 pages, no figures, enlarged and corrected version",
+                "item-id": "n154",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 30 pages, no figures, enlarged and corrected version",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 30 pages, no figures, enlarged and corrected version</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i155",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 06:06:20"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/gr-qc/0601087.pdf"
+                  ]
+                ],
+                "resource": "storage/i155.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i156",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 06:06:25"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/gr-qc/0601087"
+                  ]
+                ],
+                "resource": "storage/i156.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Linearized Quantum Gravity Using the Projection Operator Formalism",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The theory of canonical linearized gravity is quantized using the Projection Operator formalism, in which no gauge or coordinate choices are made. The ADM Hamiltonian is used and the canonical variables and constraints are expanded around a flat background. As a result of the coordinate independence and linear truncation of the perturbation series, the constraint algebra surprisingly becomes partially second-class in both the classical and quantum pictures after all secondary constraints are considered. While new features emerge in the constraint structure, the end result is the same as previously reported: the (separable) physical Hilbert space still only depends on the transverse-traceless degrees of freedom."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:06:11"
+              ],
+              [
+                "Creators",
+                "Wayne R. Bomstad, John R. Klauder"
+              ],
+              [
+                "DOI",
+                "10.1088/0264-9381/23/20/017"
+              ],
+              [
+                "Date",
+                "2006-10-21 2006-10-21"
+              ],
+              [
+                "Extra",
+                "arXiv:gr-qc/0601087"
+              ],
+              [
+                "ISSN",
+                "0264-9381, 1361-6382"
+              ],
+              [
+                "Issue",
+                "20"
+              ],
+              [
+                "Journal Abbreviation",
+                "Class. Quantum Grav."
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "5961-5981"
+              ],
+              [
+                "Publication Title",
+                "Classical and Quantum Gravity"
+              ],
+              [
+                "Title",
+                "Linearized Quantum Gravity Using the Projection Operator Formalism"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/gr-qc/0601087"
+              ],
+              [
+                "Volume",
+                "23"
+              ]
+            ],
+            "resource": "storage/i155.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Quantum Theory of Gravitation",
+            "item-id": "i152",
+            "nodes": [
+              {
+                "text": "Arnowitt and Deser - 1959 - Quantum Theory of Gravitation General Formulation.pdf",
+                "item-id": "i151",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Arnowitt and Deser - 1959 - Quantum Theory of Gravitation General Formulation.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Arnowitt and Deser - 1959 - Quantum Theory of Gravitation General Formulation.pdf"
+                  ]
+                ],
+                "resource": "storage/i151.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Quantum Theory of Gravitation",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-08-13 06:05:47"
+              ],
+              [
+                "Creators",
+                "R. Arnowitt, S. Deser"
+              ],
+              [
+                "DOI",
+                "10.1103/PhysRev.113.745"
+              ],
+              [
+                "Date",
+                "1959-01-15 1959-1-15"
+              ],
+              [
+                "ISSN",
+                "0031-899X"
+              ],
+              [
+                "Issue",
+                "2"
+              ],
+              [
+                "Journal Abbreviation",
+                "Phys. Rev."
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Pages",
+                "745-750"
+              ],
+              [
+                "Publication Title",
+                "Physical Review"
+              ],
+              [
+                "Short Title",
+                "Quantum Theory of Gravitation"
+              ],
+              [
+                "Title",
+                "Quantum Theory of Gravitation: General Formulation and Linearized Theory"
+              ],
+              [
+                "URL",
+                "https://link.aps.org/doi/10.1103/PhysRev.113.745"
+              ],
+              [
+                "Volume",
+                "113"
+              ]
+            ],
+            "resource": "storage/i151.pdf",
+            "selectable": false
+          }
+        ],
+        "item_title": "Linearized quantum gravity",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
         "text": "Loop quantum gravity",
-        "item-id": "c7,iNone",
+        "item-id": "c7,i158",
+        "nodes": [
+          {
+            "text": "Lectures on Loop Quantum Gravity",
+            "item-id": "i158",
+            "nodes": [
+              {
+                "text": "Comment: 90 pages, Latex, 18 figures, uses graphicx and pstricks for coloured text and graphics, based on lectures given",
+                "item-id": "n159",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 90 pages, Latex, 18 figures, uses graphicx and pstricks for coloured text and graphics, based on lectures given",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 90 pages, Latex, 18 figures, uses graphicx and pstricks for coloured text and graphics, based on lectures given at the 271st WE Heraeus Seminar ``Aspects of Quantum Gravity: From Theory to Experimental Search'', Bad Honnef, Germany, February 25th -- March 1st, to appear in Lecture Notes in Physics</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Thiemann - 2003 - Lectures on Loop Quantum Gravity.pdf",
+                "item-id": "i157",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Thiemann - 2003 - Lectures on Loop Quantum Gravity.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Thiemann - 2003 - Lectures on Loop Quantum Gravity.pdf"
+                  ]
+                ],
+                "resource": "storage/i157.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-book",
+            "item_title": "Lectures on Loop Quantum Gravity",
+            "item_type": "bookSection",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "Quantum General Relativity (QGR), sometimes called Loop Quantum Gravity, has matured over the past fifteen years to a mathematically rigorous candidate quantum field theory of the gravitational field. The features that distinguish it from other quantum gravity theories are 1) background independence and 2) minimality of structures. Background independence means that this is a non-perturbative approach in which one does not perturb around a given, distinguished, classical background metric, rather arbitrary fluctuations are allowed, thus precisely encoding the quantum version of Einstein's radical perception that gravity is geometry. Minimality here means that one explores the logical consequences of bringing together the two fundamental principles of modern physics, namely general covariance and quantum theory, without adding any experimentally unverified additional structures. The approach is purposely conservative in order to systematically derive which basic principles of physics have to be given up and must be replaced by more fundamental ones. QGR unifies all presently known interactions in a new sense by quantum mechanically implementing their common symmetry group, the four-dimensional diffeomorphism group, which is almost completely broken in perturbative approaches. These lectures offer a problem -- supported introduction to the subject."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:07:08"
+              ],
+              [
+                "Creators",
+                "Thomas Thiemann"
+              ],
+              [
+                "Date",
+                "2003-00-00 2003"
+              ],
+              [
+                "Extra",
+                "DOI: 10.1007/978-3-540-45230-0_3\narXiv:gr-qc/0210094"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "41-135"
+              ],
+              [
+                "Title",
+                "Lectures on Loop Quantum Gravity"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/gr-qc/0210094"
+              ],
+              [
+                "Volume",
+                "631"
+              ]
+            ],
+            "resource": "storage/i157.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Quantum Theory of Geometry II",
+            "item-id": "i146",
+            "nodes": [
+              {
+                "text": "Ashtekar and Lewandowski - 1997 - Quantum Theory of Geometry II Volume operators.pdf",
+                "item-id": "i144",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Ashtekar and Lewandowski - 1997 - Quantum Theory of Geometry II Volume operators.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Ashtekar and Lewandowski - 1997 - Quantum Theory of Geometry II Volume operators.pdf"
+                  ]
+                ],
+                "resource": "storage/i144.pdf"
+              },
+              {
+                "text": "Comment: Latex, 3 figures",
+                "item-id": "n147",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: Latex, 3 figures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: Latex, 3 figures</div>",
+                "node_type": "note"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Quantum Theory of Geometry II",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "A functional calculus on the space of (generalized) connections was recently introduced without any reference to a background metric. It is used to continue the exploration of the quantum Riemannian geometry. Operators corresponding to volume of three-dimensional regions are regularized rigorously. It is shown that there are two natural regularization schemes, each of which leads to a well-defined operator. Both operators can be completely specified by giving their action on states labelled by graphs. The two final results are closely related but differ from one another in that one of the operators is sensitive to the differential structure of graphs at their vertices while the second is sensitive only to the topological characteristics. (The second operator was first introduced by Rovelli and Smolin and De Pietri and Rovelli using a somewhat different framework.) The difference between the two operators can be attributed directly to the standard quantization ambiguity. Underlying assumptions and subtleties of regularization procedures are discussed in detail in both cases because volume operators play an important role in the current discussions of quantum dynamics."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:01:29"
+              ],
+              [
+                "Archiveid",
+                "arXiv:gr-qc/9711031"
+              ],
+              [
+                "Creators",
+                "Abhay Ashtekar, Jerzy Lewandowski"
+              ],
+              [
+                "Date",
+                "1997-11-10 1997-11-10"
+              ],
+              [
+                "Extra",
+                "arXiv:gr-qc/9711031"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Short Title",
+                "Quantum Theory of Geometry II"
+              ],
+              [
+                "Title",
+                "Quantum Theory of Geometry II: Volume operators"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/gr-qc/9711031"
+              ]
+            ],
+            "resource": "storage/i144.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Quantum Theory of Gravity I",
+            "item-id": "i148",
+            "nodes": [
+              {
+                "text": "Ashtekar and Lewandowski - 1997 - Quantum Theory of Gravity I Area Operators.pdf",
+                "item-id": "i145",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Ashtekar and Lewandowski - 1997 - Quantum Theory of Gravity I Area Operators.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Ashtekar and Lewandowski - 1997 - Quantum Theory of Gravity I Area Operators.pdf"
+                  ]
+                ],
+                "resource": "storage/i145.pdf"
+              },
+              {
+                "text": "Comment: 33 pages, ReVTeX, Section 4 Revised: New results on the effect of topology of a surface on the eigenvalues and ",
+                "item-id": "n149",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 33 pages, ReVTeX, Section 4 Revised: New results on the effect of topology of a surface on the eigenvalues and ",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 33 pages, ReVTeX, Section 4 Revised: New results on the effect of topology of a surface on the eigenvalues and eigenfunctions of its area operator included. The proof of the bound on the level spacing of eigenvalues (for large areas) simplified and its ramification to the Bekenstein-Mukhanov analysis of black-hole evaporation made more explicit. To appear in CQG</div>",
+                "node_type": "note"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Quantum Theory of Gravity I",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "A new functional calculus, developed recently for a fully nonperturbative treatment of quantum gravity, is used to begin a systematic construction of a quantum theory of geometry. Regulated operators corresponding to areas of 2-surfaces are introduced and shown to be self-adjoint on the underlying (kinematical) Hilbert space of states. It is shown that their spectra are purely discrete indicating that the underlying quantum geometry is far from what the continuum picture might suggest. Indeed, the fundamental excitations of quantum geometry are 1-dimensional, rather like polymers, and the 3-dimensional continuum geometry emerges only on coarse graining. The full Hilbert space admits an orthonormal decomposition into \ufb01nite dimensional sub-spaces which can be interpreted as the spaces of states of spin systems. Using this property, the complete spectrum of the area operators is evaluated. The general framework constructed here will be used in a subsequent paper to discuss 3-dimensional geometric operators, e.g., the ones corresponding to volumes of regions."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:01:32"
+              ],
+              [
+                "Creators",
+                "Abhay Ashtekar, Jerzy Lewandowski"
+              ],
+              [
+                "DOI",
+                "10.1088/0264-9381/14/1A/006"
+              ],
+              [
+                "Date",
+                "1997-01-01 1997-01-01"
+              ],
+              [
+                "Extra",
+                "arXiv:gr-qc/9602046"
+              ],
+              [
+                "ISSN",
+                "0264-9381, 1361-6382"
+              ],
+              [
+                "Issue",
+                "1A"
+              ],
+              [
+                "Journal Abbreviation",
+                "Class. Quantum Grav."
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "A55-A81"
+              ],
+              [
+                "Publication Title",
+                "Classical and Quantum Gravity"
+              ],
+              [
+                "Short Title",
+                "Quantum Theory of Gravity I"
+              ],
+              [
+                "Title",
+                "Quantum Theory of Gravity I: Area Operators"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/gr-qc/9602046"
+              ],
+              [
+                "Volume",
+                "14"
+              ]
+            ],
+            "resource": "storage/i145.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Loop quantum gravity",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Noncommutative geometry",
-        "item-id": "c29,iNone",
+        "item-id": "c29,i142",
+        "nodes": [
+          {
+            "text": "Quantum Theory of Geometry III",
+            "item-id": "i142",
+            "nodes": [
+              {
+                "text": "Ashtekar et al. - 1998 - Quantum Theory of Geometry III Non-commutativity .pdf",
+                "item-id": "i141",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Ashtekar et al. - 1998 - Quantum Theory of Geometry III Non-commutativity .pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Ashtekar et al. - 1998 - Quantum Theory of Geometry III Non-commutativity .pdf"
+                  ]
+                ],
+                "resource": "storage/i141.pdf"
+              },
+              {
+                "text": "Comment: 20 pages, revtex, 1 figure. Some typos corrected. References updated",
+                "item-id": "n143",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 20 pages, revtex, 1 figure. Some typos corrected. References updated",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 20 pages, revtex, 1 figure. Some typos corrected. References updated</div>",
+                "node_type": "note"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Quantum Theory of Geometry III",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The basic framework for a systematic construction of a quantum theory of Riemannian geometry was introduced recently. The quantum versions of Riemannian structures \u2013such as triad and area operators\u2013 exhibit a noncommutativity. At \ufb01rst sight, this feature is surprising because it implies that the framework does not admit a triad representation. To better understand this property and to reconcile it with intuition, we analyze its origin in detail. In particular, a careful study of the underlying phase space is made and the feature is traced back to the classical theory; there is no anomaly associated with quantization. We also indicate why the uncertainties associated with this non-commutativity become negligible in the semi-classical regime."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:01:05"
+              ],
+              [
+                "Creators",
+                "Abhay Ashtekar, Alejandro Corichi, Jose A. Zapata"
+              ],
+              [
+                "DOI",
+                "10.1088/0264-9381/15/10/006"
+              ],
+              [
+                "Date",
+                "1998-10-01 1998-10-01"
+              ],
+              [
+                "Extra",
+                "arXiv:gr-qc/9806041"
+              ],
+              [
+                "ISSN",
+                "0264-9381, 1361-6382"
+              ],
+              [
+                "Issue",
+                "10"
+              ],
+              [
+                "Journal Abbreviation",
+                "Class. Quantum Grav."
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "2955-2972"
+              ],
+              [
+                "Publication Title",
+                "Classical and Quantum Gravity"
+              ],
+              [
+                "Short Title",
+                "Quantum Theory of Geometry III"
+              ],
+              [
+                "Title",
+                "Quantum Theory of Geometry III: Non-commutativity of Riemannian Structures"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/gr-qc/9806041"
+              ],
+              [
+                "Volume",
+                "15"
+              ]
+            ],
+            "resource": "storage/i141.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Noncommutative geometry",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "String theory",
         "item-id": "c11,iNone",
         "item_title": "String theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Twistor theory",
+        "item-id": "c133,iNone",
+        "item_title": "Twistor theory",
         "item_type": null,
         "item_note": null,
         "node_type": "collection"
@@ -4347,11 +6554,206 @@ var tree =
       },
       {
         "text": "Quantum foundations",
-        "item-id": "c5,iNone",
+        "item-id": "c5,i192",
+        "nodes": [
+          {
+            "text": "At the Interface of Algebra and Statistics",
+            "item-id": "i192",
+            "nodes": [
+              {
+                "text": "Bradley - 2020 - At the Interface of Algebra and Statistics.pdf",
+                "item-id": "i191",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Bradley - 2020 - At the Interface of Algebra and Statistics.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Bradley - 2020 - At the Interface of Algebra and Statistics.pdf"
+                  ]
+                ],
+                "resource": "storage/i191.pdf"
+              },
+              {
+                "text": "Comment: 135 pages, PhD thesis",
+                "item-id": "n193",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 135 pages, PhD thesis",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 135 pages, PhD thesis</div>",
+                "node_type": "note"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "At the Interface of Algebra and Statistics",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "This thesis takes inspiration from quantum physics to investigate mathematical structure that lies at the interface of algebra and statistics. The starting point is a passage from classical probability theory to quantum probability theory. The quantum version of a probability distribution is a density operator, the quantum version of marginalizing is an operation called the partial trace, and the quantum version of a marginal probability distribution is a reduced density operator. Every joint probability distribution on a finite set can be modeled as a rank one density operator. By applying the partial trace, we obtain reduced density operators whose diagonals recover classical marginal probabilities. In general, these reduced densities will have rank higher than one, and their eigenvalues and eigenvectors will contain extra information that encodes subsystem interactions governed by statistics. We decode this information, and show it is akin to conditional probability, and then investigate the extent to which the eigenvectors capture \"concepts\" inherent in the original joint distribution. The theory is then illustrated with an experiment that exploits these ideas. Turning to a more theoretical application, we also discuss a preliminary framework for modeling entailment and concept hierarchy in natural language, namely, by representing expressions in the language as densities. Finally, initial inspiration for this thesis comes from formal concept analysis, which finds many striking parallels with the linear algebra. The parallels are not coincidental, and a common blueprint is found in category theory. We close with an exposition on free (co)completions and how the free-forgetful adjunctions in which they arise strongly suggest that in certain categorical contexts, the \"fixed points\" of a morphism with its adjoint encode interesting information."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:19:29"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2004.05631"
+              ],
+              [
+                "Creators",
+                "Tai-Danae Bradley"
+              ],
+              [
+                "Date",
+                "2020-04-12 2020-04-12"
+              ],
+              [
+                "Extra",
+                "arXiv:2004.05631 [quant-ph, stat]"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "At the Interface of Algebra and Statistics"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2004.05631"
+              ]
+            ],
+            "resource": "storage/i191.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Quantum states and generalized observables",
+            "item-id": "i179",
+            "nodes": [
+              {
+                "text": "Busch - 2003 - Quantum states and generalized observables a simp.pdf",
+                "item-id": "i178",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Busch - 2003 - Quantum states and generalized observables a simp.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Busch - 2003 - Quantum states and generalized observables a simp.pdf"
+                  ]
+                ],
+                "resource": "storage/i178.pdf"
+              },
+              {
+                "text": "Comment: 3 pages, revtex. New title, and presentation substantially revised, focus now being on the characterization of ",
+                "item-id": "n180",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 3 pages, revtex. New title, and presentation substantially revised, focus now being on the characterization of ",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 3 pages, revtex. New title, and presentation substantially revised, focus now being on the characterization of probability measures on the set of effects rather than the question of hidden variables</div>",
+                "node_type": "note"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Quantum states and generalized observables",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "A quantum state can be understood in a loose sense as a map that assigns a value to every observable. Formalizing this characterization of states in terms of generalized probability distributions on the set of effects, we obtain a simple proof of the result, analogous to Gleason's theorem, that any quantum state is given by a density operator. As a corollary we obtain a von Neumann-type argument against non-contextual hidden variables. It follows that on an individual interpretation of quantum mechanics, the values of effects are appropriately understood as propensities."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:11:11"
+              ],
+              [
+                "Creators",
+                "P. Busch"
+              ],
+              [
+                "DOI",
+                "10.1103/PhysRevLett.91.120403"
+              ],
+              [
+                "Date",
+                "2003-09-19 2003-9-19"
+              ],
+              [
+                "Extra",
+                "arXiv:quant-ph/9909073"
+              ],
+              [
+                "ISSN",
+                "0031-9007, 1079-7114"
+              ],
+              [
+                "Issue",
+                "12"
+              ],
+              [
+                "Journal Abbreviation",
+                "Phys. Rev. Lett."
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "120403"
+              ],
+              [
+                "Publication Title",
+                "Physical Review Letters"
+              ],
+              [
+                "Short Title",
+                "Quantum states and generalized observables"
+              ],
+              [
+                "Title",
+                "Quantum states and generalized observables: a simple proof of Gleason's theorem"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/quant-ph/9909073"
+              ],
+              [
+                "Volume",
+                "91"
+              ]
+            ],
+            "resource": "storage/i178.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Quantum foundations",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Quantum information theory",
@@ -4359,11 +6761,380 @@ var tree =
         "nodes": [
           {
             "text": "Quantum computing",
-            "item-id": "c14,iNone",
+            "item-id": "c14,i171",
+            "nodes": [
+              {
+                "text": "Q-circuit Tutorial",
+                "item-id": "i171",
+                "nodes": [
+                  {
+                    "text": "Comment: Only 6 pages, but with dozens of beautiful circuit diagrams! v2 New measurement gates added (Nielsen & Chuang \"",
+                    "item-id": "n172",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: Only 6 pages, but with dozens of beautiful circuit diagrams! v2 New measurement gates added (Nielsen & Chuang \"",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: Only 6 pages, but with dozens of beautiful circuit diagrams! v2 New measurement gates added (Nielsen & Chuang \"meter\" style and \"D\" shape, a la Cleve). Support for centering and inserting in figures and circuit equations added</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Eastin and Flammia - 2004 - Q-circuit Tutorial.pdf",
+                    "item-id": "i166",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Eastin and Flammia - 2004 - Q-circuit Tutorial.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Title",
+                        "Eastin and Flammia - 2004 - Q-circuit Tutorial.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i166.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Q-circuit Tutorial",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "Q-circuit is a list of macros that greatly simplifies the construction of quantum circuit diagrams (QCDs) in LaTeX with the help of the Xy-pic package. This tutorial should help the reader acquire the skill to render arbitrary QCDs in a matter of minutes. Q-circuit is available for free at http://info.phys.unm.edu/Qcircuit/."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-13 06:08:57"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:quant-ph/0406003"
+                  ],
+                  [
+                    "Creators",
+                    "Bryan Eastin, Steven T. Flammia"
+                  ],
+                  [
+                    "Date",
+                    "2004-08-24 2004-08-24"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:quant-ph/0406003"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "Q-circuit Tutorial"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/quant-ph/0406003"
+                  ]
+                ],
+                "resource": "storage/i166.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Traversable wormhole dynamics on a quantum processor",
+                "item-id": "i167",
+                "nodes": [
+                  {
+                    "text": "Jafferis et al. - 2022 - Traversable wormhole dynamics on a quantum process.pdf",
+                    "item-id": "i163",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Jafferis et al. - 2022 - Traversable wormhole dynamics on a quantum process.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Title",
+                        "Jafferis et al. - 2022 - Traversable wormhole dynamics on a quantum process.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i163.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Traversable wormhole dynamics on a quantum processor",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-13 06:08:48"
+                  ],
+                  [
+                    "Creators",
+                    "Daniel Jafferis, Alexander Zlokapa, Joseph D. Lykken, David K. Kolchmeyer, Samantha I. Davis, Nikolai Lauk, Hartmut Neven, Maria Spiropulu"
+                  ],
+                  [
+                    "DOI",
+                    "10.1038/s41586-022-05424-3"
+                  ],
+                  [
+                    "Date",
+                    "2022-12-01 2022-12-01"
+                  ],
+                  [
+                    "ISSN",
+                    "0028-0836, 1476-4687"
+                  ],
+                  [
+                    "Issue",
+                    "7938"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "Nature"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "DOI.org (Crossref)"
+                  ],
+                  [
+                    "Pages",
+                    "51-55"
+                  ],
+                  [
+                    "Publication Title",
+                    "Nature"
+                  ],
+                  [
+                    "Title",
+                    "Traversable wormhole dynamics on a quantum processor"
+                  ],
+                  [
+                    "URL",
+                    "https://www.nature.com/articles/s41586-022-05424-3"
+                  ],
+                  [
+                    "Volume",
+                    "612"
+                  ]
+                ],
+                "resource": "storage/i163.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Variational Quantum Algorithms",
+                "item-id": "i169",
+                "nodes": [
+                  {
+                    "text": "Cerezo et al. - 2021 - Variational Quantum Algorithms.pdf",
+                    "item-id": "i165",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Cerezo et al. - 2021 - Variational Quantum Algorithms.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Title",
+                        "Cerezo et al. - 2021 - Variational Quantum Algorithms.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i165.pdf"
+                  },
+                  {
+                    "text": "Comment: Review Article. 33 pages, 7 figures. Updated to published version",
+                    "item-id": "n170",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: Review Article. 33 pages, 7 figures. Updated to published version",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: Review Article. 33 pages, 7 figures. Updated to published version</div>",
+                    "node_type": "note"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Variational Quantum Algorithms",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "Applications such as simulating complicated quantum systems or solving large-scale linear algebra problems are very challenging for classical computers due to the extremely high computational cost. Quantum computers promise a solution, although fault-tolerant quantum computers will likely not be available in the near future. Current quantum devices have serious constraints, including limited numbers of qubits and noise processes that limit circuit depth. Variational Quantum Algorithms (VQAs), which use a classical optimizer to train a parametrized quantum circuit, have emerged as a leading strategy to address these constraints. VQAs have now been proposed for essentially all applications that researchers have envisioned for quantum computers, and they appear to the best hope for obtaining quantum advantage. Nevertheless, challenges remain including the trainability, accuracy, and efficiency of VQAs. Here we overview the field of VQAs, discuss strategies to overcome their challenges, and highlight the exciting prospects for using them to obtain quantum advantage."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-13 06:08:54"
+                  ],
+                  [
+                    "Creators",
+                    "M. Cerezo, Andrew Arrasmith, Ryan Babbush, Simon C. Benjamin, Suguru Endo, Keisuke Fujii, Jarrod R. McClean, Kosuke Mitarai, Xiao Yuan, Lukasz Cincio, Patrick J. Coles"
+                  ],
+                  [
+                    "DOI",
+                    "10.1038/s42254-021-00348-9"
+                  ],
+                  [
+                    "Date",
+                    "2021-08-12 2021-08-12"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2012.09265 [quant-ph, stat]"
+                  ],
+                  [
+                    "ISSN",
+                    "2522-5820"
+                  ],
+                  [
+                    "Issue",
+                    "9"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "Nat Rev Phys"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Pages",
+                    "625-644"
+                  ],
+                  [
+                    "Publication Title",
+                    "Nature Reviews Physics"
+                  ],
+                  [
+                    "Title",
+                    "Variational Quantum Algorithms"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2012.09265"
+                  ],
+                  [
+                    "Volume",
+                    "3"
+                  ]
+                ],
+                "resource": "storage/i165.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Variational quantum algorithms",
+                "item-id": "i168",
+                "nodes": [
+                  {
+                    "text": "Cerezo et al. - 2021 - Variational quantum algorithms.pdf",
+                    "item-id": "i164",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Cerezo et al. - 2021 - Variational quantum algorithms.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Title",
+                        "Cerezo et al. - 2021 - Variational quantum algorithms.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i164.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Variational quantum algorithms",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "Applications such as simulating complicated quantum systems or solving large-s cale linear algebra problems are very challenging for classical computers, owing to the extremely high computational cost. Quantum computers promise a solution, although fault-t olerant quantum computers will probably not be available in the near future. Current quantum devices have serious constraints, including limited numbers of qubits and noise processes that limit circuit depth. Variational quantum algorithms (VQAs), which use a classical optimizer to train a parameterized quantum circuit, have emerged as a leading strategy to address these constraints. VQAs have now been proposed for essentially all applications that researchers have envisaged for quantum computers, and they appear to be the best hope for obtaining quantum advantage. Nevertheless, challenges remain, including the trainability, accuracy and efficiency of VQAs. Here we overview the field of VQAs, discuss strategies to overcome their challenges and highlight the exciting prospects for using them to obtain quantum advantage."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-13 06:08:50"
+                  ],
+                  [
+                    "Creators",
+                    "M. Cerezo, Andrew Arrasmith, Ryan Babbush, Simon C. Benjamin, Suguru Endo, Keisuke Fujii, Jarrod R. McClean, Kosuke Mitarai, Xiao Yuan, Lukasz Cincio, Patrick J. Coles"
+                  ],
+                  [
+                    "DOI",
+                    "10.1038/s42254-021-00348-9"
+                  ],
+                  [
+                    "Date",
+                    "2021-08-12 2021-08-12"
+                  ],
+                  [
+                    "ISSN",
+                    "2522-5820"
+                  ],
+                  [
+                    "Issue",
+                    "9"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "Nat Rev Phys"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "DOI.org (Crossref)"
+                  ],
+                  [
+                    "Pages",
+                    "625-644"
+                  ],
+                  [
+                    "Publication Title",
+                    "Nature Reviews Physics"
+                  ],
+                  [
+                    "Title",
+                    "Variational quantum algorithms"
+                  ],
+                  [
+                    "URL",
+                    "https://www.nature.com/articles/s42254-021-00348-9"
+                  ],
+                  [
+                    "Volume",
+                    "3"
+                  ]
+                ],
+                "resource": "storage/i164.pdf",
+                "selectable": false
+              }
+            ],
             "item_title": "Quantum computing",
             "item_type": null,
             "item_note": null,
-            "node_type": "collection"
+            "node_type": "collection",
+            "selectable": false
           }
         ],
         "item_title": "Quantum information theory",
@@ -4374,15 +7145,149 @@ var tree =
       },
       {
         "text": "Quantum mechanics",
-        "item-id": "c86,iNone",
+        "item-id": "c86,i217",
+        "nodes": [
+          {
+            "text": "Geometrical Formulation of Quantum Mechanics",
+            "item-id": "i176",
+            "nodes": [
+              {
+                "text": "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf",
+                "item-id": "i175",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf"
+                  ]
+                ],
+                "resource": "storage/i175.pdf"
+              },
+              {
+                "text": "Comment: 41 pages, ReVTeX",
+                "item-id": "n177",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 41 pages, ReVTeX",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 41 pages, ReVTeX</div>",
+                "node_type": "note"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Geometrical Formulation of Quantum Mechanics",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "States of a quantum mechanical system are represented by rays in a complex Hilbert space. The space of rays has, naturally, the structure of a Ka\u00a8hler manifold. This leads to a geometrical formulation of the postulates of quantum mechanics which, although equivalent to the standard algebraic formulation, has a very di\ufb00erent appearance. In particular, states are now represented by points of a symplectic manifold (which happens to have, in addition, a compatible Riemannian metric), observables are represented by certain realvalued functions on this space and the Schro\u00a8dinger evolution is captured by the symplectic \ufb02ow generated by a Hamiltonian function. There is thus a remarkable similarity with the standard symplectic formulation of classical mechanics. Features\u2014such as uncertainties and state vector reductions\u2014which are speci\ufb01c to quantum mechanics can also be formulated geometrically but now refer to the Riemannian metric\u2014a structure which is absent in classical mechanics. The geometrical formulation sheds considerable light on a number of issues such as the second quantization procedure, the role of coherent states in semi-classical considerations and the WKB approximation. More importantly, it suggests generalizations of quantum mechanics. The simplest among these are equivalent to the dynamical generalizations that have appeared in the literature. The geometrical reformulation provides a uni\ufb01ed framework to discuss these and to correct a misconception. Finally, it also suggests directions in which more radical generalizations may be found."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:10:49"
+              ],
+              [
+                "Archiveid",
+                "arXiv:gr-qc/9706069"
+              ],
+              [
+                "Creators",
+                "Abhay Ashtekar, Troy A. Schilling"
+              ],
+              [
+                "Date",
+                "1997-06-23 1997-06-23"
+              ],
+              [
+                "Extra",
+                "arXiv:gr-qc/9706069"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Geometrical Formulation of Quantum Mechanics"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/gr-qc/9706069"
+              ]
+            ],
+            "resource": "storage/i175.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Lectures on Quantum Theory",
+            "item-id": "i217",
+            "nodes": [
+              {
+                "text": "Schuller - Lectures on Quantum Theory.pdf",
+                "item-id": "i216",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Schuller - Lectures on Quantum Theory.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Schuller - Lectures on Quantum Theory.pdf"
+                  ]
+                ],
+                "resource": "storage/i216.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Lectures on Quantum Theory",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Dr Frederic P Schuller"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Lectures on Quantum Theory"
+              ]
+            ],
+            "resource": "storage/i216.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Quantum mechanics",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Quantum statistical mechanics",
-        "item-id": "c85,iNone",
+        "item-id": "c85,i182",
         "nodes": [
           {
             "text": "Condensed matter physics",
@@ -4391,6 +7296,93 @@ var tree =
             "item_type": null,
             "item_note": null,
             "node_type": "collection"
+          },
+          {
+            "text": "Geometrization of statistical mechanics",
+            "item-id": "i182",
+            "nodes": [
+              {
+                "text": "Brody and Hughston - 1999 - Geometrization of statistical mechanics.pdf",
+                "item-id": "i181",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Brody and Hughston - 1999 - Geometrization of statistical mechanics.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Brody and Hughston - 1999 - Geometrization of statistical mechanics.pdf"
+                  ]
+                ],
+                "resource": "storage/i181.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Geometrization of statistical mechanics",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-08-13 06:11:51"
+              ],
+              [
+                "Creators",
+                "Dorje C. Brody, Lane P. Hughston"
+              ],
+              [
+                "DOI",
+                "10.1098/rspa.1999.0376"
+              ],
+              [
+                "Date",
+                "1999-05-08 1999-05-08"
+              ],
+              [
+                "ISSN",
+                "1364-5021, 1471-2946"
+              ],
+              [
+                "Issue",
+                "1985"
+              ],
+              [
+                "Journal Abbreviation",
+                "Proc. R. Soc. Lond. A"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Pages",
+                "1683-1715"
+              ],
+              [
+                "Publication Title",
+                "Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences"
+              ],
+              [
+                "Title",
+                "Geometrization of statistical mechanics"
+              ],
+              [
+                "URL",
+                "https://royalsocietypublishing.org/doi/10.1098/rspa.1999.0376"
+              ],
+              [
+                "Volume",
+                "455"
+              ]
+            ],
+            "resource": "storage/i181.pdf",
+            "selectable": false
           },
           {
             "text": "Quantum thermodynamics",
