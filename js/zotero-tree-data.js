@@ -648,7 +648,7 @@ var tree =
     "nodes": [
       {
         "text": "Electromagnetism",
-        "item-id": "c80,iNone",
+        "item-id": "c80,i227",
         "nodes": [
           {
             "text": "Galileo-Maxwell theory",
@@ -940,6 +940,90 @@ var tree =
             "item_type": null,
             "item_note": null,
             "node_type": "collection"
+          },
+          {
+            "text": "Universality in the Critical Collapse of the Einstein-Maxwell System",
+            "item-id": "i227",
+            "nodes": [
+              {
+                "text": "Comment: 15 pages, 14 figures",
+                "item-id": "n228",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 15 pages, 14 figures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 15 pages, 14 figures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Reid and Choptuik - 2023 - Universality in the Critical Collapse of the Einst.pdf",
+                "item-id": "i226",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Reid and Choptuik - 2023 - Universality in the Critical Collapse of the Einst.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Reid and Choptuik - 2023 - Universality in the Critical Collapse of the Einst.pdf"
+                  ]
+                ],
+                "resource": "storage/i226.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Universality in the Critical Collapse of the Einstein-Maxwell System",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We report on critical phenomena in the gravitational collapse of the electromagnetic field in axisymmetry using cylindrical coordinates. We perform detailed numerical simulations of four families of dipole and quadrupole initial data fine-tuned to the onset of black hole formation. It has been previously observed that families which bifurcate into two on-axis critical solutions exhibit distinct growth characteristics from those which collapse at the centre of symmetry. In contrast, our results indicate similar growth characteristics and periodicity across all families of initial data, including those examined in earlier works. More precisely, for all families investigated, we observe power-law scaling for the maximum of the electromagnetic field invariant ($\\mathrm{max}|F_{\\mu\\nu}F^{\\mu\\nu}| \\sim |p-p^{\\star}|^{-2\\gamma}$) with $\\gamma \\approx 0.149(9)$. We find evidence of approximate discrete self-similarity in near-critical time evolutions with a log-scale echoing period of $\\Delta \\approx 0.62(8)$ across all families of initial data. Our methodology, while reproducing the results of prior studies up to a point, provides new insights into the later stages of critical searches and we propose a mechanism to explain the observed differences between our work and the previous calculations."
+              ],
+              [
+                "Access Date",
+                "2023-08-15 05:54:32"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2308.03943"
+              ],
+              [
+                "Creators",
+                "Gray D. Reid, Matthew W. Choptuik"
+              ],
+              [
+                "Date",
+                "2023-08-08 2023-08-08"
+              ],
+              [
+                "Extra",
+                "arXiv:2308.03943 [gr-qc]"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Universality in the Critical Collapse of the Einstein-Maxwell System"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2308.03943"
+              ]
+            ],
+            "resource": "storage/i226.pdf",
+            "selectable": false
           }
         ],
         "item_title": "Electromagnetism",
@@ -2469,6 +2553,344 @@ var tree =
         "item-id": "c58,i140",
         "nodes": [
           {
+            "text": "Black holes",
+            "item-id": "c134,i242",
+            "nodes": [
+              {
+                "text": "Echoes from charged black holes influenced by quintessence",
+                "item-id": "i242",
+                "nodes": [
+                  {
+                    "text": "Comment: 15 pages, 8 figures",
+                    "item-id": "n243",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 15 pages, 8 figures",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 15 pages, 8 figures</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i247",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-15 06:01:05"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2305.11200.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i247.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i246",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-15 06:01:04"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2305.11200"
+                      ]
+                    ],
+                    "resource": "storage/i246.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Echoes from charged black holes influenced by quintessence",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "In this paper, we investigate the effective potential and echoes from the dyonic black hole with quintessence. For a dyonic black hole, the quasi-topological electromagnetism provides proper matter energy-momentum tensor to curve the spacetime, and quintessence strengthens this force. We find that when the effect of quintessence becomes stronger, the black hole potential transforms between single-peak and double-peak, which will influence the existence of black hole echoes. In particular, we find that observer will receive a sudden vanishment of high-frequency echoes when quintessence remains a relatively strong effect."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-15 06:00:58"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2305.11200"
+                  ],
+                  [
+                    "Creators",
+                    "Siyuan Hui, Benrong Mu"
+                  ],
+                  [
+                    "Date",
+                    "2023-05-18 2023-05-18"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2305.11200 [gr-qc]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "Echoes from charged black holes influenced by quintessence"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2305.11200"
+                  ]
+                ],
+                "resource": "storage/i247.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Echoes of the regularized dilatonic black hole",
+                "item-id": "i241",
+                "nodes": [
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i245",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-15 06:01:01"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2305.15503.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i245.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i244",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-15 06:01:00"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2305.15503"
+                      ]
+                    ],
+                    "resource": "storage/i244.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Echoes of the regularized dilatonic black hole",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "In present work, the evolution of scalar field and electromagnetic field under the background of the regularized dilatonic black bounces spacetimes are investigated, we obtain an obvious echoes signal which appropriately reports the properties of regularized dilatonic black bounces spacetimes and disclose the physical reasons behind such phenomena. By studying the quasinormal ringdown of the three states of regularized dilatonic black bounces spacetimes, it shows that the echoes signal only appears when $b>2k$."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-15 06:00:53"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2305.15503"
+                  ],
+                  [
+                    "Creators",
+                    "B. Q. Wang, S. R. Wu"
+                  ],
+                  [
+                    "Date",
+                    "2023-05-24 2023-05-24"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2305.15503 [gr-qc]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "Echoes of the regularized dilatonic black hole"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2305.15503"
+                  ]
+                ],
+                "resource": "storage/i245.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Model-agnostic search for the quasinormal modes of gravitational wave echoes",
+                "item-id": "i237",
+                "nodes": [
+                  {
+                    "text": "Comment: 44 pages, 18 figures, 4 tables. Python code to reproduce figures is available at the link http://github.com/her",
+                    "item-id": "n238",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 44 pages, 18 figures, 4 tables. Python code to reproduce figures is available at the link http://github.com/her",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 44 pages, 18 figures, 4 tables. Python code to reproduce figures is available at the link http://github.com/hermione-evans/echomase</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i240",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-15 06:00:31"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2308.01017.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i240.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i239",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-15 06:00:28"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2308.01017"
+                      ]
+                    ],
+                    "resource": "storage/i239.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Model-agnostic search for the quasinormal modes of gravitational wave echoes",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "Post-merger gravitational wave echoes provide a unique opportunity to probe the near-horizon structure of astrophysical black holes, that may be modified due to non-perturbative quantum gravity phenomena. However, since the waveform is subject to large theoretical uncertainties, it is necessary to develop model-agnostic search methods for detecting echoes from observational data. A promising strategy is to identify the characteristic quasinormal modes (QNMs) associated with echoes, {\\it in frequency space}, which complements existing searches of quasiperiodic pulses in time. In this study, we build upon our previous work targeting these modes by incorporating relative phase information to optimize the Bayesian search algorithm. Using a new phase-marginalized likelihood, the performance can be significantly improved for well-resolved QNMs. This enables an efficient model-agnostic search for QNMs of different shapes by using a simple search template. To demonstrate the robustness of the search algorithm, we construct four complementary benchmarks for the echo waveform that span a diverse range of different theoretical possibilities for the near-horizon structure. We then validate our Bayesian search algorithms by injecting the benchmark models into different realizations of Gaussian noise. Using two types of phase-marginalized likelihoods, we find that the search algorithm can efficiently detect the corresponding QNMs. Therefore, our search strategy provides a concrete Bayesian and model-agnostic approach to \"quantum black hole seismology\"."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-15 06:00:22"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2308.01017"
+                  ],
+                  [
+                    "Creators",
+                    "Di Wu, Pengyuan Gao, Jing Ren, Niayesh Afshordi"
+                  ],
+                  [
+                    "Date",
+                    "2023-08-02 2023-08-02"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2308.01017 [gr-qc]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "Model-agnostic search for the quasinormal modes of gravitational wave echoes"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2308.01017"
+                  ]
+                ],
+                "resource": "storage/i240.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "Black holes",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
             "text": "Elements of Astrophysics",
             "item-id": "i140",
             "nodes": [
@@ -2958,7 +3380,7 @@ var tree =
       },
       {
         "text": "Gravitational waves",
-        "item-id": "c59,iNone",
+        "item-id": "c59,i236",
         "item_title": "Gravitational waves",
         "item_type": null,
         "item_note": null,
@@ -3327,7 +3749,7 @@ var tree =
   },
   {
     "text": "General relativity",
-    "item-id": "c3,i219",
+    "item-id": "c3,i236",
     "nodes": [
       {
         "text": "A Generalized Wick Transform for Gravity",
@@ -5781,11 +6203,585 @@ var tree =
       },
       {
         "text": "Twistor theory",
-        "item-id": "c133,iNone",
+        "item-id": "c133,i263",
+        "nodes": [
+          {
+            "text": "Amplituhedron theory",
+            "item-id": "c135,i256",
+            "nodes": [
+              {
+                "text": "Positive Geometries for Scattering Amplitudes in Momentum Space",
+                "item-id": "i256",
+                "nodes": [
+                  {
+                    "text": "Comment: PhD Dissertation",
+                    "item-id": "n257",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: PhD Dissertation",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: PhD Dissertation</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i265",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-16 19:44:16"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2306.05287.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i265.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i260",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-16 19:44:07"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2306.05287"
+                      ]
+                    ],
+                    "resource": "storage/i260.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Positive Geometries for Scattering Amplitudes in Momentum Space",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "Positive geometries provide a purely geometric point of departure for studying scattering amplitudes in quantum field theory. A positive geometry is a specific semi-algebraic set equipped with a unique rational top form - the canonical form. There are known examples where the canonical form of some positive geometry, defined in some kinematic space, encodes a scattering amplitude in some theory. Remarkably, the boundaries of the positive geometry are in bijection with the physical singularities of the scattering amplitude. The Amplituhedron, discovered by Arkani-Hamed and Trnka, is a prototypical positive geometry. It lives in momentum twistor space and describes tree-level (and the integrands of planar loop-level) scattering amplitudes in maximally supersymmetric Yang-Mills theory. In this dissertation, we study three positive geometries defined in on-shell momentum space: the Arkani-Hamed-Bai-He-Yan (ABHY) associahedron, the Momentum Amplituhedron, and the orthogonal Momentum Amplituhedron. Each describes tree-level scattering amplitudes for different theories in different spacetime dimensions. The three positive geometries share a series of interrelations in terms of their boundary posets and canonical forms. We review these relationships in detail, highlighting the author's contributions. We study their boundary posets, classifying all boundaries and hence all physical singularities at the tree level. We develop new combinatorial results to derive rank-generating functions which enumerate boundaries according to their dimension. These generating functions allow us to prove that the Euler characteristics of the three positive geometries are one. In addition, we discuss methods for manipulating canonical forms using ideas from computational algebraic geometry."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-16 19:44:00"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2306.05287"
+                  ],
+                  [
+                    "Creators",
+                    "Robert Moerman"
+                  ],
+                  [
+                    "Date",
+                    "2023-06-08 2023-06-08"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2306.05287 [hep-th]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "Positive Geometries for Scattering Amplitudes in Momentum Space"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2306.05287"
+                  ]
+                ],
+                "resource": "storage/i265.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Prescriptive Unitarity from Positive Geometries",
+                "item-id": "i248",
+                "nodes": [
+                  {
+                    "text": "Comment: 41 pages, 23 figures",
+                    "item-id": "n249",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 41 pages, 23 figures",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 41 pages, 23 figures</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i251",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-16 19:43:00"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2308.02438.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i251.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i250",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-16 19:42:57"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2308.02438"
+                      ]
+                    ],
+                    "resource": "storage/i250.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Prescriptive Unitarity from Positive Geometries",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "In this paper, we define the momentum amplituhedron in the four-dimensional split-signature space of dual momenta. It encodes scattering amplitudes at tree level and loop integrands for N=4 super Yang-Mills in the planar sector. In this description, every point in the tree-level geometry is specified by a null polygon. Using the null structure of this kinematic space, we find a geometry whose canonical differential form produces loop-amplitude integrands. Remarkably, at one loop it is a curvy version of a simple polytope, whose vertices are specified by maximal cuts of the amplitude. This construction allows us to find novel formulae for the one-loop integrands for amplitudes with any multiplicity and helicity. The formulae obtained in this way agree with the ones derived via prescriptive unitarity. It makes prescriptive unitarity naturally emerge from this geometric description."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-16 19:42:49"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2308.02438"
+                  ],
+                  [
+                    "Creators",
+                    "Livia Ferro, Ross Glew, Tomasz Lukowski, Jonah Stalknecht"
+                  ],
+                  [
+                    "Date",
+                    "2023-08-04 2023-08-04"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2308.02438 [hep-th]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "Prescriptive Unitarity from Positive Geometries"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2308.02438"
+                  ]
+                ],
+                "resource": "storage/i251.pdf",
+                "selectable": false
+              },
+              {
+                "text": "The ABJM Momentum Amplituhedron -- ABJM Scattering Amplitudes From Configurations of Points in Minkowski Space",
+                "item-id": "i252",
+                "nodes": [
+                  {
+                    "text": "Comment: 6 pages, 3 figures. v2: typos fixed, references added",
+                    "item-id": "n253",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 6 pages, 3 figures. v2: typos fixed, references added",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 6 pages, 3 figures. v2: typos fixed, references added</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i255",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-16 19:43:55"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2306.07312.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i255.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i254",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-16 19:43:51"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2306.07312"
+                      ]
+                    ],
+                    "resource": "storage/i254.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "The ABJM Momentum Amplituhedron -- ABJM Scattering Amplitudes From Configurations of Points in Minkowski Space",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "In this paper, we define the ABJM loop momentum amplituhedron, which is a geometry encoding ABJM planar tree-level amplitudes and loop integrands in the three-dimensional spinor helicity space. Translating it to the space of dual momenta produces a remarkably simple geometry given by configurations of space-like separated off-shell momenta living inside a curvy polytope defined by momenta of scattered particles. We conjecture that the canonical differential form on this space gives amplitude integrands, and we provide a new formula for all one-loop $n$-particle integrands in the positive branch. For higher loop orders, we utilize the causal structure of configurations of points in Minkowski space to explain the singularity structure for known results at two loops."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-16 19:43:44"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2306.07312"
+                  ],
+                  [
+                    "Creators",
+                    "Tomasz Lukowski, Jonah Stalknecht"
+                  ],
+                  [
+                    "Date",
+                    "2023-07-07 2023-07-07"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2306.07312 [hep-th]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "The ABJM Momentum Amplituhedron -- ABJM Scattering Amplitudes From Configurations of Points in Minkowski Space"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2306.07312"
+                  ]
+                ],
+                "resource": "storage/i255.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "Amplituhedron theory",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "Double-Copying Self-Dual Yang-Mills Theory to Self-Dual Gravity on Twistor Space",
+            "item-id": "i263",
+            "nodes": [
+              {
+                "text": "Comment: 19 pages",
+                "item-id": "n264",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 19 pages",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 19 pages</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i267",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-16 19:44:26"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2307.10383.pdf"
+                  ]
+                ],
+                "resource": "storage/i267.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i266",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-16 19:44:21"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2307.10383"
+                  ]
+                ],
+                "resource": "storage/i266.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Double-Copying Self-Dual Yang-Mills Theory to Self-Dual Gravity on Twistor Space",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We construct a simple Lorentz-invariant action for maximally supersymmetric self-dual Yang-Mills theory that manifests colour-kinematics duality. We also show that this action double copies to a known action for maximally supersymmetric self-dual gravity. Both actions live on twistor space and illustrate nicely the homotopy algebraic perspective on the double copy presented in arXiv:2307.02563. This example is particularly interesting as the involved Hopf algebra controlling the momentum dependence is non-commutative and suggests a generalisation to gauged maximally supersymmetric self-dual gravity."
+              ],
+              [
+                "Access Date",
+                "2023-08-16 19:44:13"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2307.10383"
+              ],
+              [
+                "Creators",
+                "Leron Borsten, Branislav Jurco, Hyungrok Kim, Tommaso Macrelli, Christian Saemann, Martin Wolf"
+              ],
+              [
+                "Date",
+                "2023-07-19 2023-07-19"
+              ],
+              [
+                "Extra",
+                "arXiv:2307.10383 [hep-th, physics:math-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Double-Copying Self-Dual Yang-Mills Theory to Self-Dual Gravity on Twistor Space"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2307.10383"
+              ]
+            ],
+            "resource": "storage/i267.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Twistors, charge structure, and BMS symmetries",
+            "item-id": "i258",
+            "nodes": [
+              {
+                "text": "Comment: 20 pages",
+                "item-id": "n259",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 20 pages",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 20 pages</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i262",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-16 19:44:13"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2307.14534.pdf"
+                  ]
+                ],
+                "resource": "storage/i262.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i261",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-16 19:44:11"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2307.14534"
+                  ]
+                ],
+                "resource": "storage/i261.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Twistors, charge structure, and BMS symmetries",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "Corresponding to the Bondi-Metzner-Sachs (BMS) symmetry algebra of asymptotically-flat spacetimes are a set of BMS charges. These are formally constructed via the symplectic formalism of Wald and Zoupas, but the same charge expression may be arrived at by the simpler twistorial procedure of Dray and Streubel. Here, we formalize the connection between twistors and asymptotic symmetries which underlies the Dray-Streubel charge by demonstrating an isomorphism between twistors in flat spacetime and twistors on radiation-free sections of $\\mathscr{I}^+$. In the corresponding formalism, the Dray-Streubel charge finds a natural reinterpretation as exactly the part of Penrose's twistorial charge which is invariant with respect to a certain gauge transformation. Furthermore, we argue that the twistorial picture of the radiative phase space, properly formalized, provides a tool alongside the symplectic formalism or shear structure for analyzing radiative data on $\\mathscr{I}^+$."
+              ],
+              [
+                "Access Date",
+                "2023-08-16 19:44:04"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2307.14534"
+              ],
+              [
+                "Creators",
+                "Alex Goodenbour"
+              ],
+              [
+                "Date",
+                "2023-07-26 2023-07-26"
+              ],
+              [
+                "Extra",
+                "arXiv:2307.14534 [gr-qc]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Twistors, charge structure, and BMS symmetries"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2307.14534"
+              ]
+            ],
+            "resource": "storage/i262.pdf",
+            "selectable": false
+          }
+        ],
         "item_title": "Twistor theory",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       }
     ],
     "item_title": "Quantum gravity",
