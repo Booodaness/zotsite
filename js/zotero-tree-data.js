@@ -1100,11 +1100,146 @@ var tree =
         "nodes": [
           {
             "text": "Fluid mechanics",
-            "item-id": "c93,iNone",
+            "item-id": "c93,i308",
+            "nodes": [
+              {
+                "text": "Stable and causal relativistic Navier-Stokes equations",
+                "item-id": "i308",
+                "nodes": [
+                  {
+                    "text": "Comment: V2: Appendix on the Landau-Lifshitz frame added",
+                    "item-id": "n309",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: V2: Appendix on the Landau-Lifshitz frame added",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: V2: Appendix on the Landau-Lifshitz frame added</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i311",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 04:03:50"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2004.04102.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i311.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i310",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 04:03:49"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2004.04102"
+                      ]
+                    ],
+                    "resource": "storage/i310.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Stable and causal relativistic Navier-Stokes equations",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "Relativistic Navier-Stokes equations express the conservation of the energy-momentum tensor and the particle number current in terms of the local hydrodynamic variables: temperature, fluid velocity, and the chemical potential. We show that the viscous-fluid equations are stable and causal if one adopts suitable non-equilibrium definitions of the hydrodynamic variables."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-21 04:03:40"
+                  ],
+                  [
+                    "Creators",
+                    "Raphael E. Hoult, Pavel Kovtun"
+                  ],
+                  [
+                    "DOI",
+                    "10.1007/JHEP06(2020)067"
+                  ],
+                  [
+                    "Date",
+                    "2020-06-00 06/2020"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2004.04102 [gr-qc, physics:hep-ph, physics:hep-th]"
+                  ],
+                  [
+                    "ISSN",
+                    "1029-8479"
+                  ],
+                  [
+                    "Issue",
+                    "6"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "J. High Energ. Phys."
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Pages",
+                    "67"
+                  ],
+                  [
+                    "Publication Title",
+                    "Journal of High Energy Physics"
+                  ],
+                  [
+                    "Title",
+                    "Stable and causal relativistic Navier-Stokes equations"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2004.04102"
+                  ],
+                  [
+                    "Volume",
+                    "2020"
+                  ]
+                ],
+                "resource": "storage/i311.pdf",
+                "selectable": false
+              }
+            ],
             "item_title": "Fluid mechanics",
             "item_type": null,
             "item_note": null,
-            "node_type": "collection"
+            "node_type": "collection",
+            "selectable": false
           }
         ],
         "item_title": "Continuum mechanics",
@@ -1203,6 +1338,14 @@ var tree =
         ],
         "resource": "storage/i47.pdf",
         "selectable": false
+      },
+      {
+        "text": "Nambu mechanics",
+        "item-id": "c136,iNone",
+        "item_title": "Nambu mechanics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
       },
       {
         "text": "Statistical mechanics",
@@ -2554,7 +2697,7 @@ var tree =
         "nodes": [
           {
             "text": "Black holes",
-            "item-id": "c134,i242",
+            "item-id": "c134,i284",
             "nodes": [
               {
                 "text": "Echoes from charged black holes influenced by quintessence",
@@ -2769,6 +2912,270 @@ var tree =
                   ]
                 ],
                 "resource": "storage/i245.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Membrane Paradigm from Near Horizon Soft Hair",
+                "item-id": "i284",
+                "nodes": [
+                  {
+                    "text": "Comment: 6 pages, Essay awarded an honorable mention in the Gravity Research Foundation 2018 Awards for Essays on Gravit",
+                    "item-id": "n285",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 6 pages, Essay awarded an honorable mention in the Gravity Research Foundation 2018 Awards for Essays on Gravit",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 6 pages, Essay awarded an honorable mention in the Gravity Research Foundation 2018 Awards for Essays on Gravitation</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i287",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:32:01"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/1805.11099.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i287.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i286",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:32:00"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/1805.11099"
+                      ]
+                    ],
+                    "resource": "storage/i286.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Membrane Paradigm from Near Horizon Soft Hair",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "The membrane paradigm posits that black hole microstates are dynamical degrees of freedom associated with a physical membrane vanishingly close to the black hole's event horizon. The soft hair paradigm postulates that black holes can be equipped with zero-energy charges associated with residual diffeomorphisms that label near horizon degrees of freedom. In this essay we argue that the latter paradigm implies the former. More specifically, we exploit suitable near horizon boundary conditions that lead to an algebra of `soft hair charges' containing infinite copies of the Heisenberg algebra, associated with area-preserving shear deformations of black hole horizons. We employ the near horizon soft hair and its Heisenberg algebra to provide a formulation of the membrane paradigm and show how it accounts for black hole entropy."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-21 03:31:53"
+                  ],
+                  [
+                    "Creators",
+                    "D. Grumiller, M. M. Sheikh-Jabbari"
+                  ],
+                  [
+                    "DOI",
+                    "10.1142/S0218271818470065"
+                  ],
+                  [
+                    "Date",
+                    "2018-10-00 10/2018"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:1805.11099 [gr-qc, physics:hep-th]"
+                  ],
+                  [
+                    "ISSN",
+                    "0218-2718, 1793-6594"
+                  ],
+                  [
+                    "Issue",
+                    "14"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "Int. J. Mod. Phys. D"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Pages",
+                    "1847006"
+                  ],
+                  [
+                    "Publication Title",
+                    "International Journal of Modern Physics D"
+                  ],
+                  [
+                    "Title",
+                    "Membrane Paradigm from Near Horizon Soft Hair"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/1805.11099"
+                  ],
+                  [
+                    "Volume",
+                    "27"
+                  ]
+                ],
+                "resource": "storage/i287.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Membrane paradigm and entropy of black holes in the Euclidean action approach",
+                "item-id": "i280",
+                "nodes": [
+                  {
+                    "text": "Comment: 13 pages",
+                    "item-id": "n281",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 13 pages",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 13 pages</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i283",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:31:41"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/1108.1801.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i283.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i282",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:31:40"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/1108.1801"
+                      ]
+                    ],
+                    "resource": "storage/i282.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Membrane paradigm and entropy of black holes in the Euclidean action approach",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "The membrane paradigm approach to black holes fixes in the vicinity of the event horizon a fictitious surface, the stretched horizon, so that the spacetime outside remains unchanged and the spacetime inside is vacuum. Using this powerful method, several black hole properties have been found and settled, such as the horizon's viscosity, electrical conductivity, resistivity, as well as other properties. On the other hand the Euclidean action approach to black hole spacetimes has been very fruitful in understanding black hole entropy. Combining both the Euclidean action and membrane paradigm approaches a direct derivation of the black hole entropy is given. In the derivation it is considered that the only fields present are the gravitational and matter fields, with no electric field."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-21 03:31:32"
+                  ],
+                  [
+                    "Creators",
+                    "Jos\u00e9 P. S. Lemos, Oleg B. Zaslavskii"
+                  ],
+                  [
+                    "DOI",
+                    "10.1103/PhysRevD.84.064017"
+                  ],
+                  [
+                    "Date",
+                    "2011-09-15 2011-9-15"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:1108.1801 [astro-ph, physics:gr-qc, physics:hep-th]"
+                  ],
+                  [
+                    "ISSN",
+                    "1550-7998, 1550-2368"
+                  ],
+                  [
+                    "Issue",
+                    "6"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "Phys. Rev. D"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Pages",
+                    "064017"
+                  ],
+                  [
+                    "Publication Title",
+                    "Physical Review D"
+                  ],
+                  [
+                    "Title",
+                    "Membrane paradigm and entropy of black holes in the Euclidean action approach"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/1108.1801"
+                  ],
+                  [
+                    "Volume",
+                    "84"
+                  ]
+                ],
+                "resource": "storage/i283.pdf",
                 "selectable": false
               },
               {
@@ -3742,6 +4149,200 @@ var tree =
       }
     ],
     "item_title": "Cosmology",
+    "item_type": null,
+    "item_note": null,
+    "node_type": "collection",
+    "selectable": false
+  },
+  {
+    "text": "Formal logic",
+    "item-id": "c145,iNone",
+    "nodes": [
+      {
+        "text": "Algebraic logic",
+        "item-id": "c148,iNone",
+        "nodes": [
+          {
+            "text": "Cylindric algebra",
+            "item-id": "c149,iNone",
+            "item_title": "Cylindric algebra",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Heyting algebra",
+            "item-id": "c150,iNone",
+            "item_title": "Heyting algebra",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Algebraic logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Classical logic",
+        "item-id": "c146,iNone",
+        "item_title": "Classical logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Computability theory",
+        "item-id": "c160,iNone",
+        "item_title": "Computability theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Intuitionistic logic",
+        "item-id": "c151,iNone",
+        "item_title": "Intuitionistic logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Many-valued logic",
+        "item-id": "c152,iNone",
+        "nodes": [
+          {
+            "text": "Finite-valued logic",
+            "item-id": "c164,iNone",
+            "item_title": "Finite-valued logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Infinite-valued logic",
+            "item-id": "c165,iNone",
+            "nodes": [
+              {
+                "text": "Fuzzy logic",
+                "item-id": "c153,iNone",
+                "item_title": "Fuzzy logic",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection"
+              }
+            ],
+            "item_title": "Infinite-valued logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          }
+        ],
+        "item_title": "Many-valued logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Modal logics",
+        "item-id": "c147,iNone",
+        "nodes": [
+          {
+            "text": "Deontic logic",
+            "item-id": "c156,iNone",
+            "item_title": "Deontic logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Doxastic logic",
+            "item-id": "c157,iNone",
+            "item_title": "Doxastic logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Epistemic logic",
+            "item-id": "c154,iNone",
+            "item_title": "Epistemic logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Provability logic",
+            "item-id": "c162,iNone",
+            "item_title": "Provability logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Temporal logic",
+            "item-id": "c155,iNone",
+            "item_title": "Temporal logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Modal logics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Model theory",
+        "item-id": "c166,iNone",
+        "item_title": "Model theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Proof theory",
+        "item-id": "c159,iNone",
+        "item_title": "Proof theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Reverse mathematics",
+        "item-id": "c163,iNone",
+        "item_title": "Reverse mathematics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Type theory",
+        "item-id": "c161,iNone",
+        "nodes": [
+          {
+            "text": "Lambda calculus",
+            "item-id": "c158,iNone",
+            "item_title": "Lambda calculus",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Type theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      }
+    ],
+    "item_title": "Formal logic",
     "item_type": null,
     "item_note": null,
     "node_type": "collection",
@@ -5102,6 +5703,63 @@ var tree =
             "node_type": "collection"
           },
           {
+            "text": "Nambu-Poisson geometry",
+            "item-id": "c139,iNone",
+            "nodes": [
+              {
+                "text": "Poisson geometry",
+                "item-id": "c137,iNone",
+                "nodes": [
+                  {
+                    "text": "Symplectic geometry",
+                    "item-id": "c16,i49",
+                    "nodes": [
+                      {
+                        "text": "lsg.pdf",
+                        "item-id": "i49",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "lsg.pdf",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-08-12 05:41:26"
+                          ],
+                          [
+                            "Title",
+                            "lsg.pdf"
+                          ],
+                          [
+                            "URL",
+                            "https://people.math.ethz.ch/~acannas/Papers/lsg.pdf"
+                          ]
+                        ],
+                        "resource": "storage/i49.pdf"
+                      }
+                    ],
+                    "item_title": "Symplectic geometry",
+                    "item_type": null,
+                    "item_note": null,
+                    "node_type": "collection",
+                    "selectable": false
+                  }
+                ],
+                "item_title": "Poisson geometry",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection",
+                "selectable": false
+              }
+            ],
+            "item_title": "Nambu-Poisson geometry",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
             "text": "Notes on Di\ufb00erential Geometry and Lie Groups",
             "item-id": "i208",
             "nodes": [
@@ -5255,49 +5913,17 @@ var tree =
           {
             "text": "Pseudo-Riemannian geometry",
             "item-id": "c60,iNone",
-            "item_title": "Pseudo-Riemannian geometry",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          },
-          {
-            "text": "Riemannian geometry",
-            "item-id": "c40,iNone",
-            "item_title": "Riemannian geometry",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          },
-          {
-            "text": "Symplectic geometry",
-            "item-id": "c16,i49",
             "nodes": [
               {
-                "text": "lsg.pdf",
-                "item-id": "i49",
-                "icon": "glyphicon glyphicon-paperclip",
-                "item_title": "lsg.pdf",
-                "item_type": "attachment",
+                "text": "Riemannian geometry",
+                "item-id": "c40,iNone",
+                "item_title": "Riemannian geometry",
+                "item_type": null,
                 "item_note": null,
-                "node_type": "item",
-                "metadata": [
-                  [
-                    "Access Date",
-                    "2023-08-12 05:41:26"
-                  ],
-                  [
-                    "Title",
-                    "lsg.pdf"
-                  ],
-                  [
-                    "URL",
-                    "https://people.math.ethz.ch/~acannas/Papers/lsg.pdf"
-                  ]
-                ],
-                "resource": "storage/i49.pdf"
+                "node_type": "collection"
               }
             ],
-            "item_title": "Symplectic geometry",
+            "item_title": "Pseudo-Riemannian geometry",
             "item_type": null,
             "item_note": null,
             "node_type": "collection",
@@ -5309,6 +5935,14 @@ var tree =
         "item_note": null,
         "node_type": "collection",
         "selectable": false
+      },
+      {
+        "text": "Knot theory",
+        "item-id": "c138,iNone",
+        "item_title": "Knot theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
       },
       {
         "text": "Lectures on the Geometric Anatomy of Theoretical Physics",
@@ -6196,10 +6830,382 @@ var tree =
       {
         "text": "String theory",
         "item-id": "c11,iNone",
+        "nodes": [
+          {
+            "text": "Holography",
+            "item-id": "c141,iNone",
+            "nodes": [
+              {
+                "text": "AdS/CFT",
+                "item-id": "c140,i276",
+                "nodes": [
+                  {
+                    "text": "The fluid/gravity correspondence",
+                    "item-id": "i276",
+                    "nodes": [
+                      {
+                        "text": "Comment: 41 pages, Chapter of a book \"Black Holes in Higher Dimensions\" to be published by Cambridge University Press (e",
+                        "item-id": "n277",
+                        "icon": "glyphicon glyphicon-text-background",
+                        "item_title": "Comment: 41 pages, Chapter of a book \"Black Holes in Higher Dimensions\" to be published by Cambridge University Press (e",
+                        "item_type": "note",
+                        "item_note": "<div class=\"zotero-note znv1\">Comment: 41 pages, Chapter of a book \"Black Holes in Higher Dimensions\" to be published by Cambridge University Press (editor: G. Horowitz)</div>",
+                        "node_type": "note"
+                      },
+                      {
+                        "text": "Full Text PDF",
+                        "item-id": "i279",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "Full Text PDF",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-08-21 03:29:46"
+                          ],
+                          [
+                            "Title",
+                            "Full Text PDF"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/pdf/1107.5780.pdf"
+                          ]
+                        ],
+                        "resource": "storage/i279.pdf"
+                      },
+                      {
+                        "text": "arXiv.org Snapshot",
+                        "item-id": "i278",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "arXiv.org Snapshot",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-08-21 03:29:44"
+                          ],
+                          [
+                            "Title",
+                            "arXiv.org Snapshot"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/abs/1107.5780"
+                          ]
+                        ],
+                        "resource": "storage/i278.html"
+                      }
+                    ],
+                    "icon": "glyphicon glyphicon-unchecked",
+                    "item_title": "The fluid/gravity correspondence",
+                    "item_type": "preprint",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Abstract Note",
+                        "We review the fluid/gravity correspondence which relates the dynamics of Einstein's equations (with negative cosmological constant) to the dynamics of relativistic Navier-Stokes equations."
+                      ],
+                      [
+                        "Access Date",
+                        "2023-08-21 03:29:33"
+                      ],
+                      [
+                        "Archiveid",
+                        "arXiv:1107.5780"
+                      ],
+                      [
+                        "Creators",
+                        "Veronika E. Hubeny, Shiraz Minwalla, Mukund Rangamani"
+                      ],
+                      [
+                        "Date",
+                        "2011-07-28 2011-07-28"
+                      ],
+                      [
+                        "Extra",
+                        "arXiv:1107.5780 [gr-qc, physics:hep-th, physics:physics]"
+                      ],
+                      [
+                        "Library Catalog",
+                        "arXiv.org"
+                      ],
+                      [
+                        "Repository",
+                        "arXiv"
+                      ],
+                      [
+                        "Title",
+                        "The fluid/gravity correspondence"
+                      ],
+                      [
+                        "URL",
+                        "http://arxiv.org/abs/1107.5780"
+                      ]
+                    ],
+                    "resource": "storage/i279.pdf",
+                    "selectable": false
+                  }
+                ],
+                "item_title": "AdS/CFT",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection",
+                "selectable": false
+              },
+              {
+                "text": "Celestial holography",
+                "item-id": "c142,i270",
+                "nodes": [
+                  {
+                    "text": "Celestial Holography",
+                    "item-id": "i268",
+                    "nodes": [
+                      {
+                        "text": "Comment: contribution to Snowmass 2022",
+                        "item-id": "n269",
+                        "icon": "glyphicon glyphicon-text-background",
+                        "item_title": "Comment: contribution to Snowmass 2022",
+                        "item_type": "note",
+                        "item_note": "<div class=\"zotero-note znv1\">Comment: contribution to Snowmass 2022</div>",
+                        "node_type": "note"
+                      },
+                      {
+                        "text": "Full Text PDF",
+                        "item-id": "i273",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "Full Text PDF",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-08-19 03:53:14"
+                          ],
+                          [
+                            "Title",
+                            "Full Text PDF"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/pdf/2111.11392.pdf"
+                          ]
+                        ],
+                        "resource": "storage/i273.pdf"
+                      },
+                      {
+                        "text": "arXiv.org Snapshot",
+                        "item-id": "i272",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "arXiv.org Snapshot",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-08-19 03:53:13"
+                          ],
+                          [
+                            "Title",
+                            "arXiv.org Snapshot"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/abs/2111.11392"
+                          ]
+                        ],
+                        "resource": "storage/i272.html"
+                      }
+                    ],
+                    "icon": "glyphicon glyphicon-unchecked",
+                    "item_title": "Celestial Holography",
+                    "item_type": "preprint",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Abstract Note",
+                        "Celestial holography proposes a duality between the gravitational $\\mathcal{S}$-matrix and correlators in a conformal field theory living on the celestial sphere. In this white paper, solicited for the 2022 Snowmass process, we review the motivation from asymptotic symmetries, fundamentals of the proposed holographic dictionary, potential applications to experiment and theory, and some important open questions."
+                      ],
+                      [
+                        "Access Date",
+                        "2023-08-19 03:53:07"
+                      ],
+                      [
+                        "Archiveid",
+                        "arXiv:2111.11392"
+                      ],
+                      [
+                        "Creators",
+                        "Sabrina Pasterski, Monica Pate, Ana-Maria Raclariu"
+                      ],
+                      [
+                        "Date",
+                        "2021-11-22 2021-11-22"
+                      ],
+                      [
+                        "Extra",
+                        "arXiv:2111.11392 [hep-th]"
+                      ],
+                      [
+                        "Library Catalog",
+                        "arXiv.org"
+                      ],
+                      [
+                        "Repository",
+                        "arXiv"
+                      ],
+                      [
+                        "Title",
+                        "Celestial Holography"
+                      ],
+                      [
+                        "URL",
+                        "http://arxiv.org/abs/2111.11392"
+                      ]
+                    ],
+                    "resource": "storage/i273.pdf",
+                    "selectable": false
+                  },
+                  {
+                    "text": "Celestial Holography Revisited",
+                    "item-id": "i270",
+                    "nodes": [
+                      {
+                        "text": "Comment: 17 pages + appendices, 2 figures",
+                        "item-id": "n271",
+                        "icon": "glyphicon glyphicon-text-background",
+                        "item_title": "Comment: 17 pages + appendices, 2 figures",
+                        "item_type": "note",
+                        "item_note": "<div class=\"zotero-note znv1\">Comment: 17 pages + appendices, 2 figures</div>",
+                        "node_type": "note"
+                      },
+                      {
+                        "text": "Full Text PDF",
+                        "item-id": "i275",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "Full Text PDF",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-08-19 03:53:16"
+                          ],
+                          [
+                            "Title",
+                            "Full Text PDF"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/pdf/2301.01810.pdf"
+                          ]
+                        ],
+                        "resource": "storage/i275.pdf"
+                      },
+                      {
+                        "text": "arXiv.org Snapshot",
+                        "item-id": "i274",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "arXiv.org Snapshot",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-08-19 03:53:15"
+                          ],
+                          [
+                            "Title",
+                            "arXiv.org Snapshot"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/abs/2301.01810"
+                          ]
+                        ],
+                        "resource": "storage/i274.html"
+                      }
+                    ],
+                    "icon": "glyphicon glyphicon-unchecked",
+                    "item_title": "Celestial Holography Revisited",
+                    "item_type": "preprint",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Abstract Note",
+                        "We revisit the prescription commonly used to define holographic Celestial Correlators as an integral transform of flat space scattering amplitudes. We propose a new prescription according to which holographic Celestial Correlators are a Mellin transform of Minkowski time-ordered correlators extrapolated to the conformal boundary, which is analogous to the extrapolate definition of holographic correlators in AdS/CFT. Our proposal is motivated by an ambiguity in the standard prescription for Celestial Correlators owing the presence of a divergent integral in the definition of conformal primary wave functions. We show that perturbative Celestial Correlators defined in this new way are manifestly recast in terms of corresponding Witten diagrams in Euclidean anti-de Sitter space. We also discuss the possibility of using this definition of Celestial Correlators in terms of bulk correlation functions to explore the non-perturbative properties of Celestial Correlators dual to Conformal Field Theories in Minkowski space."
+                      ],
+                      [
+                        "Access Date",
+                        "2023-08-19 03:53:10"
+                      ],
+                      [
+                        "Archiveid",
+                        "arXiv:2301.01810"
+                      ],
+                      [
+                        "Creators",
+                        "Charlotte Sleight, Massimo Taronna"
+                      ],
+                      [
+                        "Date",
+                        "2023-01-04 2023-01-04"
+                      ],
+                      [
+                        "Extra",
+                        "arXiv:2301.01810 [hep-th]"
+                      ],
+                      [
+                        "Library Catalog",
+                        "arXiv.org"
+                      ],
+                      [
+                        "Repository",
+                        "arXiv"
+                      ],
+                      [
+                        "Title",
+                        "Celestial Holography Revisited"
+                      ],
+                      [
+                        "URL",
+                        "http://arxiv.org/abs/2301.01810"
+                      ]
+                    ],
+                    "resource": "storage/i275.pdf",
+                    "selectable": false
+                  }
+                ],
+                "item_title": "Celestial holography",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection",
+                "selectable": false
+              }
+            ],
+            "item_title": "Holography",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          }
+        ],
         "item_title": "String theory",
         "item_type": null,
         "item_note": null,
-        "node_type": "collection"
+        "node_type": "collection",
+        "selectable": false
       },
       {
         "text": "Twistor theory",
@@ -7753,8 +8759,120 @@ var tree =
       },
       {
         "text": "Quantum information theory",
-        "item-id": "c13,iNone",
+        "item-id": "c13,i288",
         "nodes": [
+          {
+            "text": "Completeness of the ZX-calculus",
+            "item-id": "i288",
+            "nodes": [
+              {
+                "text": "Comment: 178 pages, PhD thesis",
+                "item-id": "n289",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 178 pages, PhD thesis",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 178 pages, PhD thesis</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i291",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-21 03:36:56"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2209.14894.pdf"
+                  ]
+                ],
+                "resource": "storage/i291.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i290",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-21 03:36:48"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2209.14894"
+                  ]
+                ],
+                "resource": "storage/i290.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Completeness of the ZX-calculus",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The ZX-calculus is an intuitive but also mathematically strict graphical language for quantum computing, which is especially powerful for the framework of quantum circuits. Completeness of the ZX-calculus means any equality of matrices with size powers of $n$ can be derived purely diagrammatically. In this thesis, we give the first complete axiomatisation the ZX-calculus for the overall pure qubit quantum mechanics, via a translation from the completeness result of another graphical language for quantum computing -- the ZW-calculus. This paves the way for automated pictorial quantum computing, with the aid of some software like Quantomatic. Based on this universal completeness, we directly obtain a complete axiomatisation of the ZX-calculus for the Clifford+T quantum mechanics, which is approximatively universal for quantum computing, by restricting the ring of complex numbers to its subring corresponding to the Clifford+T fragment resting on the completeness theorem of the ZW-calculus for arbitrary commutative ring. Furthermore, we prove the completeness of the ZX-calculus (with just 9 rules) for 2-qubit Clifford+T circuits by verifying the complete set of 17 circuit relations in diagrammatic rewriting. In addition to completeness results within the qubit related formalism, we extend the completeness of the ZX-calculus for qubit stabilizer quantum mechanics to the qutrit stabilizer system. Finally, we show with some examples the application of the ZX-calculus to the proof of generalised supplementarity, the representation of entanglement classification and Toffoli gate, as well as equivalence-checking for the UMA gate."
+              ],
+              [
+                "Access Date",
+                "2023-08-21 03:36:41"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2209.14894"
+              ],
+              [
+                "Creators",
+                "Quanlong Wang"
+              ],
+              [
+                "Date",
+                "2023-05-17 2023-05-17"
+              ],
+              [
+                "Extra",
+                "arXiv:2209.14894 [quant-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Completeness of the ZX-calculus"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2209.14894"
+              ]
+            ],
+            "resource": "storage/i291.pdf",
+            "selectable": false
+          },
           {
             "text": "Quantum computing",
             "item-id": "c14,i171",
@@ -8131,6 +9249,489 @@ var tree =
             "item_note": null,
             "node_type": "collection",
             "selectable": false
+          },
+          {
+            "text": "ZX calculus",
+            "item-id": "c143,i299",
+            "nodes": [
+              {
+                "text": "Basic ZX-calculus for students and professionals",
+                "item-id": "i292",
+                "nodes": [
+                  {
+                    "text": "Comment: 29 pages and lost of pictures",
+                    "item-id": "n293",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 29 pages and lost of pictures",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 29 pages and lost of pictures</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i307",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:39:14"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2303.03163.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i307.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i298",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:38:26"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2303.03163"
+                      ]
+                    ],
+                    "resource": "storage/i298.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Basic ZX-calculus for students and professionals",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "These are the lecture notes of guest lectures for Artur Ekert's course Introduction to Quantum Information at the Mathematical Institute of Oxford University, Hilary Term 2023. Some basic familiarity with Dirac notation is assumed. For the readers of Quantum in Pictures (QiP) who have some basic quantum background, these notes also constitute the shortest path to an explanation of how what they learn in QIP relates to the traditional quantum formalism."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-21 03:38:19"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2303.03163"
+                  ],
+                  [
+                    "Creators",
+                    "Bob Coecke"
+                  ],
+                  [
+                    "Date",
+                    "2023-03-06 2023-03-06"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2303.03163 [quant-ph]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "Basic ZX-calculus for students and professionals"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2303.03163"
+                  ]
+                ],
+                "resource": "storage/i307.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Completeness of the ZX-calculus",
+                "item-id": "i294",
+                "nodes": [
+                  {
+                    "text": "Comment: 178 pages, PhD thesis",
+                    "item-id": "n295",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 178 pages, PhD thesis",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 178 pages, PhD thesis</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i305",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:38:39"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2209.14894.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i305.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i301",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:38:29"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2209.14894"
+                      ]
+                    ],
+                    "resource": "storage/i301.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Completeness of the ZX-calculus",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "The ZX-calculus is an intuitive but also mathematically strict graphical language for quantum computing, which is especially powerful for the framework of quantum circuits. Completeness of the ZX-calculus means any equality of matrices with size powers of $n$ can be derived purely diagrammatically. In this thesis, we give the first complete axiomatisation the ZX-calculus for the overall pure qubit quantum mechanics, via a translation from the completeness result of another graphical language for quantum computing -- the ZW-calculus. This paves the way for automated pictorial quantum computing, with the aid of some software like Quantomatic. Based on this universal completeness, we directly obtain a complete axiomatisation of the ZX-calculus for the Clifford+T quantum mechanics, which is approximatively universal for quantum computing, by restricting the ring of complex numbers to its subring corresponding to the Clifford+T fragment resting on the completeness theorem of the ZW-calculus for arbitrary commutative ring. Furthermore, we prove the completeness of the ZX-calculus (with just 9 rules) for 2-qubit Clifford+T circuits by verifying the complete set of 17 circuit relations in diagrammatic rewriting. In addition to completeness results within the qubit related formalism, we extend the completeness of the ZX-calculus for qubit stabilizer quantum mechanics to the qutrit stabilizer system. Finally, we show with some examples the application of the ZX-calculus to the proof of generalised supplementarity, the representation of entanglement classification and Toffoli gate, as well as equivalence-checking for the UMA gate."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-21 03:38:21"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2209.14894"
+                  ],
+                  [
+                    "Creators",
+                    "Quanlong Wang"
+                  ],
+                  [
+                    "Date",
+                    "2023-05-17 2023-05-17"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2209.14894 [quant-ph]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Title",
+                    "Completeness of the ZX-calculus"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2209.14894"
+                  ]
+                ],
+                "resource": "storage/i305.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Qufinite ZX-calculus",
+                "item-id": "i299",
+                "nodes": [
+                  {
+                    "text": "Comment: 38 pages, changed the new qudit normal form which looks nicer now",
+                    "item-id": "n300",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 38 pages, changed the new qudit normal form which looks nicer now",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 38 pages, changed the new qudit normal form which looks nicer now</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i306",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:38:40"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2104.06429.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i306.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i303",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:38:36"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2104.06429"
+                      ]
+                    ],
+                    "resource": "storage/i303.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-unchecked",
+                "item_title": "Qufinite ZX-calculus",
+                "item_type": "preprint",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "ZX-calculus is graphical language for quantum computing which usually focuses on qubits. In this paper, we generalise qubit ZX-calculus to qudit ZX-calculus in any finite dimension by introducing suitable generators, especially a carefully chosen triangle node. As a consequence we obtain a set of rewriting rules which can be seen as a direct generalisation of qubit rules, and a normal form for any qudit vectors. Based on the qudit ZX-calculi, we propose a graphical formalism called qufinite ZX-calculus as a unified framework for all qudit ZX-calculi, which is universal for finite quantum theory due to a normal form for matrix of any finite size. As a result, it would be interesting to give a fine-grained version of the diagrammatic reconstruction of finite quantum theory [Selby2021reconstructing] within the framework of qufinite ZX-calculus."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-21 03:38:27"
+                  ],
+                  [
+                    "Archiveid",
+                    "arXiv:2104.06429"
+                  ],
+                  [
+                    "Creators",
+                    "Quanlong Wang"
+                  ],
+                  [
+                    "Date",
+                    "2022-09-19 2022-09-19"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2104.06429 [quant-ph]"
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Repository",
+                    "arXiv"
+                  ],
+                  [
+                    "Short Title",
+                    "Qufinite ZX-calculus"
+                  ],
+                  [
+                    "Title",
+                    "Qufinite ZX-calculus: a unified framework of qudit ZX-calculi"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2104.06429"
+                  ]
+                ],
+                "resource": "storage/i306.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Simulating quantum circuits with ZX-calculus reduced stabiliser decompositions",
+                "item-id": "i296",
+                "nodes": [
+                  {
+                    "text": "Comment: 16 pages, 6 charts, and many figures. For instructions on running associated software, see https://github.com/Q",
+                    "item-id": "n297",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "Comment: 16 pages, 6 charts, and many figures. For instructions on running associated software, see https://github.com/Q",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\">Comment: 16 pages, 6 charts, and many figures. For instructions on running associated software, see https://github.com/Quantomatic/quizx/blob/stabrank-v1/stabrank.md</div>",
+                    "node_type": "note"
+                  },
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i304",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:38:38"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2109.01076.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i304.pdf"
+                  },
+                  {
+                    "text": "arXiv.org Snapshot",
+                    "item-id": "i302",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "arXiv.org Snapshot",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-08-21 03:38:34"
+                      ],
+                      [
+                        "Title",
+                        "arXiv.org Snapshot"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/abs/2109.01076"
+                      ]
+                    ],
+                    "resource": "storage/i302.html"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Simulating quantum circuits with ZX-calculus reduced stabiliser decompositions",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "We introduce an enhanced technique for strong classical simulation of quantum circuits which combines the `sum-of-stabilisers' method with an automated simplification strategy based on the ZX-calculus. Recently it was shown that quantum circuits can be classically simulated by expressing the non-stabiliser gates in a circuit as magic state injections and decomposing them in chunks of 2-6 states at a time, obtaining sums of (efficiently-simulable) stabiliser states with many fewer terms than the naive approach. We adapt these techniques from the original setting of Clifford circuits with magic state injection to generic ZX-diagrams and show that, by interleaving this \"chunked\" decomposition with a ZX-calculus-based simplification strategy, we can obtain stabiliser decompositions that are many orders of magnitude smaller than existing approaches. We illustrate this technique to perform exact norm calculations (and hence strong simulation) on the outputs of random 50- and 100-qubit Clifford+T circuits with up to 70 T-gates as well as a family of hidden shift circuits previously considered by Bravyi and Gosset with over 1000 T-gates."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-08-21 03:38:25"
+                  ],
+                  [
+                    "Creators",
+                    "Aleks Kissinger, John van de Wetering"
+                  ],
+                  [
+                    "DOI",
+                    "10.1088/2058-9565/ac5d20"
+                  ],
+                  [
+                    "Date",
+                    "2022-10-01 2022-10-01"
+                  ],
+                  [
+                    "Extra",
+                    "arXiv:2109.01076 [quant-ph]"
+                  ],
+                  [
+                    "ISSN",
+                    "2058-9565"
+                  ],
+                  [
+                    "Issue",
+                    "4"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "Quantum Sci. Technol."
+                  ],
+                  [
+                    "Library Catalog",
+                    "arXiv.org"
+                  ],
+                  [
+                    "Pages",
+                    "044001"
+                  ],
+                  [
+                    "Publication Title",
+                    "Quantum Science and Technology"
+                  ],
+                  [
+                    "Title",
+                    "Simulating quantum circuits with ZX-calculus reduced stabiliser decompositions"
+                  ],
+                  [
+                    "URL",
+                    "http://arxiv.org/abs/2109.01076"
+                  ],
+                  [
+                    "Volume",
+                    "7"
+                  ]
+                ],
+                "resource": "storage/i304.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "ZX calculus",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
           }
         ],
         "item_title": "Quantum information theory",
@@ -8138,6 +9739,14 @@ var tree =
         "item_note": null,
         "node_type": "collection",
         "selectable": false
+      },
+      {
+        "text": "Quantum logic",
+        "item-id": "c144,iNone",
+        "item_title": "Quantum logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
       },
       {
         "text": "Quantum mechanics",
