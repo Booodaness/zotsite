@@ -53,7 +53,7 @@ var tree =
       },
       {
         "text": "Category theory",
-        "item-id": "c21,i189",
+        "item-id": "c21,i187",
         "nodes": [
           {
             "text": "Cats1.pdf",
@@ -404,7 +404,7 @@ var tree =
       },
       {
         "text": "Functional analysis",
-        "item-id": "c46,i204",
+        "item-id": "c46,i150",
         "nodes": [
           {
             "text": "Banach algebra",
@@ -580,11 +580,130 @@ var tree =
             "nodes": [
               {
                 "text": "Information theory",
-                "item-id": "c87,iNone",
+                "item-id": "c87,i764",
+                "nodes": [
+                  {
+                    "text": "Huygens' equations and the gradient-flow equations in information geometry",
+                    "item-id": "i764",
+                    "nodes": [
+                      {
+                        "text": "Comment: 20 pages, no figure, accepted to International Journal of Geometric Methods in Modern Physics (IJGMMP)",
+                        "item-id": "n765",
+                        "icon": "glyphicon glyphicon-text-background",
+                        "item_title": "Comment: 20 pages, no figure, accepted to International Journal of Geometric Methods in Modern Physics (IJGMMP)",
+                        "item_type": "note",
+                        "item_note": "<div class=\"zotero-note znv1\">Comment: 20 pages, no figure, accepted to International Journal of Geometric Methods in Modern Physics (IJGMMP)</div>",
+                        "node_type": "note"
+                      },
+                      {
+                        "text": "arXiv Fulltext PDF",
+                        "item-id": "i766",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "arXiv Fulltext PDF",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-11-12 22:14:29"
+                          ],
+                          [
+                            "Title",
+                            "arXiv Fulltext PDF"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/pdf/2105.12824.pdf"
+                          ]
+                        ],
+                        "resource": "storage/i766.pdf"
+                      },
+                      {
+                        "text": "arXiv.org Snapshot",
+                        "item-id": "i767",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "arXiv.org Snapshot",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-11-12 22:14:35"
+                          ],
+                          [
+                            "Title",
+                            "arXiv.org Snapshot"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/abs/2105.12824"
+                          ]
+                        ],
+                        "resource": "storage/i767.html"
+                      }
+                    ],
+                    "icon": "glyphicon glyphicon-unchecked",
+                    "item_title": "Huygens' equations and the gradient-flow equations in information geometry",
+                    "item_type": "preprint",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Abstract Note",
+                        "We revisit the relation between the gradient-flow equations and Hamilton's equations in information geometry. By regarding the gradient-flow equations as Huygens' equations in geometric optics, we have related the gradient flows to the geodesic flows induced by the geodesic Hamiltonian in an appropriate Riemannian geometry. The original evolution parameter $\\textit{t}$ in the gradient-flow equations is related to the arc-length parameter in the associated Riemannian manifold by Jacobi-Maupertuis transformation. As a by-product, it is found the relation between the gradient-flow equation and replicator equations."
+                      ],
+                      [
+                        "Access Date",
+                        "2023-11-12 22:14:27"
+                      ],
+                      [
+                        "Archiveid",
+                        "arXiv:2105.12824"
+                      ],
+                      [
+                        "Creators",
+                        "Tatsuaki Wada, Antonio M. Scarfone, Hiroshi Matsuzoe"
+                      ],
+                      [
+                        "DOI",
+                        "10.48550/arXiv.2105.12824"
+                      ],
+                      [
+                        "Date",
+                        "2023-08-09 2023-08-09"
+                      ],
+                      [
+                        "Extra",
+                        "arXiv:2105.12824 [cond-mat]"
+                      ],
+                      [
+                        "Library Catalog",
+                        "arXiv.org"
+                      ],
+                      [
+                        "Repository",
+                        "arXiv"
+                      ],
+                      [
+                        "Title",
+                        "Huygens' equations and the gradient-flow equations in information geometry"
+                      ],
+                      [
+                        "URL",
+                        "http://arxiv.org/abs/2105.12824"
+                      ]
+                    ],
+                    "resource": "storage/i766.pdf",
+                    "selectable": false
+                  }
+                ],
                 "item_title": "Information theory",
                 "item_type": null,
                 "item_note": null,
-                "node_type": "collection"
+                "node_type": "collection",
+                "selectable": false
               },
               {
                 "text": "Mathematical statistics",
@@ -646,6 +765,85 @@ var tree =
     "text": "Classical field theory",
     "item-id": "c44,i45",
     "nodes": [
+      {
+        "text": "Bundles in Classical Gauge Field Theory",
+        "item-id": "i17",
+        "nodes": [
+          {
+            "text": "Bundles in Classical Gauge Field Theory.pdf",
+            "item-id": "i16",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Bundles in Classical Gauge Field Theory.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-08-12 02:08:50"
+              ],
+              [
+                "Title",
+                "Bundles in Classical Gauge Field Theory.pdf"
+              ],
+              [
+                "URL",
+                "https://booodaness.github.io/tempus-spatium/assets/pdf/posts/2023-06-29-bundles-classical-gauge-field-theory/main.pdf"
+              ]
+            ],
+            "resource": "storage/i16.pdf"
+          }
+        ],
+        "icon": "glyphicon glyphicon-file",
+        "item_title": "Bundles in Classical Gauge Field Theory",
+        "item_type": "conferencePaper",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Conference Name",
+            "Canadian Undergraduate Mathematics Conference 2023"
+          ],
+          [
+            "Creators",
+            " Siddhartha Bhattacharjee"
+          ],
+          [
+            "Date",
+            "2023-06-00 2023-06"
+          ],
+          [
+            "Language",
+            "en"
+          ],
+          [
+            "Library Catalog",
+            "Zotero"
+          ],
+          [
+            "Place",
+            "University of Toronto"
+          ],
+          [
+            "Publisher",
+            "GitHub Pages"
+          ],
+          [
+            "Rights",
+            "All rights reserved"
+          ],
+          [
+            "Title",
+            "Bundles in Classical Gauge Field Theory"
+          ],
+          [
+            "URL",
+            "https://booodaness.github.io/tempus-spatium/bundles-classical-gauge-field-theory/"
+          ]
+        ],
+        "resource": "storage/i16.pdf",
+        "selectable": false
+      },
       {
         "text": "Electromagnetism",
         "item-id": "c80,i227",
@@ -1042,8 +1240,87 @@ var tree =
       },
       {
         "text": "Newtonian gravitation",
-        "item-id": "c81,iNone",
+        "item-id": "c81,i11",
         "nodes": [
+          {
+            "text": "Applying the Klein-Gordon Theory to Gravitation - Modelling Newtonian gravitation as a classical scalar field theory obeying Klein-Gordon structure",
+            "item-id": "i11",
+            "nodes": [
+              {
+                "text": "Bhattacharjee - Applying the Klein-Gordon Theory to Gravitation - .pdf",
+                "item-id": "i10",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Bhattacharjee - Applying the Klein-Gordon Theory to Gravitation - .pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-12 02:05:40"
+                  ],
+                  [
+                    "Title",
+                    "Bhattacharjee - Applying the Klein-Gordon Theory to Gravitation - .pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://booodaness.github.io/tempus-spatium/assets/pdf/posts/2023-02-23-applying-klein-gordon-theory-gravitation/main.pdf"
+                  ]
+                ],
+                "resource": "storage/i10.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Applying the Klein-Gordon Theory to Gravitation - Modelling Newtonian gravitation as a classical scalar field theory obeying Klein-Gordon structure",
+            "item_type": "conferencePaper",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Conference Name",
+                "Short Attention Span Math Seminars"
+              ],
+              [
+                "Creators",
+                " Siddhartha Bhattacharjee"
+              ],
+              [
+                "Date",
+                "2023-02-10 2023-02-10"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Place",
+                "University of Waterloo"
+              ],
+              [
+                "Publisher",
+                "GitHub Pages"
+              ],
+              [
+                "Rights",
+                "All rights reserved"
+              ],
+              [
+                "Title",
+                "Applying the Klein-Gordon Theory to Gravitation - Modelling Newtonian gravitation as a classical scalar field theory obeying Klein-Gordon structure"
+              ],
+              [
+                "URL",
+                "https://booodaness.github.io/tempus-spatium/applying-klein-gordon-theory-gravitation/"
+              ]
+            ],
+            "resource": "storage/i10.pdf",
+            "selectable": false
+          },
           {
             "text": "Newton-Cartan theory",
             "item-id": "c96,iNone",
@@ -1092,7 +1369,7 @@ var tree =
   },
   {
     "text": "Classical mechanics",
-    "item-id": "c10,i48",
+    "item-id": "c10,i789",
     "nodes": [
       {
         "text": "Continuum mechanics",
@@ -1340,12 +1617,1406 @@ var tree =
         "selectable": false
       },
       {
+        "text": "Invariant Variation Problems",
+        "item-id": "i741",
+        "nodes": [
+          {
+            "text": "Comment: M. A. Tavel's English translation of Noether's Theorems (1918), reproduced by Frank Y. Wang. Thanks to Lloyd Ka",
+            "item-id": "n742",
+            "icon": "glyphicon glyphicon-text-background",
+            "item_title": "Comment: M. A. Tavel's English translation of Noether's Theorems (1918), reproduced by Frank Y. Wang. Thanks to Lloyd Ka",
+            "item_type": "note",
+            "item_note": "<div class=\"zotero-note znv1\">Comment: M. A. Tavel's English translation of Noether's Theorems (1918), reproduced by Frank Y. Wang. Thanks to Lloyd Kannenberg for corrigenda</div>",
+            "node_type": "note"
+          },
+          {
+            "text": "Full Text PDF",
+            "item-id": "i744",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Full Text PDF",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-09-29 21:06:25"
+              ],
+              [
+                "Title",
+                "Full Text PDF"
+              ],
+              [
+                "URL",
+                "https://arxiv.org/pdf/physics/0503066.pdf"
+              ]
+            ],
+            "resource": "storage/i744.pdf"
+          },
+          {
+            "text": "arXiv.org Snapshot",
+            "item-id": "i743",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "arXiv.org Snapshot",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-09-29 21:06:24"
+              ],
+              [
+                "Title",
+                "arXiv.org Snapshot"
+              ],
+              [
+                "URL",
+                "https://arxiv.org/abs/physics/0503066"
+              ]
+            ],
+            "resource": "storage/i743.html"
+          }
+        ],
+        "icon": "glyphicon glyphicon-file",
+        "item_title": "Invariant Variation Problems",
+        "item_type": "journalArticle",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Abstract Note",
+            "The problems in variation here concerned are such as to admit a continuous group (in Lie's sense); the conclusions that emerge from the corresponding differential equations find their most general expression in the theorems formulated in Section 1 and proved in following sections. Concerning these differential equations that arise from problems of variation, far more precise statements can be made than about arbitrary differential equations admitting of a group, which are the subject of Lie's researches. What is to follow, therefore, represents a combination of the methods of the formal calculus of variations with those of Lie's group theory. For special groups and problems in variation, this combination of methods is not new; I may cite Hamel and Herglotz for special finite groups, Lorentz and his pupils (for instance Fokker), Weyl and Klein for special infinite groups. Especially Klein's second Note and the present developments have been mutually influenced by each other, in which regard I may refer to the concluding remarks of Klein's Note."
+          ],
+          [
+            "Access Date",
+            "2023-09-29 21:06:16"
+          ],
+          [
+            "Creators",
+            "Emmy Noether, M. A. Tavel"
+          ],
+          [
+            "DOI",
+            "10.1080/00411457108231446"
+          ],
+          [
+            "Date",
+            "1971-01-00 01/1971"
+          ],
+          [
+            "Extra",
+            "arXiv:physics/0503066"
+          ],
+          [
+            "ISSN",
+            "0041-1450, 1532-2424"
+          ],
+          [
+            "Issue",
+            "3"
+          ],
+          [
+            "Journal Abbreviation",
+            "Transport Theory and Statistical Physics"
+          ],
+          [
+            "Library Catalog",
+            "arXiv.org"
+          ],
+          [
+            "Pages",
+            "186-207"
+          ],
+          [
+            "Publication Title",
+            "Transport Theory and Statistical Physics"
+          ],
+          [
+            "Title",
+            "Invariant Variation Problems"
+          ],
+          [
+            "URL",
+            "http://arxiv.org/abs/physics/0503066"
+          ],
+          [
+            "Volume",
+            "1"
+          ]
+        ],
+        "resource": "storage/i744.pdf",
+        "selectable": false
+      },
+      {
+        "text": "N-body problem",
+        "item-id": "c169,i838",
+        "nodes": [
+          {
+            "text": "(In-)Stability of Differential Inclusions",
+            "item-id": "i746",
+            "nodes": [
+              {
+                "text": "Braun et al. - 2021 - (In-)Stability of Differential Inclusions Notions.pdf",
+                "item-id": "i745",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Braun et al. - 2021 - (In-)Stability of Differential Inclusions Notions.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Braun et al. - 2021 - (In-)Stability of Differential Inclusions Notions.pdf"
+                  ]
+                ],
+                "resource": "storage/i745.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-book",
+            "item_title": "(In-)Stability of Differential Inclusions",
+            "item_type": "book",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-09-29 22:01:12"
+              ],
+              [
+                "Creators",
+                "Philipp Braun, Lars Gr\u00fcne, Christopher M. Kellett"
+              ],
+              [
+                "Date",
+                "2021-00-00 2021"
+              ],
+              [
+                "Extra",
+                "DOI: 10.1007/978-3-030-76317-6"
+              ],
+              [
+                "ISBN",
+                "978-3-030-76316-9 978-3-030-76317-6"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Place",
+                "Cham"
+              ],
+              [
+                "Publisher",
+                "Springer International Publishing"
+              ],
+              [
+                "Series",
+                "SpringerBriefs in Mathematics"
+              ],
+              [
+                "Short Title",
+                "(In-)Stability of Differential Inclusions"
+              ],
+              [
+                "Title",
+                "(In-)Stability of Differential Inclusions: Notions, Equivalences, and Lyapunov-like Characterizations"
+              ],
+              [
+                "URL",
+                "https://link.springer.com/10.1007/978-3-030-76317-6"
+              ]
+            ],
+            "resource": "storage/i745.pdf",
+            "selectable": false
+          },
+          {
+            "text": "An introduction to the classical three-body problem",
+            "item-id": "i726",
+            "nodes": [
+              {
+                "text": "Comment: 22 pages, 21 figures",
+                "item-id": "n727",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 22 pages, 21 figures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 22 pages, 21 figures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i736",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:23:00"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1901.07289.pdf"
+                  ]
+                ],
+                "resource": "storage/i736.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i734",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:22:57"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1901.07289"
+                  ]
+                ],
+                "resource": "storage/i734.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "An introduction to the classical three-body problem",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The classical three-body problem arose in an attempt to understand the effect of the Sun on the Moon's Keplerian orbit around the Earth. It has attracted the attention of some of the best physicists and mathematicians and led to the discovery of chaos. We survey the three-body problem in its historical context and use it to introduce several ideas and techniques that have been developed to understand classical mechanical systems."
+              ],
+              [
+                "Access Date",
+                "2023-09-29 20:22:44"
+              ],
+              [
+                "Creators",
+                "Govind S. Krishnaswami, Himalaya Senapati"
+              ],
+              [
+                "DOI",
+                "10.1007/s12045-019-0760-1"
+              ],
+              [
+                "Date",
+                "2019-01-00 1/2019"
+              ],
+              [
+                "Extra",
+                "arXiv:1901.07289 [math-ph, physics:nlin, physics:physics]"
+              ],
+              [
+                "ISSN",
+                "0971-8044, 0973-712X"
+              ],
+              [
+                "Issue",
+                "1"
+              ],
+              [
+                "Journal Abbreviation",
+                "Reson"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "87-114"
+              ],
+              [
+                "Publication Title",
+                "Resonance"
+              ],
+              [
+                "Short Title",
+                "An introduction to the classical three-body problem"
+              ],
+              [
+                "Title",
+                "An introduction to the classical three-body problem: From periodic solutions to instabilities and chaos"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1901.07289"
+              ],
+              [
+                "Volume",
+                "24"
+              ]
+            ],
+            "resource": "storage/i736.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Analysis of the Three-body Problem",
+            "item-id": "i838",
+            "nodes": [
+              {
+                "text": "Cormier et al. - Analysis of the Three-body Problem.pdf",
+                "item-id": "i837",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Cormier et al. - Analysis of the Three-body Problem.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Cormier et al. - Analysis of the Three-body Problem.pdf"
+                  ]
+                ],
+                "resource": "storage/i837.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Analysis of the Three-body Problem",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "In this project, we examine the physical evolution and stability of three-body systems. We introduce the N -body problem and capture a bird\u2019s eye view of the geometry underlying systems in the form of physical space, configuration space, state space and the relationships between them elucidated using algebraic topological notions such as loop spaces and homotopy theory. \n\nAfter laying out the theoretical backdrop, we steer our exposition to investigate various aspects of the three-body problem, starting with the local evolution of error at given states. We also simulate, in python, the evolution of the entire system. Finally, we analyze a periodic solutions. Overall, we accomplish this by studying the three-body problem mathematically. The system will be evolving over time with given variables of mass, position, and velocity, for each body in three dimensions. \n\nFirst, we find the 9 differential equations using Newtonian mechanics. We then convert this to a 1st order DE. This will allow us to use computational methods to simulate the three-body system given initial values. By finding a next approximate state we can correct the accuracy by accounting for conserved quantities. We do this by adjusting our generalized coordinates in the direction to most quickly change conserved quantities. This direction is found by the gradient of our conserved quantities. This addition to the computational method ensures that energy, momentum, angular momentum are conserved when constraining to the center of mass to be the origin. \n\nOnce we have the DE we can linearize it and write a program to find the eigenvectors and eigenvalues. This will allow use to solve for error locally. If the eigenvalues are negative, then that component of the error goes to 0. If the eigenvalue is positive, then that component of the error grows exponentially. This will tell where there are regions of chaos and stability. By accumulating this value of stability across the path we can get a cumulative estimate of the stability of the system over those states."
+              ],
+              [
+                "Creators",
+                "Avery Cormier, Siddhartha Bhattacharjee, ZiLing Chen"
+              ],
+              [
+                "Date",
+                "2023-12-07 12/07/2023"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Rights",
+                "All rights reserved"
+              ],
+              [
+                "Title",
+                "Analysis of the Three-body Problem"
+              ],
+              [
+                "URL",
+                "https://booodaness.github.io/tempus-spatium/analysis-three-body-problem/"
+              ]
+            ],
+            "resource": "storage/i837.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Caustics in Self-gravitating N-body systems and Cosmological Large Scale Structures",
+            "item-id": "i753",
+            "nodes": [
+              {
+                "text": "Comment: 67 pages, 16 figures, references added, abstract and two figures updated",
+                "item-id": "n754",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 67 pages, 16 figures, references added, abstract and two figures updated",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 67 pages, 16 figures, references added, abstract and two figures updated</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i761",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:13:48"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2309.15296.pdf"
+                  ]
+                ],
+                "resource": "storage/i761.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i763",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:13:56"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2309.15296"
+                  ]
+                ],
+                "resource": "storage/i763.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Caustics in Self-gravitating N-body systems and Cosmological Large Scale Structures",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "Extended galaxy surveys revealed that at a large scale the Universe consists of matter concentrations in the form of galactic clusters, filaments and vast regions devoid of galaxies. In this paper we demonstrate the generation of caustics in self-gravitating N-body system and the formation of cosmological large-scale structure due to the gravitational focusing. The gravitational caustics are space regions where the density of matter is higher than the average density in the surrounding Universe. The gravitational caustics can represent galaxies, galactic clusters and filaments and the regions between caustics, the voids. In our approach the dynamics of a self-gravitating N-body system is formulated in terms of a geodesic flow on a curved Riemannian manifold of dimension 3N equipped by the Maupertuis's metric. The regions of negative sectional curvatures are responsible for the exponential instability of geodesic trajectories, while the regions of positive sectional curvatures are responsible for the gravitational focusing of geodesics and generation of caustics. The stability of geodesic trajectories is analysed by means of the Jacobi equation and the gravitational focusing of geodesics by means of the Raychaundhuri equation. By solving these equations we estimated the characteristic relaxation time scales and the time scale of generation of gravitational caustics."
+              ],
+              [
+                "Access Date",
+                "2023-11-12 22:13:02"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2309.15296"
+              ],
+              [
+                "Creators",
+                "George Savvidy"
+              ],
+              [
+                "DOI",
+                "10.48550/arXiv.2309.15296"
+              ],
+              [
+                "Date",
+                "2023-10-04 2023-10-04"
+              ],
+              [
+                "Extra",
+                "arXiv:2309.15296 [astro-ph, physics:gr-qc, physics:hep-th]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Caustics in Self-gravitating N-body systems and Cosmological Large Scale Structures"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2309.15296"
+              ]
+            ],
+            "resource": "storage/i761.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Chaotic phenomena for generalised N-centre problems",
+            "item-id": "i755",
+            "nodes": [
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i756",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:13:20"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2307.09098.pdf"
+                  ]
+                ],
+                "resource": "storage/i756.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i757",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:13:29"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2307.09098"
+                  ]
+                ],
+                "resource": "storage/i757.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Chaotic phenomena for generalised N-centre problems",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We study a class of singular dynamical systems which generalise the classical N-centre problem of Celestial Mechanics to the case in which the configuration space is a Riemannian surface. We investigate the existence of topological conjugation with the archetypal chaotic dynamical system, the Bernoulli shift. After providing infinitely many geometrically distinct and collision-less periodic solutions, we encode them in bi-infinite sequences of symbols. Solutions are obtained as minimisers of the Maupertuis functional in suitable free homotopy classes of the punctured surface, without any collision regularisation. For any sufficiently large value of the energy, we prove that the generalised N-centre problem admits a symbolic dynamics. Moreover, when the Jacobi-Maupertuis metric curvature is negative, we construct chaotic invariant subsets."
+              ],
+              [
+                "Access Date",
+                "2023-11-12 22:13:09"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2307.09098"
+              ],
+              [
+                "Creators",
+                "Stefano Baranzini, Gian Marco Canneori"
+              ],
+              [
+                "DOI",
+                "10.48550/arXiv.2307.09098"
+              ],
+              [
+                "Date",
+                "2023-07-18 2023-07-18"
+              ],
+              [
+                "Extra",
+                "arXiv:2307.09098 [math]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Chaotic phenomena for generalised N-centre problems"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2307.09098"
+              ]
+            ],
+            "resource": "storage/i756.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Convexity in the Figure Eight Solution to the Three-Body Problem",
+            "item-id": "i751",
+            "nodes": [
+              {
+                "text": "Full Text PDF",
+                "item-id": "i752",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-06 01:52:13"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/math/0308252.pdf"
+                  ]
+                ],
+                "resource": "storage/i752.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-bookmark",
+            "item_title": "Convexity in the Figure Eight Solution to the Three-Body Problem",
+            "item_type": "webpage",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The figure eight is a remarkable solution to the Newtonian three-body problem in which the three equal masses chase each around a planar curve having the qualitative shape and symmetries of a figure eight. Here we prove that each lobe of this eight is convex."
+              ],
+              [
+                "Access Date",
+                "2023-11-06 01:52:12"
+              ],
+              [
+                "Creators",
+                "Toshiaki Fujiwara, Richard Montgomery"
+              ],
+              [
+                "Date",
+                "2003-08-27 2003/08/27"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Title",
+                "Convexity in the Figure Eight Solution to the Three-Body Problem"
+              ],
+              [
+                "URL",
+                "https://arxiv.org/abs/math/0308252v2"
+              ],
+              [
+                "Website Title",
+                "arXiv.org"
+              ]
+            ],
+            "resource": "storage/i752.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Existence of partially hyperbolic motions in the N-body problem",
+            "item-id": "i775",
+            "nodes": [
+              {
+                "text": "Comment: Accepted in Proceedings of the AMS",
+                "item-id": "n776",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: Accepted in Proceedings of the AMS",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: Accepted in Proceedings of the AMS</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i777",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:15:55"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2008.08762.pdf"
+                  ]
+                ],
+                "resource": "storage/i777.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i778",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:16:03"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2008.08762"
+                  ]
+                ],
+                "resource": "storage/i778.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Existence of partially hyperbolic motions in the N-body problem",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "In the context of the Newtonian N-body problem, we prove the existence of a partially hyperbolic motion with prescribed positive energy and any initial collisionless configuration. Moreover, it is a free time minimizer of the respective supercritical Newtonian action or equivalently a geodesic ray for the respective Jacobi-Maupertuis metric."
+              ],
+              [
+                "Access Date",
+                "2023-11-12 22:15:53"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2008.08762"
+              ],
+              [
+                "Creators",
+                "Juan Manuel Burgos"
+              ],
+              [
+                "DOI",
+                "10.48550/arXiv.2008.08762"
+              ],
+              [
+                "Date",
+                "2021-09-11 2021-09-11"
+              ],
+              [
+                "Extra",
+                "arXiv:2008.08762 [math]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Existence of partially hyperbolic motions in the N-body problem"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2008.08762"
+              ]
+            ],
+            "resource": "storage/i777.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Investigating the relation between chaos and the three body problem",
+            "item-id": "i721",
+            "nodes": [
+              {
+                "text": "Comment: 7 pages, 11 figures, Research note based on this article submitted to RNAAS",
+                "item-id": "n722",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 7 pages, 11 figures, Research note based on this article submitted to RNAAS",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 7 pages, 11 figures, Research note based on this article submitted to RNAAS</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i728",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:22:46"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2008.12756.pdf"
+                  ]
+                ],
+                "resource": "storage/i728.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i725",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:22:44"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2008.12756"
+                  ]
+                ],
+                "resource": "storage/i725.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Investigating the relation between chaos and the three body problem",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We review the properties of fractals, the Mandelbrot set and how deterministic chaos ties to the picture. A detailed study on three body systems, one of the major applications of chaos theory was undertaken. Systems belonging to different families produced till date were studied and their properties were analysed. We then segregated them into three classes according to their properties. We suggest that such reviews be carried out in regular intervals of time as there are an infinite number of solutions for three body systems and some of them may prove to be useful in various domains apart from hierarchical systems."
+              ],
+              [
+                "Access Date",
+                "2023-09-29 20:22:34"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2008.12756"
+              ],
+              [
+                "Creators",
+                "T. S. Sachin Venkatesh, Vishak Vikranth"
+              ],
+              [
+                "Date",
+                "2020-09-15 2020-09-15"
+              ],
+              [
+                "Extra",
+                "arXiv:2008.12756 [astro-ph, physics:nlin, physics:physics]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Investigating the relation between chaos and the three body problem"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2008.12756"
+              ]
+            ],
+            "resource": "storage/i728.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Natural dynamical reduction of the three-body problem",
+            "item-id": "i729",
+            "nodes": [
+              {
+                "text": "Comment: 32 pages, 2 figures. v2: added the sections \"Hill-like region in geometry space\" and \"quotes from previous work",
+                "item-id": "n730",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 32 pages, 2 figures. v2: added the sections \"Hill-like region in geometry space\" and \"quotes from previous work",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 32 pages, 2 figures. v2: added the sections \"Hill-like region in geometry space\" and \"quotes from previous works\", and made more minor changes</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i737",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:23:02"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2107.12372.pdf"
+                  ]
+                ],
+                "resource": "storage/i737.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i735",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:22:58"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2107.12372"
+                  ]
+                ],
+                "resource": "storage/i735.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Natural dynamical reduction of the three-body problem",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The three-body problem is a fundamental long-standing open problem, with applications in all branches of physics, including astrophysics, nuclear physics and particle physics. In general, conserved quantities allow to reduce the formulation of a mechanical problem to fewer degrees of freedom, a process known as dynamical reduction. However, extant reductions are either non-general, or hide the problem's symmetry or include unexplained definitions. This paper presents a dynamical reduction that avoids these issues, and hence is general and natural. Any three-body configuration defines a triangle, and its orientation in space. Accordingly, we decompose the dynamical variables into the geometry (shape + size) and orientation of the triangle. The geometry variables are shown to describe the motion of an abstract point in a curved 3d space, subject to a potential-derived force and a magnetic-like force with a monopole charge. The orientation variables are shown to obey a dynamics analogous to the Euler equations for a rotating rigid body, only here the moments of inertia depend on the geometry variables, rather than being constant. The reduction rests on a novel symmetric solution to the center of mass constraint inspired by Lagrange's solution to the cubic. The formulation of the orientation variables is novel and rests on a little known generalization of the Euler-Lagrange equations to non-coordinate velocities. Applications to global features, to the statistical solution and to special exact solutions are presented. A generalization to the four-body problem is presented."
+              ],
+              [
+                "Access Date",
+                "2023-09-29 20:22:46"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2107.12372"
+              ],
+              [
+                "Creators",
+                "Barak Kol"
+              ],
+              [
+                "Date",
+                "2022-06-28 2022-06-28"
+              ],
+              [
+                "Extra",
+                "arXiv:2107.12372 [astro-ph, physics:gr-qc, physics:hep-th, physics:physics]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Natural dynamical reduction of the three-body problem"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2107.12372"
+              ]
+            ],
+            "resource": "storage/i737.pdf",
+            "selectable": false
+          },
+          {
+            "text": "The three-body problem",
+            "item-id": "i723",
+            "nodes": [
+              {
+                "text": "Comment: 49 pages, 10 figures, Published in Reports on Progress in Physics",
+                "item-id": "n724",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 49 pages, 10 figures, Published in Reports on Progress in Physics",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 49 pages, 10 figures, Published in Reports on Progress in Physics</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i738",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:23:03"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1508.02312.pdf"
+                  ]
+                ],
+                "resource": "storage/i738.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i733",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:22:54"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1508.02312"
+                  ]
+                ],
+                "resource": "storage/i733.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "The three-body problem",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The three-body problem, which describes three masses interacting through Newtonian gravity without any restrictions imposed on the initial positions and velocities of these masses, has attracted the attention of many scientists for more than 300 years. In this paper, we present a review of the three-body problem in the context of both historical and modern developments. We describe the general and restricted (circular and elliptic) three-body problems, different analytical and numerical methods of finding solutions, methods for performing stability analysis, search for periodic orbits and resonances, and application of the results to some interesting astronomical and space dynamical settings. We also provide a brief presentation of the general and restricted relativistic three-body problems, and discuss their astronomical applications."
+              ],
+              [
+                "Access Date",
+                "2023-09-29 20:22:40"
+              ],
+              [
+                "Creators",
+                "Z. E. Musielak, B. Quarles"
+              ],
+              [
+                "DOI",
+                "10.1088/0034-4885/77/6/065901"
+              ],
+              [
+                "Date",
+                "2014-06-01 2014-06-01"
+              ],
+              [
+                "Extra",
+                "arXiv:1508.02312 [astro-ph, physics:math-ph]"
+              ],
+              [
+                "ISSN",
+                "0034-4885, 1361-6633"
+              ],
+              [
+                "Issue",
+                "6"
+              ],
+              [
+                "Journal Abbreviation",
+                "Rep. Prog. Phys."
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "065901"
+              ],
+              [
+                "Publication Title",
+                "Reports on Progress in Physics"
+              ],
+              [
+                "Title",
+                "The three-body problem"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1508.02312"
+              ],
+              [
+                "Volume",
+                "77"
+              ]
+            ],
+            "resource": "storage/i738.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Three-Body Problem in Modified Dynamics",
+            "item-id": "i731",
+            "nodes": [
+              {
+                "text": "Comment: 44 pages, 27 figures, 2 tables. Some discussions have been added. Also, Fig. 1 is updated to remove an error in",
+                "item-id": "n732",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 44 pages, 27 figures, 2 tables. Some discussions have been added. Also, Fig. 1 is updated to remove an error in",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 44 pages, 27 figures, 2 tables. Some discussions have been added. Also, Fig. 1 is updated to remove an error in the earlier version. The MATHEMATICA codes related to orbit integration are available via author's GitHub repository at https://github.com/Shenavar/ThreeBodyinMOD . Accepted for publication in Celestial Mechanics and Dynamical Astronomy</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i740",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:23:26"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2205.02281.pdf"
+                  ]
+                ],
+                "resource": "storage/i740.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i739",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-09-29 20:23:03"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2205.02281"
+                  ]
+                ],
+                "resource": "storage/i739.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Three-Body Problem in Modified Dynamics",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "General properties of the three-body problem in a model of modified dynamics are investigated. It is shown that the three-body problem in this model shares some characters with the similar problem in Newtonian dynamics. Moreover, the planar restricted three-body problem is solved analytically for this type of extended gravity and it is proved that under certain conditions, which generally happen at galactic and extragalactic scales, the orbits around $L_{4}$ and $L_{5}$ Lagrange points are stable. Furthermore, a code is provided to compare the behavior of orbits in the restricted three-body problem under Newtonian and modified dynamics. Orbit integrations based on this code show contrasting orbital behavior under the two dynamics and specially exhibit in a qualitative way that the rate of ejections is smaller in the modified dynamics compared to Newtonian gravity. These results could help us to search for observational signatures of extended gravities."
+              ],
+              [
+                "Access Date",
+                "2023-09-29 20:22:50"
+              ],
+              [
+                "Creators",
+                "Hossein Shenavar"
+              ],
+              [
+                "DOI",
+                "10.1007/s10569-023-10137-4"
+              ],
+              [
+                "Date",
+                "2023-04-00 04/2023"
+              ],
+              [
+                "Extra",
+                "arXiv:2205.02281 [astro-ph]"
+              ],
+              [
+                "ISSN",
+                "0923-2958, 1572-9478"
+              ],
+              [
+                "Issue",
+                "2"
+              ],
+              [
+                "Journal Abbreviation",
+                "Celest Mech Dyn Astron"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "19"
+              ],
+              [
+                "Publication Title",
+                "Celestial Mechanics and Dynamical Astronomy"
+              ],
+              [
+                "Title",
+                "Three-Body Problem in Modified Dynamics"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2205.02281"
+              ],
+              [
+                "Volume",
+                "135"
+              ]
+            ],
+            "resource": "storage/i740.pdf",
+            "selectable": false
+          }
+        ],
+        "item_title": "N-body problem",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
         "text": "Nambu mechanics",
         "item-id": "c136,iNone",
         "item_title": "Nambu mechanics",
         "item_type": null,
         "item_note": null,
         "node_type": "collection"
+      },
+      {
+        "text": "Nonholonomic mechanics and control",
+        "item-id": "i789",
+        "nodes": [
+          {
+            "text": "Bloch et al. - 2015 - Nonholonomic mechanics and control.pdf",
+            "item-id": "i788",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Bloch et al. - 2015 - Nonholonomic mechanics and control.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "Bloch et al. - 2015 - Nonholonomic mechanics and control.pdf"
+              ]
+            ],
+            "resource": "storage/i788.pdf"
+          }
+        ],
+        "icon": "glyphicon glyphicon-book",
+        "item_title": "Nonholonomic mechanics and control",
+        "item_type": "book",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Creators",
+            "Anthony Bloch, Jerrold E. Marsden, Perinkulam Sambamurthy Krishnaprasad, Richard M. Murray, John Baillieul, P. E. Crouch, Dmitry V. Zenkov"
+          ],
+          [
+            "Date",
+            "2015-00-00 2015"
+          ],
+          [
+            "Edition",
+            "2nd ed"
+          ],
+          [
+            "Extra",
+            "OCLC: 979253383"
+          ],
+          [
+            "ISBN",
+            "978-1-4419-3043-9"
+          ],
+          [
+            "Language",
+            "en"
+          ],
+          [
+            "Library Catalog",
+            "Open WorldCat"
+          ],
+          [
+            "Place",
+            "New York"
+          ],
+          [
+            "Publisher",
+            "Springer"
+          ],
+          [
+            "Title",
+            "Nonholonomic mechanics and control"
+          ]
+        ],
+        "resource": "storage/i788.pdf",
+        "selectable": false
       },
       {
         "text": "Statistical mechanics",
@@ -3787,7 +5458,7 @@ var tree =
       },
       {
         "text": "Gravitational waves",
-        "item-id": "c59,i236",
+        "item-id": "c59,iNone",
         "item_title": "Gravitational waves",
         "item_type": null,
         "item_note": null,
@@ -4155,6 +5826,129 @@ var tree =
     "selectable": false
   },
   {
+    "text": "Formal language",
+    "item-id": "c168,i715",
+    "nodes": [
+      {
+        "text": "Grammar Equations",
+        "item-id": "i715",
+        "nodes": [
+          {
+            "text": "Comment: 10 pages, many pictures",
+            "item-id": "n716",
+            "icon": "glyphicon glyphicon-text-background",
+            "item_title": "Comment: 10 pages, many pictures",
+            "item_type": "note",
+            "item_note": "<div class=\"zotero-note znv1\">Comment: 10 pages, many pictures</div>",
+            "node_type": "note"
+          },
+          {
+            "text": "Full Text PDF",
+            "item-id": "i718",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Full Text PDF",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-08-25 19:26:23"
+              ],
+              [
+                "Title",
+                "Full Text PDF"
+              ],
+              [
+                "URL",
+                "https://arxiv.org/pdf/2106.07485.pdf"
+              ]
+            ],
+            "resource": "storage/i718.pdf"
+          },
+          {
+            "text": "arXiv.org Snapshot",
+            "item-id": "i717",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "arXiv.org Snapshot",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2023-08-25 19:26:22"
+              ],
+              [
+                "Title",
+                "arXiv.org Snapshot"
+              ],
+              [
+                "URL",
+                "https://arxiv.org/abs/2106.07485"
+              ]
+            ],
+            "resource": "storage/i717.html"
+          }
+        ],
+        "icon": "glyphicon glyphicon-unchecked",
+        "item_title": "Grammar Equations",
+        "item_type": "preprint",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Abstract Note",
+            "Diagrammatically speaking, grammatical calculi such as pregroups provide wires between words in order to elucidate their interactions, and this enables one to verify grammatical correctness of phrases and sentences. In this paper we also provide wirings within words. This will enable us to identify grammatical constructs that we expect to be either equal or closely related. Hence, our work paves the way for a new theory of grammar, that provides novel `grammatical truths'. We give a nogo-theorem for the fact that our wirings for words make no sense for preordered monoids, the form which grammatical calculi usually take. Instead, they require diagrams -- or equivalently, (free) monoidal categories."
+          ],
+          [
+            "Access Date",
+            "2023-08-25 19:26:14"
+          ],
+          [
+            "Archiveid",
+            "arXiv:2106.07485"
+          ],
+          [
+            "Creators",
+            "Bob Coecke, Vincent Wang"
+          ],
+          [
+            "Date",
+            "2021-06-14 2021-06-14"
+          ],
+          [
+            "Extra",
+            "arXiv:2106.07485 [cs, math]"
+          ],
+          [
+            "Library Catalog",
+            "arXiv.org"
+          ],
+          [
+            "Repository",
+            "arXiv"
+          ],
+          [
+            "Title",
+            "Grammar Equations"
+          ],
+          [
+            "URL",
+            "http://arxiv.org/abs/2106.07485"
+          ]
+        ],
+        "resource": "storage/i718.pdf",
+        "selectable": false
+      }
+    ],
+    "item_title": "Formal language",
+    "item_type": null,
+    "item_note": null,
+    "node_type": "collection",
+    "selectable": false
+  },
+  {
     "text": "Formal logic",
     "item-id": "c145,iNone",
     "nodes": [
@@ -4350,7 +6144,7 @@ var tree =
   },
   {
     "text": "General relativity",
-    "item-id": "c3,i236",
+    "item-id": "c3,i219",
     "nodes": [
       {
         "text": "A Generalized Wick Transform for Gravity",
@@ -5280,8 +7074,124 @@ var tree =
       },
       {
         "text": "Special relativity",
-        "item-id": "c9,i74",
+        "item-id": "c9,i758",
         "nodes": [
+          {
+            "text": "A Maupertuis-type principle in relativistic mechanics and applications",
+            "item-id": "i758",
+            "nodes": [
+              {
+                "text": "Comment: 33 pages",
+                "item-id": "n759",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 33 pages",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 33 pages</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i760",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:13:40"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2206.08667.pdf"
+                  ]
+                ],
+                "resource": "storage/i760.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i762",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:13:49"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2206.08667"
+                  ]
+                ],
+                "resource": "storage/i762.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "A Maupertuis-type principle in relativistic mechanics and applications",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We provide a Maupertuis-type principle for the following system of ODE, of interest in special relativity: $$ \\frac{\\rm d}{{\\rm d}t}\\left(\\frac{m\\dot{x}}{\\sqrt{1-|\\dot{x}|^2/c^2}}\\right)=\\nabla V(x),\\qquad x\\in\\Omega \\subset \\mathbb{R}^n, $$ where $m, c > 0$ and $V: \\Omega \\to \\mathbb{R}$ is a function of class $C^1$. As an application, we prove the existence of multiple periodic solutions with prescribed energy for a relativistic $N$-centre type problem in the plane."
+              ],
+              [
+                "Access Date",
+                "2023-11-12 22:13:37"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2206.08667"
+              ],
+              [
+                "Creators",
+                "Alberto Boscaggin, Walter Dambrosio, Eduardo Mu\u00f1oz-Hern\u00e1ndez"
+              ],
+              [
+                "DOI",
+                "10.48550/arXiv.2206.08667"
+              ],
+              [
+                "Date",
+                "2022-06-17 2022-06-17"
+              ],
+              [
+                "Extra",
+                "arXiv:2206.08667 [math-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "A Maupertuis-type principle in relativistic mechanics and applications"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2206.08667"
+              ]
+            ],
+            "resource": "storage/i760.pdf",
+            "selectable": false
+          },
           {
             "text": "On the visual appearance of relativistic objects",
             "item-id": "i50",
@@ -5586,7 +7496,7 @@ var tree =
       },
       {
         "text": "Differential geometry",
-        "item-id": "c22,i208",
+        "item-id": "c22,i768",
         "nodes": [
           {
             "text": "A Practical Introduction to Di\ufb00erential Forms",
@@ -5648,20 +7558,23 @@ var tree =
                 "node_type": "collection"
               },
               {
-                "text": "Calabi-Yau geometry",
-                "item-id": "c64,iNone",
-                "item_title": "Calabi-Yau geometry",
-                "item_type": null,
-                "item_note": null,
-                "node_type": "collection"
-              },
-              {
                 "text": "K\u00e4hler geometry",
                 "item-id": "c63,iNone",
+                "nodes": [
+                  {
+                    "text": "Calabi-Yau geometry",
+                    "item-id": "c64,iNone",
+                    "item_title": "Calabi-Yau geometry",
+                    "item_type": null,
+                    "item_note": null,
+                    "node_type": "collection"
+                  }
+                ],
                 "item_title": "K\u00e4hler geometry",
                 "item_type": null,
                 "item_note": null,
-                "node_type": "collection"
+                "node_type": "collection",
+                "selectable": false
               }
             ],
             "item_title": "Complex geometry",
@@ -5677,6 +7590,122 @@ var tree =
             "item_type": null,
             "item_note": null,
             "node_type": "collection"
+          },
+          {
+            "text": "Contact bundle formulation of nonholonomic Maupertuis-Jacobi principle and a length minimizing property of nonholonomic dynamics",
+            "item-id": "i768",
+            "nodes": [
+              {
+                "text": "Comment: 32 pages",
+                "item-id": "n769",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 32 pages",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 32 pages</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i770",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:15:25"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2104.13178.pdf"
+                  ]
+                ],
+                "resource": "storage/i770.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i771",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-11-12 22:15:31"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2104.13178"
+                  ]
+                ],
+                "resource": "storage/i771.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Contact bundle formulation of nonholonomic Maupertuis-Jacobi principle and a length minimizing property of nonholonomic dynamics",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We prove a nonholonomic version of the classical Mauper\\-tuis-Jacobi principle which transforms an autonomous mechanical nonholonomic problem, determined by a kinetic minus potential energy and a distribution, in a kinetic nonholonomic problem over a fixed level set of the Lagrangian energy. To prove this result we introduce an appropriate contact bundle structure clarifying the geometric equivalence between both problems. By using the nonholonomic Maupertuis-Jacobi principle, we prove that the regular solutions of a mechanical nonholonomic problem starting from a fixed point and in the same level set of the Lagrangian energy are reparametrizations of geodesics for a family of Riemannian metrics defined on the image of the nonholonomic exponential map. In particular, these trajectories minimize Riemannian length."
+              ],
+              [
+                "Access Date",
+                "2023-11-12 22:15:22"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2104.13178"
+              ],
+              [
+                "Creators",
+                "Alexandre Anahory Simoes, Juan Carlos Marrero, David Mart\u00edn de Diego"
+              ],
+              [
+                "DOI",
+                "10.48550/arXiv.2104.13178"
+              ],
+              [
+                "Date",
+                "2021-04-27 2021-04-27"
+              ],
+              [
+                "Extra",
+                "arXiv:2104.13178 [math-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Contact bundle formulation of nonholonomic Maupertuis-Jacobi principle and a length minimizing property of nonholonomic dynamics"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2104.13178"
+              ]
+            ],
+            "resource": "storage/i770.pdf",
+            "selectable": false
           },
           {
             "text": "Contact geometry",
@@ -5712,8 +7741,115 @@ var tree =
                 "nodes": [
                   {
                     "text": "Symplectic geometry",
-                    "item-id": "c16,i49",
+                    "item-id": "c16,i772",
                     "nodes": [
+                      {
+                        "text": "Revealing the phase space structure of Hamiltonian systems using the action",
+                        "item-id": "i772",
+                        "nodes": [
+                          {
+                            "text": "arXiv Fulltext PDF",
+                            "item-id": "i773",
+                            "icon": "glyphicon glyphicon-paperclip",
+                            "item_title": "arXiv Fulltext PDF",
+                            "item_type": "attachment",
+                            "item_note": null,
+                            "node_type": "item",
+                            "metadata": [
+                              [
+                                "Access Date",
+                                "2023-11-12 22:15:43"
+                              ],
+                              [
+                                "Title",
+                                "arXiv Fulltext PDF"
+                              ],
+                              [
+                                "URL",
+                                "https://arxiv.org/pdf/2102.07550.pdf"
+                              ]
+                            ],
+                            "resource": "storage/i773.pdf"
+                          },
+                          {
+                            "text": "arXiv.org Snapshot",
+                            "item-id": "i774",
+                            "icon": "glyphicon glyphicon-paperclip",
+                            "item_title": "arXiv.org Snapshot",
+                            "item_type": "attachment",
+                            "item_note": null,
+                            "node_type": "item",
+                            "metadata": [
+                              [
+                                "Access Date",
+                                "2023-11-12 22:15:48"
+                              ],
+                              [
+                                "Title",
+                                "arXiv.org Snapshot"
+                              ],
+                              [
+                                "URL",
+                                "https://arxiv.org/abs/2102.07550"
+                              ]
+                            ],
+                            "resource": "storage/i774.html"
+                          }
+                        ],
+                        "icon": "glyphicon glyphicon-unchecked",
+                        "item_title": "Revealing the phase space structure of Hamiltonian systems using the action",
+                        "item_type": "preprint",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Abstract Note",
+                            "In this work, we analyse the properties of the Maupertuis' action as a tool to reveal the phase space structure for Hamiltonian systems. We construct a scalar field with the action's values along the trajectories in the phase space. The different behaviour of the trajectories around important phase space objects like unstable periodic orbits, their stable and unstable manifolds, and KAM islands generate characteristic patterns on the scalar field constructed with the action. Using these different patterns is possible to identify the skeleton of the phase space and understand the dynamics. Also, we present a simple argument based on the conservation of the energy and the behaviour of the trajectories to understand the values of their actions. In order to show how this tool reveals the phase space structures and its effectiveness, we compare the scalar field constructed with the actions with Poincare maps for the same set of initial conditions in the phase space of an open Hamiltonian system with 2 degrees of freedom."
+                          ],
+                          [
+                            "Access Date",
+                            "2023-11-12 22:15:36"
+                          ],
+                          [
+                            "Archiveid",
+                            "arXiv:2102.07550"
+                          ],
+                          [
+                            "Creators",
+                            "Francisco Gonzalez Montoya, Makrina Agaoglou, Matthaios Katsanikas"
+                          ],
+                          [
+                            "DOI",
+                            "10.48550/arXiv.2102.07550"
+                          ],
+                          [
+                            "Date",
+                            "2021-02-16 2021-02-16"
+                          ],
+                          [
+                            "Extra",
+                            "arXiv:2102.07550 [nlin, physics:physics]"
+                          ],
+                          [
+                            "Library Catalog",
+                            "arXiv.org"
+                          ],
+                          [
+                            "Repository",
+                            "arXiv"
+                          ],
+                          [
+                            "Title",
+                            "Revealing the phase space structure of Hamiltonian systems using the action"
+                          ],
+                          [
+                            "URL",
+                            "http://arxiv.org/abs/2102.07550"
+                          ]
+                        ],
+                        "resource": "storage/i773.pdf",
+                        "selectable": false
+                      },
                       {
                         "text": "lsg.pdf",
                         "item-id": "i49",
@@ -6021,11 +8157,329 @@ var tree =
         "nodes": [
           {
             "text": "Algebraic topology",
-            "item-id": "c26,iNone",
+            "item-id": "c26,i833",
+            "nodes": [
+              {
+                "text": "AT.pdf",
+                "item-id": "i794",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "AT.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-01-07 15:46:08"
+                  ],
+                  [
+                    "Title",
+                    "AT.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://pi.math.cornell.edu/~hatcher/AT/AT.pdf"
+                  ]
+                ],
+                "resource": "storage/i794.pdf"
+              },
+              {
+                "text": "Algebraic Topology Lecture Notes Fall 2018",
+                "item-id": "i833",
+                "nodes": [
+                  {
+                    "text": "Quick - Algebraic Topology Lecture Notes Fall 2018.pdf",
+                    "item-id": "i832",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Quick - Algebraic Topology Lecture Notes Fall 2018.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-01-10 09:38:26"
+                      ],
+                      [
+                        "Title",
+                        "Quick - Algebraic Topology Lecture Notes Fall 2018.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://folk.ntnu.no/gereonq/MA3403H2018/MA3403_Lecture_Notes.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i832.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Algebraic Topology Lecture Notes Fall 2018",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "Gereon Quick"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Algebraic Topology Lecture Notes Fall 2018"
+                  ]
+                ],
+                "resource": "storage/i832.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Algebraic topology",
+                "item-id": "i831",
+                "nodes": [
+                  {
+                    "text": "Algebraic topology.pdf",
+                    "item-id": "i830",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Algebraic topology.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-01-10 09:30:17"
+                      ],
+                      [
+                        "Title",
+                        "Algebraic topology.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://math.mit.edu/~hrm/papers/905-notes-aug19.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i830.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Algebraic topology",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Algebraic topology"
+                  ]
+                ],
+                "resource": "storage/i830.pdf",
+                "selectable": false
+              },
+              {
+                "text": "An Overview of Simplicial and Singular Homology Groups",
+                "item-id": "i820",
+                "nodes": [
+                  {
+                    "text": "Roy - An Overview of Simplicial and Singular Homology Gr.pdf",
+                    "item-id": "i819",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Roy - An Overview of Simplicial and Singular Homology Gr.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-01-07 16:21:33"
+                      ],
+                      [
+                        "Title",
+                        "Roy - An Overview of Simplicial and Singular Homology Gr.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://web.ma.utexas.edu/users/drp/files/Fall2020Projects/Ethan_Roy_DRP_Project_Fall_2020%20-%20Ethan%20T%20Roy.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i819.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "An Overview of Simplicial and Singular Homology Groups",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "Ethan Roy"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "An Overview of Simplicial and Singular Homology Groups"
+                  ]
+                ],
+                "resource": "storage/i819.pdf",
+                "selectable": false
+              },
+              {
+                "text": "ConciseRevised.pdf",
+                "item-id": "i827",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "ConciseRevised.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-01-10 09:27:13"
+                  ],
+                  [
+                    "Title",
+                    "ConciseRevised.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf"
+                  ]
+                ],
+                "resource": "storage/i827.pdf"
+              },
+              {
+                "text": "INTRODUCTION TO SIMPLICIAL COMPLEXES",
+                "item-id": "i793",
+                "nodes": [
+                  {
+                    "text": "Kelleher and Pantano - INTRODUCTION TO SIMPLICIAL COMPLEXES.pdf",
+                    "item-id": "i792",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Kelleher and Pantano - INTRODUCTION TO SIMPLICIAL COMPLEXES.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-01-07 15:45:18"
+                      ],
+                      [
+                        "Title",
+                        "Kelleher and Pantano - INTRODUCTION TO SIMPLICIAL COMPLEXES.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://www.math.uci.edu/~mathcircle/materials/MCsimplex.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i792.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "INTRODUCTION TO SIMPLICIAL COMPLEXES",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "Casey Kelleher, Alessandra Pantano"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "INTRODUCTION TO SIMPLICIAL COMPLEXES"
+                  ]
+                ],
+                "resource": "storage/i792.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Simplicial Complexes  - A short Introduction to Algebraic Topology and Discrete Geometry",
+                "item-id": "i791",
+                "nodes": [
+                  {
+                    "text": "Simplicial Complexes  - A short Introduction to Al.pdf",
+                    "item-id": "i790",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Simplicial Complexes  - A short Introduction to Al.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-01-07 15:44:55"
+                      ],
+                      [
+                        "Title",
+                        "Simplicial Complexes  - A short Introduction to Al.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://ncatlab.org/nlab/files/Erleben_SimplicialComplexes.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i790.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Simplicial Complexes  - A short Introduction to Algebraic Topology and Discrete Geometry",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Simplicial Complexes  - A short Introduction to Algebraic Topology and Discrete Geometry"
+                  ]
+                ],
+                "resource": "storage/i790.pdf",
+                "selectable": false
+              }
+            ],
             "item_title": "Algebraic topology",
             "item_type": null,
             "item_note": null,
-            "node_type": "collection"
+            "node_type": "collection",
+            "selectable": false
           },
           {
             "text": "Differential topology",
@@ -6419,8 +8873,120 @@ var tree =
       },
       {
         "text": "Loop quantum gravity",
-        "item-id": "c7,i158",
+        "item-id": "c7,i784",
         "nodes": [
+          {
+            "text": "An elementary introduction to loop quantum gravity",
+            "item-id": "i784",
+            "nodes": [
+              {
+                "text": "Comment: 48+14 pages, 8 figures",
+                "item-id": "n785",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 48+14 pages, 8 figures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 48+14 pages, 8 figures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i787",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-12-19 08:38:24"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1607.05129.pdf"
+                  ]
+                ],
+                "resource": "storage/i787.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i786",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-12-19 08:38:22"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1607.05129"
+                  ]
+                ],
+                "resource": "storage/i786.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "An elementary introduction to loop quantum gravity",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "An introduction to loop quantum gravity is given, focussing on the fundamental aspects of the theory, different approaches to the dynamics, as well as possible future directions. It is structured in five lectures, including exercises, and requires only little prior knowledge of quantum mechanics, gauge theory, and general relativity. The main aim of these lectures is to provide non-experts with an elementary understanding of loop quantum gravity and to evaluate the state of the art of the field. Technical details are avoided wherever possible."
+              ],
+              [
+                "Access Date",
+                "2023-12-19 08:38:16"
+              ],
+              [
+                "Archiveid",
+                "arXiv:1607.05129"
+              ],
+              [
+                "Creators",
+                "Norbert Bodendorfer"
+              ],
+              [
+                "Date",
+                "2016-07-18 2016-07-18"
+              ],
+              [
+                "Extra",
+                "arXiv:1607.05129 [gr-qc]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "An elementary introduction to loop quantum gravity"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1607.05129"
+              ]
+            ],
+            "resource": "storage/i787.pdf",
+            "selectable": false
+          },
           {
             "text": "Lectures on Loop Quantum Gravity",
             "item-id": "i158",
@@ -7810,8 +10376,140 @@ var tree =
       },
       {
         "text": "Quantum field theory",
-        "item-id": "c6,i35",
+        "item-id": "c6,i821",
         "nodes": [
+          {
+            "text": "Classical Physics and Quantum Loops",
+            "item-id": "i821",
+            "nodes": [
+              {
+                "text": "Comment: 15 pages, 3 figures",
+                "item-id": "n822",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 15 pages, 3 figures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 15 pages, 3 figures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i823",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-01-09 14:20:45"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/hep-th/0405239.pdf"
+                  ]
+                ],
+                "resource": "storage/i823.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i824",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-01-09 14:20:53"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/hep-th/0405239"
+                  ]
+                ],
+                "resource": "storage/i824.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Classical Physics and Quantum Loops",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The standard picture of the loop expansion associates a factor of h-bar with each loop, suggesting that the tree diagrams are to be associated with classical physics, while loop effects are quantum mechanical in nature. We discuss examples wherein classical effects arise from loop contributions and display the relationship between the classical terms and the long range effects of massless particles."
+              ],
+              [
+                "Access Date",
+                "2024-01-09 14:20:41"
+              ],
+              [
+                "Creators",
+                "Barry R. Holstein, John F. Donoghue"
+              ],
+              [
+                "DOI",
+                "10.1103/PhysRevLett.93.201602"
+              ],
+              [
+                "Date",
+                "2004-11-11 2004-11-11"
+              ],
+              [
+                "Extra",
+                "arXiv:hep-th/0405239"
+              ],
+              [
+                "ISSN",
+                "0031-9007, 1079-7114"
+              ],
+              [
+                "Issue",
+                "20"
+              ],
+              [
+                "Journal Abbreviation",
+                "Phys. Rev. Lett."
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "201602"
+              ],
+              [
+                "Publication Title",
+                "Physical Review Letters"
+              ],
+              [
+                "Title",
+                "Classical Physics and Quantum Loops"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/hep-th/0405239"
+              ],
+              [
+                "Volume",
+                "93"
+              ]
+            ],
+            "resource": "storage/i823.pdf",
+            "selectable": false
+          },
           {
             "text": "Covariant phase space with boundaries",
             "item-id": "i35",
@@ -7945,8 +10643,111 @@ var tree =
             "selectable": false
           },
           {
+            "text": "Functorial evolution of quantum fields",
+            "item-id": "i687",
+            "nodes": [
+              {
+                "text": "Full Text PDF",
+                "item-id": "i689",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:08:09"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2003.13271.pdf"
+                  ]
+                ],
+                "resource": "storage/i689.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i688",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:08:05"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2003.13271"
+                  ]
+                ],
+                "resource": "storage/i688.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Functorial evolution of quantum fields",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We present a compositional algebraic framework to describe the evolution of quantum fields in discretised spacetimes. We show how familiar notions from Relativity and quantum causality can be recovered in a purely order-theoretic way from the causal order of events in spacetime, with no direct mention of analysis or topology. We formulate theory-independent notions of fields over causal orders in a compositional, functorial way. We draw a strong connection to Algebraic Quantum Field Theory (AQFT), using a sheaf-theoretical approach in our definition of spaces of states over regions of spacetime. We introduce notions of symmetry and cellular automata, which we show to subsume existing definitions of Quantum Cellular Automata (QCA) from previous literature. Given the extreme flexibility of our constructions, we propose that our framework be used as the starting point for new developments in AQFT, QCA and more generally Quantum Field Theory."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 19:07:58"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2003.13271"
+              ],
+              [
+                "Creators",
+                "Stefano Gogioso, Maria E. Stasinou, Bob Coecke"
+              ],
+              [
+                "Date",
+                "2020-03-30 2020-03-30"
+              ],
+              [
+                "Extra",
+                "arXiv:2003.13271 [quant-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Functorial evolution of quantum fields"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2003.13271"
+              ]
+            ],
+            "resource": "storage/i689.pdf",
+            "selectable": false
+          },
+          {
             "text": "Gauge theory",
-            "item-id": "c84,i62",
+            "item-id": "c84,i750",
             "nodes": [
               {
                 "text": "Electroweak theory",
@@ -8095,6 +10896,105 @@ var tree =
                 "item_type": null,
                 "item_note": null,
                 "node_type": "collection"
+              },
+              {
+                "text": "Quantum Gauge Networks",
+                "item-id": "i750",
+                "nodes": [
+                  {
+                    "text": "Slagle - 2023 - Quantum Gauge Networks A New Kind of Tensor Netwo.pdf",
+                    "item-id": "i749",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Slagle - 2023 - Quantum Gauge Networks A New Kind of Tensor Netwo.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2023-10-11 00:09:22"
+                      ],
+                      [
+                        "Title",
+                        "Slagle - 2023 - Quantum Gauge Networks A New Kind of Tensor Netwo.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://arxiv.org/pdf/2210.12151.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i749.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Quantum Gauge Networks",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "Although tensor networks are powerful tools for simulating low-dimensional quantum physics, tensor network algorithms are very computationally costly in higher spatial dimensions. We introduce\n              \n                \n                  quantum gauge networks\n                \n              \n              : a different kind of tensor network ansatz for which the computation cost of simulations does not explicitly increase for larger spatial dimensions. We take inspiration from the gauge picture of quantum dynamics, which consists of a local wavefunction for each patch of space, with neighboring patches related by unitary connections. A quantum gauge network (QGN) has a similar structure, except the Hilbert space dimensions of the local wavefunctions and connections are truncated. We describe how a QGN can be obtained from a generic wavefunction or matrix product state (MPS). All\n              \n                2\n                k\n              \n              -point correlation functions of any wavefunction for\n              \n                M\n              \n              many operators can be encoded exactly by a QGN with bond dimension\n              \n                O\n                (\n                \n                  M\n                  k\n                \n                )\n              \n              . In comparison, for just\n              \n                k\n                =\n                1\n              \n              , an exponentially larger bond dimension of\n              \n                \n                  2\n                  \n                    M\n                    \n                      /\n                    \n                    6\n                  \n                \n              \n              is generically required for an MPS of qubits. We provide a simple QGN algorithm for approximate simulations of quantum dynamics in any spatial dimension. The approximate dynamics can achieve exact energy conservation for time-independent Hamiltonians, and spatial symmetries can also be maintained exactly. We benchmark the algorithm by simulating the quantum quench of fermionic Hamiltonians in up to three spatial dimensions."
+                  ],
+                  [
+                    "Access Date",
+                    "2023-10-11 00:18:15"
+                  ],
+                  [
+                    "Creators",
+                    "Kevin Slagle"
+                  ],
+                  [
+                    "DOI",
+                    "10.22331/q-2023-09-14-1113"
+                  ],
+                  [
+                    "Date",
+                    "2023-09-14 2023-09-14"
+                  ],
+                  [
+                    "ISSN",
+                    "2521-327X"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "Quantum"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "DOI.org (Crossref)"
+                  ],
+                  [
+                    "Pages",
+                    "1113"
+                  ],
+                  [
+                    "Publication Title",
+                    "Quantum"
+                  ],
+                  [
+                    "Short Title",
+                    "Quantum Gauge Networks"
+                  ],
+                  [
+                    "Title",
+                    "Quantum Gauge Networks: A New Kind of Tensor Network"
+                  ],
+                  [
+                    "URL",
+                    "https://quantum-journal.org/papers/q-2023-09-14-1113/"
+                  ],
+                  [
+                    "Volume",
+                    "7"
+                  ]
+                ],
+                "resource": "storage/i749.pdf",
+                "selectable": false
               },
               {
                 "text": "Quantum chromodynamics",
@@ -8556,8 +11456,91 @@ var tree =
       },
       {
         "text": "Quantum foundations",
-        "item-id": "c5,i192",
+        "item-id": "c5,i720",
         "nodes": [
+          {
+            "text": "A Closer Look at Quantum Measurements",
+            "item-id": "i13",
+            "nodes": [
+              {
+                "text": "Email - A Closer Look at Quantum Measurements.pdf",
+                "item-id": "i12",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Email - A Closer Look at Quantum Measurements.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-12 02:06:07"
+                  ],
+                  [
+                    "Title",
+                    "Email - A Closer Look at Quantum Measurements.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://booodaness.github.io/tempus-spatium/assets/pdf/posts/2023-08-03-closer-look-quantum-measurements/main.pdf"
+                  ]
+                ],
+                "resource": "storage/i12.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "A Closer Look at Quantum Measurements",
+            "item_type": "conferencePaper",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "In this study, we investigate the nature of quantum measurement by exploring the relationships between the Born rule, expectation values, density operators and such notions from first principles. This reveals a generalized form of the Born rule. Moreover, the usual form of the Born rule can be sufficiently characterized by an explicit modelling of wavefunction collapse and measurement-invariant density operators."
+              ],
+              [
+                "Conference Name",
+                "PhysClub Student Seminar"
+              ],
+              [
+                "Creators",
+                "Siddhartha Bhattacharjee Email"
+              ],
+              [
+                "Date",
+                "2023-08-02 2023-08-02"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Place",
+                "University of Waterloo"
+              ],
+              [
+                "Publisher",
+                "GitHub Pages"
+              ],
+              [
+                "Rights",
+                "All rights reserved"
+              ],
+              [
+                "Title",
+                "A Closer Look at Quantum Measurements"
+              ],
+              [
+                "URL",
+                "https://booodaness.github.io/tempus-spatium/closer-look-quantum-measurements/"
+              ]
+            ],
+            "resource": "storage/i12.pdf",
+            "selectable": false
+          },
           {
             "text": "At the Interface of Algebra and Statistics",
             "item-id": "i192",
@@ -8640,6 +11623,217 @@ var tree =
               ]
             ],
             "resource": "storage/i191.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Demystifying Weak Measurements",
+            "item-id": "i720",
+            "nodes": [
+              {
+                "text": "Kastner - 2017 - Demystifying Weak Measurements.pdf",
+                "item-id": "i719",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Kastner - 2017 - Demystifying Weak Measurements.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 23:19:35"
+                  ],
+                  [
+                    "Title",
+                    "Kastner - 2017 - Demystifying Weak Measurements.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/ftp/arxiv/papers/1702/1702.04021.pdf"
+                  ]
+                ],
+                "resource": "storage/i719.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Demystifying Weak Measurements",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "A large literature has grown up around the proposed use of 'weak measurements' (i.e., unsharp measurements followed by post-selection) to allegedly provide information about hidden ontological features of quantum systems. This paper attempts to clarify the fact that 'weak measurements' involve strong (projective) measurements on one (pointer) member of an entangled system. The only thing 'weak' about such measurements is that the correlation established via the entanglement does not correspond to eigenstates of the 'weakly measured observable' for the remaining component system(s) subject to the weak measurement. All observed statistics are straightforwardly and easily predicted by standard quantum mechanics. Specifically, it is noted that measurement of the pointer steers the remaining degree(s) of freedom into new states with new statistical properties\u2014constituting a non-trivial (even if generally small) disturbance. In addition, standard quantum mechanics readily allows us to conditionalize on a final state if we choose, so the \u2018post-selection\u2019 that features prominently in time-symmetric formulations is also equipment from standard quantum theory. Assertions in the literature that weak measurements leave a system negligibly disturbed, and/or that standard quantum theory is cumbersome for computing the predicted measurement results, are therefore unsupportable, and ontological claims based on such assertions need to be critically reassessed."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 23:19:40"
+              ],
+              [
+                "Creators",
+                "R. E. Kastner"
+              ],
+              [
+                "DOI",
+                "10.1007/s10701-017-0085-4"
+              ],
+              [
+                "Date",
+                "2017-05-00 5/2017"
+              ],
+              [
+                "ISSN",
+                "0015-9018, 1572-9516"
+              ],
+              [
+                "Issue",
+                "5"
+              ],
+              [
+                "Journal Abbreviation",
+                "Found Phys"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Pages",
+                "697-707"
+              ],
+              [
+                "Publication Title",
+                "Foundations of Physics"
+              ],
+              [
+                "Title",
+                "Demystifying Weak Measurements"
+              ],
+              [
+                "URL",
+                "http://link.springer.com/10.1007/s10701-017-0085-4"
+              ],
+              [
+                "Volume",
+                "47"
+              ]
+            ],
+            "resource": "storage/i719.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Equivalence of relativistic causal structure and process terminality",
+            "item-id": "i705",
+            "nodes": [
+              {
+                "text": "Comment: 5 pages. Some pictures",
+                "item-id": "n706",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 5 pages. Some pictures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 5 pages. Some pictures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i708",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:13:38"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1708.04118.pdf"
+                  ]
+                ],
+                "resource": "storage/i708.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i707",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:13:37"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1708.04118"
+                  ]
+                ],
+                "resource": "storage/i707.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Equivalence of relativistic causal structure and process terminality",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "In general relativity, `causal structure' refers to the partial order on space-time points (or regions) that encodes time-like relationships. Recently, quantum information and quantum foundations saw the emergence of a `causality principle'. In the form used in this paper, which we call `process terminality', it states that when the output of a process is discarded, then the process itself may as well be discarded. While causal structure and process terminality at first seem to be entirely different notions, they become equivalent when making explicit what the partial order actually encodes, that is, that an event in the past can influence one in its future, but not vice-versa. The framework in which we establish this equivalence is that of process theories. We show how several previous results are instances of this result and comment on how this framework could provide an ideal, minimal canvas for crafting theories of quantum gravity."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 19:13:29"
+              ],
+              [
+                "Archiveid",
+                "arXiv:1708.04118"
+              ],
+              [
+                "Creators",
+                "Aleks Kissinger, Matty Hoban, Bob Coecke"
+              ],
+              [
+                "Date",
+                "2017-08-15 2017-08-15"
+              ],
+              [
+                "Extra",
+                "arXiv:1708.04118 [gr-qc, physics:quant-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Equivalence of relativistic causal structure and process terminality"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1708.04118"
+              ]
+            ],
+            "resource": "storage/i708.pdf",
             "selectable": false
           },
           {
@@ -8748,6 +11942,118 @@ var tree =
               ]
             ],
             "resource": "storage/i178.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Schr\\\"odinger representations from the viewpoint of monoidal categories",
+            "item-id": "i478",
+            "nodes": [
+              {
+                "text": "Comment: 32 pages, 3 figures",
+                "item-id": "n479",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 32 pages, 3 figures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 32 pages, 3 figures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i576",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 18:11:09"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1312.5037.pdf"
+                  ]
+                ],
+                "resource": "storage/i576.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i530",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 18:11:03"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1312.5037"
+                  ]
+                ],
+                "resource": "storage/i530.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Schr\\\"odinger representations from the viewpoint of monoidal categories",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The Drinfel'd double D(A) of a finite-dimensional Hopf algebra A is a Hopf algebraic counterpart of the monoidal center construction. Majid introduced an important representation of the Drinfel'd double, which he called the Schr\\\"odinger representation. We study this representation from the viewpoint of the theory of monoidal categories. One of our main results is as follows: If two finite-dimensional Hopf algebras A and B over a field k are monoidally Morita equivalent, i.e., there exists an equivalence F from the module category over A to the module category over B of k-linear monoidal categories, then the equivalence between the module categories over D(A) and D(B) induced by F preserves the Schr\\\"odinger representation. As an application, we construct a family of invariants of finite-dimensional Hopf algebras under the monoidal Morita equivalence. This family is parameterized by braids. The invariant associated to a braid b is, roughly speaking, defined by \"coloring'' the closure of b by the Schr\\\"odinger representation. We investigate what algebraic properties this family have and, in particular, show that the invariant associated to a certain braid closely relates to the number of irreducible representations."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 18:10:34"
+              ],
+              [
+                "Archiveid",
+                "arXiv:1312.5037"
+              ],
+              [
+                "Creators",
+                "Kenichi Shimizu, Michihisa Wakui"
+              ],
+              [
+                "Date",
+                "2013-12-17 2013-12-17"
+              ],
+              [
+                "Extra",
+                "arXiv:1312.5037 [math]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Schr\\\"odinger representations from the viewpoint of monoidal categories"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1312.5037"
+              ]
+            ],
+            "resource": "storage/i576.pdf",
             "selectable": false
           }
         ],
@@ -8959,6 +12265,109 @@ var tree =
                   ]
                 ],
                 "resource": "storage/i166.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Quantum natural language processing",
+                "item-id": "c167,i710",
+                "nodes": [
+                  {
+                    "text": "Distilling Text into Circuits",
+                    "item-id": "i710",
+                    "nodes": [
+                      {
+                        "text": "Comment: 53 pages, lots of figures",
+                        "item-id": "n711",
+                        "icon": "glyphicon glyphicon-text-background",
+                        "item_title": "Comment: 53 pages, lots of figures",
+                        "item_type": "note",
+                        "item_note": "<div class=\"zotero-note znv1\">Comment: 53 pages, lots of figures</div>",
+                        "node_type": "note"
+                      },
+                      {
+                        "text": "Wang-Mascianica et al. - 2023 - Distilling Text into Circuits.pdf",
+                        "item-id": "i709",
+                        "icon": "glyphicon glyphicon-paperclip",
+                        "item_title": "Wang-Mascianica et al. - 2023 - Distilling Text into Circuits.pdf",
+                        "item_type": "attachment",
+                        "item_note": null,
+                        "node_type": "item",
+                        "metadata": [
+                          [
+                            "Access Date",
+                            "2023-08-25 19:24:36"
+                          ],
+                          [
+                            "Title",
+                            "Wang-Mascianica et al. - 2023 - Distilling Text into Circuits.pdf"
+                          ],
+                          [
+                            "URL",
+                            "https://arxiv.org/pdf/2301.10595.pdf"
+                          ]
+                        ],
+                        "resource": "storage/i709.pdf"
+                      }
+                    ],
+                    "icon": "glyphicon glyphicon-unchecked",
+                    "item_title": "Distilling Text into Circuits",
+                    "item_type": "preprint",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Abstract Note",
+                        "This paper concerns the structure of meanings within natural language. In [13] a framework for natural language named DisCoCirc was sketched that has the following features: (1) it is both compositional and distributional (a.k.a. vectorial); (2) it applies to general text, not just sentences; (3) it captures linguistic \u2018connections\u2019 between meanings (cf. grammar); (4) word meanings get updated as text progresses; (5) sentence types re\ufb02ect the words that have their meaning updated; (6) language ambiguity is naturally accommodated. In this paper, we realise DisCoCirc for a substantial fragment of English. We moreover show that when passing to DisCoCirc\u2019s text circuits, some \u2018grammatical bureaucracy\u2019 is eliminated. That is, DisCoCirc displays a signi\ufb01cant degree of: (7) inter- and intra-language independence. By inter-language independence we mean for example independence from word-order conventions that di\ufb00er across languages, and by intra-language independence we mean for example independence from choices like using many short sentences versus few long sentences. This inter-language independence means our text circuits should carry over to other languages, unlike the language-speci\ufb01c typings of categorial grammars. Hence, text circuits are a lean structure for the \u2018actual substance of text\u2019, that is, the inner-workings of meanings within text across several layers of expressiveness (cf. words, sentences, text), and may capture that what is truly universal beneath grammar."
+                      ],
+                      [
+                        "Access Date",
+                        "2023-08-25 19:24:42"
+                      ],
+                      [
+                        "Archiveid",
+                        "arXiv:2301.10595"
+                      ],
+                      [
+                        "Creators",
+                        "Vincent Wang-Mascianica, Jonathon Liu, Bob Coecke"
+                      ],
+                      [
+                        "Date",
+                        "2023-01-25 2023-01-25"
+                      ],
+                      [
+                        "Extra",
+                        "arXiv:2301.10595 [cs, math]"
+                      ],
+                      [
+                        "Language",
+                        "en"
+                      ],
+                      [
+                        "Library Catalog",
+                        "arXiv.org"
+                      ],
+                      [
+                        "Repository",
+                        "arXiv"
+                      ],
+                      [
+                        "Title",
+                        "Distilling Text into Circuits"
+                      ],
+                      [
+                        "URL",
+                        "http://arxiv.org/abs/2301.10595"
+                      ]
+                    ],
+                    "resource": "storage/i709.pdf",
+                    "selectable": false
+                  }
+                ],
+                "item_title": "Quantum natural language processing",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection",
                 "selectable": false
               },
               {
@@ -9749,148 +13158,6 @@ var tree =
         "node_type": "collection"
       },
       {
-        "text": "Quantum mechanics",
-        "item-id": "c86,i217",
-        "nodes": [
-          {
-            "text": "Geometrical Formulation of Quantum Mechanics",
-            "item-id": "i176",
-            "nodes": [
-              {
-                "text": "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf",
-                "item-id": "i175",
-                "icon": "glyphicon glyphicon-paperclip",
-                "item_title": "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf",
-                "item_type": "attachment",
-                "item_note": null,
-                "node_type": "item",
-                "metadata": [
-                  [
-                    "Title",
-                    "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf"
-                  ]
-                ],
-                "resource": "storage/i175.pdf"
-              },
-              {
-                "text": "Comment: 41 pages, ReVTeX",
-                "item-id": "n177",
-                "icon": "glyphicon glyphicon-text-background",
-                "item_title": "Comment: 41 pages, ReVTeX",
-                "item_type": "note",
-                "item_note": "<div class=\"zotero-note znv1\">Comment: 41 pages, ReVTeX</div>",
-                "node_type": "note"
-              }
-            ],
-            "icon": "glyphicon glyphicon-unchecked",
-            "item_title": "Geometrical Formulation of Quantum Mechanics",
-            "item_type": "preprint",
-            "item_note": null,
-            "node_type": "item",
-            "metadata": [
-              [
-                "Abstract Note",
-                "States of a quantum mechanical system are represented by rays in a complex Hilbert space. The space of rays has, naturally, the structure of a Ka\u00a8hler manifold. This leads to a geometrical formulation of the postulates of quantum mechanics which, although equivalent to the standard algebraic formulation, has a very di\ufb00erent appearance. In particular, states are now represented by points of a symplectic manifold (which happens to have, in addition, a compatible Riemannian metric), observables are represented by certain realvalued functions on this space and the Schro\u00a8dinger evolution is captured by the symplectic \ufb02ow generated by a Hamiltonian function. There is thus a remarkable similarity with the standard symplectic formulation of classical mechanics. Features\u2014such as uncertainties and state vector reductions\u2014which are speci\ufb01c to quantum mechanics can also be formulated geometrically but now refer to the Riemannian metric\u2014a structure which is absent in classical mechanics. The geometrical formulation sheds considerable light on a number of issues such as the second quantization procedure, the role of coherent states in semi-classical considerations and the WKB approximation. More importantly, it suggests generalizations of quantum mechanics. The simplest among these are equivalent to the dynamical generalizations that have appeared in the literature. The geometrical reformulation provides a uni\ufb01ed framework to discuss these and to correct a misconception. Finally, it also suggests directions in which more radical generalizations may be found."
-              ],
-              [
-                "Access Date",
-                "2023-08-13 06:10:49"
-              ],
-              [
-                "Archiveid",
-                "arXiv:gr-qc/9706069"
-              ],
-              [
-                "Creators",
-                "Abhay Ashtekar, Troy A. Schilling"
-              ],
-              [
-                "Date",
-                "1997-06-23 1997-06-23"
-              ],
-              [
-                "Extra",
-                "arXiv:gr-qc/9706069"
-              ],
-              [
-                "Language",
-                "en"
-              ],
-              [
-                "Library Catalog",
-                "arXiv.org"
-              ],
-              [
-                "Repository",
-                "arXiv"
-              ],
-              [
-                "Title",
-                "Geometrical Formulation of Quantum Mechanics"
-              ],
-              [
-                "URL",
-                "http://arxiv.org/abs/gr-qc/9706069"
-              ]
-            ],
-            "resource": "storage/i175.pdf",
-            "selectable": false
-          },
-          {
-            "text": "Lectures on Quantum Theory",
-            "item-id": "i217",
-            "nodes": [
-              {
-                "text": "Schuller - Lectures on Quantum Theory.pdf",
-                "item-id": "i216",
-                "icon": "glyphicon glyphicon-paperclip",
-                "item_title": "Schuller - Lectures on Quantum Theory.pdf",
-                "item_type": "attachment",
-                "item_note": null,
-                "node_type": "item",
-                "metadata": [
-                  [
-                    "Title",
-                    "Schuller - Lectures on Quantum Theory.pdf"
-                  ]
-                ],
-                "resource": "storage/i216.pdf"
-              }
-            ],
-            "icon": "glyphicon glyphicon-file",
-            "item_title": "Lectures on Quantum Theory",
-            "item_type": "journalArticle",
-            "item_note": null,
-            "node_type": "item",
-            "metadata": [
-              [
-                "Creators",
-                "Dr Frederic P Schuller"
-              ],
-              [
-                "Language",
-                "en"
-              ],
-              [
-                "Library Catalog",
-                "Zotero"
-              ],
-              [
-                "Title",
-                "Lectures on Quantum Theory"
-              ]
-            ],
-            "resource": "storage/i216.pdf",
-            "selectable": false
-          }
-        ],
-        "item_title": "Quantum mechanics",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection",
-        "selectable": false
-      },
-      {
         "text": "Quantum statistical mechanics",
         "item-id": "c85,i182",
         "nodes": [
@@ -9999,6 +13266,715 @@ var tree =
           }
         ],
         "item_title": "Quantum statistical mechanics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Quantum theory",
+        "item-id": "c86,i836",
+        "nodes": [
+          {
+            "text": "Categorical Semantics for Time Travel",
+            "item-id": "i690",
+            "nodes": [
+              {
+                "text": "Full Text PDF",
+                "item-id": "i692",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:08:49"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1902.00032.pdf"
+                  ]
+                ],
+                "resource": "storage/i692.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i691",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:08:46"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1902.00032"
+                  ]
+                ],
+                "resource": "storage/i691.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Categorical Semantics for Time Travel",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We introduce a general categorical framework to reason about quantum theory and other process theories living in spacetimes where Closed Timelike Curves (CTCs) are available, allowing resources to travel back in time and provide computational speedups. Our framework is based on a weakening of the definition of traced symmetric monoidal categories, obtained by dropping the yanking axiom and the requirement that the trace be defined on all morphisms. We show that the two leading models for quantum theory with closed timelike curves---namely the P-CTC model of Lloyd et al. and the D-CTC model of Deutsch---are captured by our framework, and in doing so we provide the first compositional description of the D-CTC model. Our description of the D-CTC model results in a process theory which respects the constraints of relativistic causality: this is in direct contrast to the P-CTC model, where CTCs are implemented by a trace and allow post-selection to be performed deterministically."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 19:08:39"
+              ],
+              [
+                "Archiveid",
+                "arXiv:1902.00032"
+              ],
+              [
+                "Creators",
+                "Nicola Pinzani, Stefano Gogioso, Bob Coecke"
+              ],
+              [
+                "Date",
+                "2019-01-31 2019-01-31"
+              ],
+              [
+                "Extra",
+                "arXiv:1902.00032 [quant-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Categorical Semantics for Time Travel"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1902.00032"
+              ]
+            ],
+            "resource": "storage/i692.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Geometrical Formulation of Quantum Mechanics",
+            "item-id": "i176",
+            "nodes": [
+              {
+                "text": "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf",
+                "item-id": "i175",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Ashtekar and Schilling - 1997 - Geometrical Formulation of Quantum Mechanics.pdf"
+                  ]
+                ],
+                "resource": "storage/i175.pdf"
+              },
+              {
+                "text": "Comment: 41 pages, ReVTeX",
+                "item-id": "n177",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 41 pages, ReVTeX",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 41 pages, ReVTeX</div>",
+                "node_type": "note"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Geometrical Formulation of Quantum Mechanics",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "States of a quantum mechanical system are represented by rays in a complex Hilbert space. The space of rays has, naturally, the structure of a Ka\u00a8hler manifold. This leads to a geometrical formulation of the postulates of quantum mechanics which, although equivalent to the standard algebraic formulation, has a very di\ufb00erent appearance. In particular, states are now represented by points of a symplectic manifold (which happens to have, in addition, a compatible Riemannian metric), observables are represented by certain realvalued functions on this space and the Schro\u00a8dinger evolution is captured by the symplectic \ufb02ow generated by a Hamiltonian function. There is thus a remarkable similarity with the standard symplectic formulation of classical mechanics. Features\u2014such as uncertainties and state vector reductions\u2014which are speci\ufb01c to quantum mechanics can also be formulated geometrically but now refer to the Riemannian metric\u2014a structure which is absent in classical mechanics. The geometrical formulation sheds considerable light on a number of issues such as the second quantization procedure, the role of coherent states in semi-classical considerations and the WKB approximation. More importantly, it suggests generalizations of quantum mechanics. The simplest among these are equivalent to the dynamical generalizations that have appeared in the literature. The geometrical reformulation provides a uni\ufb01ed framework to discuss these and to correct a misconception. Finally, it also suggests directions in which more radical generalizations may be found."
+              ],
+              [
+                "Access Date",
+                "2023-08-13 06:10:49"
+              ],
+              [
+                "Archiveid",
+                "arXiv:gr-qc/9706069"
+              ],
+              [
+                "Creators",
+                "Abhay Ashtekar, Troy A. Schilling"
+              ],
+              [
+                "Date",
+                "1997-06-23 1997-06-23"
+              ],
+              [
+                "Extra",
+                "arXiv:gr-qc/9706069"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Geometrical Formulation of Quantum Mechanics"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/gr-qc/9706069"
+              ]
+            ],
+            "resource": "storage/i175.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Kindergarten Quantum Mechanics",
+            "item-id": "i683",
+            "nodes": [
+              {
+                "text": "Comment: Lecture notes of invited talks at Quantum Information, Computation & Logic (Perimeter Institute), QTRF-III (Vax",
+                "item-id": "n684",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: Lecture notes of invited talks at Quantum Information, Computation & Logic (Perimeter Institute), QTRF-III (Vax",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: Lecture notes of invited talks at Quantum Information, Computation & Logic (Perimeter Institute), QTRF-III (Vaxjo), & Google (Silicon Valley) & Kestrel Institute (Silicon Valley). Contains 68 pictures in collor (but ok to be printed in black and white), 18 pages. To appear in the Proceedings of QTRF-III (AIP proceedings)</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i686",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 18:11:40"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/quant-ph/0510032.pdf"
+                  ]
+                ],
+                "resource": "storage/i686.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i685",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 18:11:35"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/quant-ph/0510032"
+                  ]
+                ],
+                "resource": "storage/i685.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Kindergarten Quantum Mechanics",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "These lecture notes survey some joint work with Samson Abramsky as it was presented by me at several conferences in the summer of 2005. It concerns `doing quantum mechanics using only pictures of lines, squares, triangles and diamonds'. This picture calculus can be seen as a very substantial extension of Dirac's notation, and has a purely algebraic counterpart in terms of so-called Strongly Compact Closed Categories (introduced by Abramsky and I in quant-ph/0402130 and [4]) which subsumes my Logic of Entanglement quant-ph/0402014. For a survey on the `what', the `why' and the `hows' I refer to a previous set of lecture notes quant-ph/0506132. In a last section we provide some pointers to the body of technical literature on the subject."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 18:11:26"
+              ],
+              [
+                "Archiveid",
+                "arXiv:quant-ph/0510032"
+              ],
+              [
+                "Creators",
+                "Bob Coecke"
+              ],
+              [
+                "Date",
+                "2005-10-04 2005-10-04"
+              ],
+              [
+                "Extra",
+                "arXiv:quant-ph/0510032"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Kindergarten Quantum Mechanics"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/quant-ph/0510032"
+              ]
+            ],
+            "resource": "storage/i686.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Lectures on Quantum Theory",
+            "item-id": "i217",
+            "nodes": [
+              {
+                "text": "Schuller - Lectures on Quantum Theory.pdf",
+                "item-id": "i216",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Schuller - Lectures on Quantum Theory.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Schuller - Lectures on Quantum Theory.pdf"
+                  ]
+                ],
+                "resource": "storage/i216.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Lectures on Quantum Theory",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Dr Frederic P Schuller"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Lectures on Quantum Theory"
+              ]
+            ],
+            "resource": "storage/i216.pdf",
+            "selectable": false
+          },
+          {
+            "text": "The time-reverse of any causal theory is eternal noise",
+            "item-id": "i701",
+            "nodes": [
+              {
+                "text": "Comment: 5 pages, several pictures",
+                "item-id": "n702",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 5 pages, several pictures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 5 pages, several pictures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i704",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:12:28"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1711.05511.pdf"
+                  ]
+                ],
+                "resource": "storage/i704.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i703",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:12:27"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1711.05511"
+                  ]
+                ],
+                "resource": "storage/i703.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "The time-reverse of any causal theory is eternal noise",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We consider a very general class of theories, process theories, which capture the underlying structure common to most theories of physics as we understand them today (be they established, toy or speculative theories). Amongst these theories, we will be focusing on those which are `causal', in the sense that they are intrinsically compatible with the causal structure of space-time -- as required by relativity. We demonstrate that there is a sharp contrast between these theories and the corresponding time-reversed theories, where time is taken to flow backwards from the future to the past. While the former typically feature a rich gamut of allowed states, the latter only allow for a single state: eternal noise. We illustrate this result by considering of the time-reverse of quantum theory. We also derive a strengthening of the result in PRL 108, 200403 on signalling in time-reversed theories."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 19:12:19"
+              ],
+              [
+                "Archiveid",
+                "arXiv:1711.05511"
+              ],
+              [
+                "Creators",
+                "Bob Coecke, Stefano Gogioso, John H. Selby"
+              ],
+              [
+                "Date",
+                "2017-12-06 2017-12-06"
+              ],
+              [
+                "Extra",
+                "arXiv:1711.05511 [gr-qc, physics:quant-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "The time-reverse of any causal theory is eternal noise"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1711.05511"
+              ]
+            ],
+            "resource": "storage/i704.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Time symmetry in quantum theories and beyond",
+            "item-id": "i697",
+            "nodes": [
+              {
+                "text": "Comment: 38 pages, many diagrams, comments welcome!",
+                "item-id": "n698",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 38 pages, many diagrams, comments welcome!",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 38 pages, many diagrams, comments welcome!</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i700",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:11:09"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2209.07867.pdf"
+                  ]
+                ],
+                "resource": "storage/i700.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i699",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:11:07"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2209.07867"
+                  ]
+                ],
+                "resource": "storage/i699.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Time symmetry in quantum theories and beyond",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "There is a stark tension among different formulations of quantum theory in that some are fundamentally time-symmetric and others are radically time-asymmetric. This tension is crisply captured when thinking of physical theories as theories of processes. We review process theories and their diagrammatic representation, and show how quantum theory can be described in this language. The tension between time-symmetry and time-asymmetry is then captured by the tension between two of the key structures that are used in this framework. On the one hand, the symmetry is captured by a dagger structure, which is represented by a reflection of diagrams. On the other hand, the asymmetry is captured by a condition involving discarding which, ultimately, is responsible for the theory being compatible with relativistic causality. Next we consider three different ways in which we this tension can be resolved. The first of these is closely related to recent work of Lucien Hardy, where the tension is resolved by adding in a time reversed version of discarding together with a suitable consistency condition. The second is, to our knowledge, a new approach. Here the tension is resolved by adding in new systems which propagate backwards in time, and imposing a consistency condition to avoid running into well known time-travel paradoxes. The final approach that we explore is closely related to work of Oreshkov and Cerf, where the tension is resolved by removing the constraint associated with discarding. We show two equivalent ways in which this can be done whilst ensuring that the resulting theory still makes sensible operational predictions."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 19:10:58"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2209.07867"
+              ],
+              [
+                "Creators",
+                "John H. Selby, Maria E. Stasinou, Stefano Gogioso, Bob Coecke"
+              ],
+              [
+                "Date",
+                "2022-09-16 2022-09-16"
+              ],
+              [
+                "Extra",
+                "arXiv:2209.07867 [quant-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Time symmetry in quantum theories and beyond"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2209.07867"
+              ]
+            ],
+            "resource": "storage/i700.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Two Roads to Classicality",
+            "item-id": "i693",
+            "nodes": [
+              {
+                "text": "Comment: In Proceedings QPL 2017, arXiv:1802.09737",
+                "item-id": "n694",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: In Proceedings QPL 2017, arXiv:1802.09737",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: In Proceedings QPL 2017, arXiv:1802.09737</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i696",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:10:23"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/1701.07400.pdf"
+                  ]
+                ],
+                "resource": "storage/i696.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i695",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:10:21"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/1701.07400"
+                  ]
+                ],
+                "resource": "storage/i695.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Two Roads to Classicality",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "Mixing and decoherence are both manifestations of classicality within quantum theory, each of which admit a very general category-theoretic construction. We show under which conditions these two 'roads to classicality' coincide. This is indeed the case for (finite-dimensional) quantum theory, where each construction yields the category of C*-algebras and completely positive maps. We present counterexamples where the property fails which includes relational and modal theories. Finally, we provide a new interpretation for our category-theoretic generalisation of decoherence in terms of 'leaking information'."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 19:10:14"
+              ],
+              [
+                "Creators",
+                "Bob Coecke, John Selby, Sean Tull"
+              ],
+              [
+                "DOI",
+                "10.4204/EPTCS.266.7"
+              ],
+              [
+                "Date",
+                "2018-02-27 2018-2-27"
+              ],
+              [
+                "Extra",
+                "arXiv:1701.07400 [quant-ph]"
+              ],
+              [
+                "ISSN",
+                "2075-2180"
+              ],
+              [
+                "Journal Abbreviation",
+                "Electron. Proc. Theor. Comput. Sci."
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Pages",
+                "104-118"
+              ],
+              [
+                "Publication Title",
+                "Electronic Proceedings in Theoretical Computer Science"
+              ],
+              [
+                "Title",
+                "Two Roads to Classicality"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/1701.07400"
+              ],
+              [
+                "Volume",
+                "266"
+              ]
+            ],
+            "resource": "storage/i696.pdf",
+            "selectable": false
+          }
+        ],
+        "item_title": "Quantum theory",
         "item_type": null,
         "item_note": null,
         "node_type": "collection",
