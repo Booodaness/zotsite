@@ -52,33 +52,6 @@ var tree =
         "selectable": false
       },
       {
-        "text": "Category theory",
-        "item-id": "c21,i187",
-        "nodes": [
-          {
-            "text": "Cats1.pdf",
-            "item-id": "i187",
-            "icon": "glyphicon glyphicon-paperclip",
-            "item_title": "Cats1.pdf",
-            "item_type": "attachment",
-            "item_note": null,
-            "node_type": "item",
-            "metadata": [
-              [
-                "Title",
-                "Cats1.pdf"
-              ]
-            ],
-            "resource": "storage/i187.pdf"
-          }
-        ],
-        "item_title": "Category theory",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection",
-        "selectable": false
-      },
-      {
         "text": "Group theory",
         "item-id": "c19,i183",
         "nodes": [
@@ -756,6 +729,57 @@ var tree =
       }
     ],
     "item_title": "Analysis",
+    "item_type": null,
+    "item_note": null,
+    "node_type": "collection",
+    "selectable": false
+  },
+  {
+    "text": "Category theory",
+    "item-id": "c21,i842",
+    "nodes": [
+      {
+        "text": "Cats1.pdf",
+        "item-id": "i187",
+        "icon": "glyphicon glyphicon-paperclip",
+        "item_title": "Cats1.pdf",
+        "item_type": "attachment",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Title",
+            "Cats1.pdf"
+          ]
+        ],
+        "resource": "storage/i187.pdf"
+      },
+      {
+        "text": "model_theory.pdf",
+        "item-id": "i842",
+        "icon": "glyphicon glyphicon-paperclip",
+        "item_title": "model_theory.pdf",
+        "item_type": "attachment",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Access Date",
+            "2024-02-06 23:55:40"
+          ],
+          [
+            "Title",
+            "model_theory.pdf"
+          ],
+          [
+            "URL",
+            "https://www.math.toronto.edu/weiss/model_theory.pdf"
+          ]
+        ],
+        "resource": "storage/i842.pdf"
+      }
+    ],
+    "item_title": "Category theory",
     "item_type": null,
     "item_note": null,
     "node_type": "collection",
@@ -5826,323 +5850,6 @@ var tree =
     "selectable": false
   },
   {
-    "text": "Formal language",
-    "item-id": "c168,i715",
-    "nodes": [
-      {
-        "text": "Grammar Equations",
-        "item-id": "i715",
-        "nodes": [
-          {
-            "text": "Comment: 10 pages, many pictures",
-            "item-id": "n716",
-            "icon": "glyphicon glyphicon-text-background",
-            "item_title": "Comment: 10 pages, many pictures",
-            "item_type": "note",
-            "item_note": "<div class=\"zotero-note znv1\">Comment: 10 pages, many pictures</div>",
-            "node_type": "note"
-          },
-          {
-            "text": "Full Text PDF",
-            "item-id": "i718",
-            "icon": "glyphicon glyphicon-paperclip",
-            "item_title": "Full Text PDF",
-            "item_type": "attachment",
-            "item_note": null,
-            "node_type": "item",
-            "metadata": [
-              [
-                "Access Date",
-                "2023-08-25 19:26:23"
-              ],
-              [
-                "Title",
-                "Full Text PDF"
-              ],
-              [
-                "URL",
-                "https://arxiv.org/pdf/2106.07485.pdf"
-              ]
-            ],
-            "resource": "storage/i718.pdf"
-          },
-          {
-            "text": "arXiv.org Snapshot",
-            "item-id": "i717",
-            "icon": "glyphicon glyphicon-paperclip",
-            "item_title": "arXiv.org Snapshot",
-            "item_type": "attachment",
-            "item_note": null,
-            "node_type": "item",
-            "metadata": [
-              [
-                "Access Date",
-                "2023-08-25 19:26:22"
-              ],
-              [
-                "Title",
-                "arXiv.org Snapshot"
-              ],
-              [
-                "URL",
-                "https://arxiv.org/abs/2106.07485"
-              ]
-            ],
-            "resource": "storage/i717.html"
-          }
-        ],
-        "icon": "glyphicon glyphicon-unchecked",
-        "item_title": "Grammar Equations",
-        "item_type": "preprint",
-        "item_note": null,
-        "node_type": "item",
-        "metadata": [
-          [
-            "Abstract Note",
-            "Diagrammatically speaking, grammatical calculi such as pregroups provide wires between words in order to elucidate their interactions, and this enables one to verify grammatical correctness of phrases and sentences. In this paper we also provide wirings within words. This will enable us to identify grammatical constructs that we expect to be either equal or closely related. Hence, our work paves the way for a new theory of grammar, that provides novel `grammatical truths'. We give a nogo-theorem for the fact that our wirings for words make no sense for preordered monoids, the form which grammatical calculi usually take. Instead, they require diagrams -- or equivalently, (free) monoidal categories."
-          ],
-          [
-            "Access Date",
-            "2023-08-25 19:26:14"
-          ],
-          [
-            "Archiveid",
-            "arXiv:2106.07485"
-          ],
-          [
-            "Creators",
-            "Bob Coecke, Vincent Wang"
-          ],
-          [
-            "Date",
-            "2021-06-14 2021-06-14"
-          ],
-          [
-            "Extra",
-            "arXiv:2106.07485 [cs, math]"
-          ],
-          [
-            "Library Catalog",
-            "arXiv.org"
-          ],
-          [
-            "Repository",
-            "arXiv"
-          ],
-          [
-            "Title",
-            "Grammar Equations"
-          ],
-          [
-            "URL",
-            "http://arxiv.org/abs/2106.07485"
-          ]
-        ],
-        "resource": "storage/i718.pdf",
-        "selectable": false
-      }
-    ],
-    "item_title": "Formal language",
-    "item_type": null,
-    "item_note": null,
-    "node_type": "collection",
-    "selectable": false
-  },
-  {
-    "text": "Formal logic",
-    "item-id": "c145,iNone",
-    "nodes": [
-      {
-        "text": "Algebraic logic",
-        "item-id": "c148,iNone",
-        "nodes": [
-          {
-            "text": "Cylindric algebra",
-            "item-id": "c149,iNone",
-            "item_title": "Cylindric algebra",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          },
-          {
-            "text": "Heyting algebra",
-            "item-id": "c150,iNone",
-            "item_title": "Heyting algebra",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          }
-        ],
-        "item_title": "Algebraic logic",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection",
-        "selectable": false
-      },
-      {
-        "text": "Classical logic",
-        "item-id": "c146,iNone",
-        "item_title": "Classical logic",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection"
-      },
-      {
-        "text": "Computability theory",
-        "item-id": "c160,iNone",
-        "item_title": "Computability theory",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection"
-      },
-      {
-        "text": "Intuitionistic logic",
-        "item-id": "c151,iNone",
-        "item_title": "Intuitionistic logic",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection"
-      },
-      {
-        "text": "Many-valued logic",
-        "item-id": "c152,iNone",
-        "nodes": [
-          {
-            "text": "Finite-valued logic",
-            "item-id": "c164,iNone",
-            "item_title": "Finite-valued logic",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          },
-          {
-            "text": "Infinite-valued logic",
-            "item-id": "c165,iNone",
-            "nodes": [
-              {
-                "text": "Fuzzy logic",
-                "item-id": "c153,iNone",
-                "item_title": "Fuzzy logic",
-                "item_type": null,
-                "item_note": null,
-                "node_type": "collection"
-              }
-            ],
-            "item_title": "Infinite-valued logic",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection",
-            "selectable": false
-          }
-        ],
-        "item_title": "Many-valued logic",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection",
-        "selectable": false
-      },
-      {
-        "text": "Modal logics",
-        "item-id": "c147,iNone",
-        "nodes": [
-          {
-            "text": "Deontic logic",
-            "item-id": "c156,iNone",
-            "item_title": "Deontic logic",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          },
-          {
-            "text": "Doxastic logic",
-            "item-id": "c157,iNone",
-            "item_title": "Doxastic logic",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          },
-          {
-            "text": "Epistemic logic",
-            "item-id": "c154,iNone",
-            "item_title": "Epistemic logic",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          },
-          {
-            "text": "Provability logic",
-            "item-id": "c162,iNone",
-            "item_title": "Provability logic",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          },
-          {
-            "text": "Temporal logic",
-            "item-id": "c155,iNone",
-            "item_title": "Temporal logic",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          }
-        ],
-        "item_title": "Modal logics",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection",
-        "selectable": false
-      },
-      {
-        "text": "Model theory",
-        "item-id": "c166,iNone",
-        "item_title": "Model theory",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection"
-      },
-      {
-        "text": "Proof theory",
-        "item-id": "c159,iNone",
-        "item_title": "Proof theory",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection"
-      },
-      {
-        "text": "Reverse mathematics",
-        "item-id": "c163,iNone",
-        "item_title": "Reverse mathematics",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection"
-      },
-      {
-        "text": "Type theory",
-        "item-id": "c161,iNone",
-        "nodes": [
-          {
-            "text": "Lambda calculus",
-            "item-id": "c158,iNone",
-            "item_title": "Lambda calculus",
-            "item_type": null,
-            "item_note": null,
-            "node_type": "collection"
-          }
-        ],
-        "item_title": "Type theory",
-        "item_type": null,
-        "item_note": null,
-        "node_type": "collection",
-        "selectable": false
-      }
-    ],
-    "item_title": "Formal logic",
-    "item_type": null,
-    "item_note": null,
-    "node_type": "collection",
-    "selectable": false
-  },
-  {
     "text": "General relativity",
     "item-id": "c3,i219",
     "nodes": [
@@ -8596,6 +8303,2081 @@ var tree =
       }
     ],
     "item_title": "Geometry and Topology",
+    "item_type": null,
+    "item_note": null,
+    "node_type": "collection",
+    "selectable": false
+  },
+  {
+    "text": "Mathematical logic",
+    "item-id": "c145,i846",
+    "nodes": [
+      {
+        "text": "Algebraic logic",
+        "item-id": "c148,iNone",
+        "nodes": [
+          {
+            "text": "Cylindric algebra",
+            "item-id": "c149,iNone",
+            "item_title": "Cylindric algebra",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Heyting algebra",
+            "item-id": "c150,iNone",
+            "item_title": "Heyting algebra",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Algebraic logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Classical logic",
+        "item-id": "c146,iNone",
+        "item_title": "Classical logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Computability theory",
+        "item-id": "c160,iNone",
+        "item_title": "Computability theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Formal languages",
+        "item-id": "c168,i891",
+        "nodes": [
+          {
+            "text": "Automata theory",
+            "item-id": "c175,i892",
+            "nodes": [
+              {
+                "text": "An introduction to formal languages and automata",
+                "item-id": "i886",
+                "nodes": [
+                  {
+                    "text": "Linz - 2017 - An introduction to formal languages and automata.pdf",
+                    "item-id": "i885",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Linz - 2017 - An introduction to formal languages and automata.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 00:12:48"
+                      ],
+                      [
+                        "Title",
+                        "Linz - 2017 - An introduction to formal languages and automata.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://broman.dev/download/An%20Introduction%20to%20Formal%20Languages%20and%20Automata%206th%20Edition.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i885.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-book",
+                "item_title": "An introduction to formal languages and automata",
+                "item_type": "book",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Call Number",
+                    "QA267.3 .L56 2017"
+                  ],
+                  [
+                    "Creators",
+                    "Peter Linz"
+                  ],
+                  [
+                    "Date",
+                    "2017-00-00 2017"
+                  ],
+                  [
+                    "Edition",
+                    "Sixth edition"
+                  ],
+                  [
+                    "ISBN",
+                    "978-1-284-07724-7"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Library of Congress ISBN"
+                  ],
+                  [
+                    "Num Pages",
+                    "449"
+                  ],
+                  [
+                    "Place",
+                    "Burlington, MA"
+                  ],
+                  [
+                    "Publisher",
+                    "Jones & Bartlett Learning"
+                  ],
+                  [
+                    "Title",
+                    "An introduction to formal languages and automata"
+                  ]
+                ],
+                "resource": "storage/i885.pdf",
+                "selectable": false
+              },
+              {
+                "text": "E-Text-PETERLINZ.pdf",
+                "item-id": "i892",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "E-Text-PETERLINZ.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:14:09"
+                  ],
+                  [
+                    "Title",
+                    "E-Text-PETERLINZ.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://people.uncw.edu/adharg/courses/csc360/E-Text-PETERLINZ.pdf"
+                  ]
+                ],
+                "resource": "storage/i892.pdf"
+              },
+              {
+                "text": "Formal Languages and Automata Theory",
+                "item-id": "i889",
+                "nodes": [
+                  {
+                    "text": "Goswami and Krishna - Formal Languages and Automata Theory.pdf",
+                    "item-id": "i888",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Goswami and Krishna - Formal Languages and Automata Theory.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 00:13:31"
+                      ],
+                      [
+                        "Title",
+                        "Goswami and Krishna - Formal Languages and Automata Theory.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://www.iitg.ac.in/dgoswami/Flat-Notes.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i888.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Formal Languages and Automata Theory",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "D Goswami, K V Krishna"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Formal Languages and Automata Theory"
+                  ]
+                ],
+                "resource": "storage/i888.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "Automata theory",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "FormalLanguageTheory.pdf",
+            "item-id": "i890",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "FormalLanguageTheory.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:13:42"
+              ],
+              [
+                "Title",
+                "FormalLanguageTheory.pdf"
+              ],
+              [
+                "URL",
+                "https://www.its.caltech.edu/~matilde/FormalLanguageTheory.pdf"
+              ]
+            ],
+            "resource": "storage/i890.pdf"
+          },
+          {
+            "text": "Grammar Equations",
+            "item-id": "i715",
+            "nodes": [
+              {
+                "text": "Comment: 10 pages, many pictures",
+                "item-id": "n716",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 10 pages, many pictures",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 10 pages, many pictures</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i718",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:26:23"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2106.07485.pdf"
+                  ]
+                ],
+                "resource": "storage/i718.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i717",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2023-08-25 19:26:22"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2106.07485"
+                  ]
+                ],
+                "resource": "storage/i717.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Grammar Equations",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "Diagrammatically speaking, grammatical calculi such as pregroups provide wires between words in order to elucidate their interactions, and this enables one to verify grammatical correctness of phrases and sentences. In this paper we also provide wirings within words. This will enable us to identify grammatical constructs that we expect to be either equal or closely related. Hence, our work paves the way for a new theory of grammar, that provides novel `grammatical truths'. We give a nogo-theorem for the fact that our wirings for words make no sense for preordered monoids, the form which grammatical calculi usually take. Instead, they require diagrams -- or equivalently, (free) monoidal categories."
+              ],
+              [
+                "Access Date",
+                "2023-08-25 19:26:14"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2106.07485"
+              ],
+              [
+                "Creators",
+                "Bob Coecke, Vincent Wang"
+              ],
+              [
+                "Date",
+                "2021-06-14 2021-06-14"
+              ],
+              [
+                "Extra",
+                "arXiv:2106.07485 [cs, math]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Grammar Equations"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2106.07485"
+              ]
+            ],
+            "resource": "storage/i718.pdf",
+            "selectable": false
+          },
+          {
+            "text": "formal_languages1.pdf",
+            "item-id": "i887",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "formal_languages1.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:13:10"
+              ],
+              [
+                "Title",
+                "formal_languages1.pdf"
+              ],
+              [
+                "URL",
+                "https://www.utsc.utoronto.ca/~bretscher/b36/f13/lectures/formal_languages1.pdf"
+              ]
+            ],
+            "resource": "storage/i887.pdf"
+          },
+          {
+            "text": "grammar.pdf",
+            "item-id": "i891",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "grammar.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:13:53"
+              ],
+              [
+                "Title",
+                "grammar.pdf"
+              ],
+              [
+                "URL",
+                "https://people.engr.tamu.edu/andreas-klappenecker/csce222-s12/grammar.pdf"
+              ]
+            ],
+            "resource": "storage/i891.pdf"
+          }
+        ],
+        "item_title": "Formal languages",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Intuitionistic logic",
+        "item-id": "c151,iNone",
+        "item_title": "Intuitionistic logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "LogicStudyGuide.pdf",
+        "item-id": "i846",
+        "icon": "glyphicon glyphicon-paperclip",
+        "item_title": "LogicStudyGuide.pdf",
+        "item_type": "attachment",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Access Date",
+            "2024-02-06 23:58:35"
+          ],
+          [
+            "Title",
+            "LogicStudyGuide.pdf"
+          ],
+          [
+            "URL",
+            "https://www.logicmatters.net/resources/pdfs/LogicStudyGuide.pdf"
+          ]
+        ],
+        "resource": "storage/i846.pdf"
+      },
+      {
+        "text": "Many-valued logic",
+        "item-id": "c152,iNone",
+        "nodes": [
+          {
+            "text": "Finite-valued logic",
+            "item-id": "c164,iNone",
+            "item_title": "Finite-valued logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Infinite-valued logic",
+            "item-id": "c165,iNone",
+            "nodes": [
+              {
+                "text": "Fuzzy logic",
+                "item-id": "c153,iNone",
+                "item_title": "Fuzzy logic",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection"
+              }
+            ],
+            "item_title": "Infinite-valued logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          }
+        ],
+        "item_title": "Many-valued logic",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Modal logics",
+        "item-id": "c147,iNone",
+        "nodes": [
+          {
+            "text": "Deontic logic",
+            "item-id": "c156,iNone",
+            "item_title": "Deontic logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Doxastic logic",
+            "item-id": "c157,iNone",
+            "item_title": "Doxastic logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Epistemic logic",
+            "item-id": "c154,iNone",
+            "item_title": "Epistemic logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Provability logic",
+            "item-id": "c162,iNone",
+            "item_title": "Provability logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Temporal logic",
+            "item-id": "c155,iNone",
+            "item_title": "Temporal logic",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Modal logics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Model theory",
+        "item-id": "c174,i896",
+        "nodes": [
+          {
+            "text": "A Course in Model Theory",
+            "item-id": "i894",
+            "nodes": [
+              {
+                "text": "Poizat - 2000 - A Course in Model Theory.pdf",
+                "item-id": "i893",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Poizat - 2000 - A Course in Model Theory.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Poizat - 2000 - A Course in Model Theory.pdf"
+                  ]
+                ],
+                "resource": "storage/i893.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-book",
+            "item_title": "A Course in Model Theory",
+            "item_type": "book",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:19:09"
+              ],
+              [
+                "Creators",
+                "Bruno Poizat, S. Axler, K. A. Ribet, F. W. Gehring"
+              ],
+              [
+                "Date",
+                "2000-00-00 2000"
+              ],
+              [
+                "Extra",
+                "DOI: 10.1007/978-1-4419-8622-1"
+              ],
+              [
+                "ISBN",
+                "978-1-4612-6446-0 978-1-4419-8622-1"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Place",
+                "New York, NY"
+              ],
+              [
+                "Publisher",
+                "Springer New York"
+              ],
+              [
+                "Series",
+                "Universitext"
+              ],
+              [
+                "Title",
+                "A Course in Model Theory"
+              ],
+              [
+                "URL",
+                "http://link.springer.com/10.1007/978-1-4419-8622-1"
+              ]
+            ],
+            "resource": "storage/i893.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Basic model theory",
+            "item-id": "i858",
+            "nodes": [
+              {
+                "text": "Doets - 1996 - Basic model theory.pdf",
+                "item-id": "i857",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Doets - 1996 - Basic model theory.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:09:30"
+                  ],
+                  [
+                    "Title",
+                    "Doets - 1996 - Basic model theory.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://web.stanford.edu/group/cslipublications/cslipublications/Online/doets-basic-model-theory.pdf"
+                  ]
+                ],
+                "resource": "storage/i857.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-book",
+            "item_title": "Basic model theory",
+            "item_type": "book",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Call Number",
+                "QA9.7 .D64 1996"
+              ],
+              [
+                "Creators",
+                "Kees Doets"
+              ],
+              [
+                "Date",
+                "1996-00-00 1996"
+              ],
+              [
+                "ISBN",
+                "978-1-57586-049-7 978-1-57586-048-0"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Library of Congress ISBN"
+              ],
+              [
+                "Num Pages",
+                "130"
+              ],
+              [
+                "Place",
+                "Stanford, Calif. : [Dordrecht?]"
+              ],
+              [
+                "Publisher",
+                "CLSI Publications ; FoLLI"
+              ],
+              [
+                "Series",
+                "Studies in logic, language, and information"
+              ],
+              [
+                "Title",
+                "Basic model theory"
+              ]
+            ],
+            "resource": "storage/i857.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Fundamentals of Model Theory",
+            "item-id": "i848",
+            "nodes": [
+              {
+                "text": "Weiss and D\u2019Mello - Fundamentals of Model Theory.pdf",
+                "item-id": "i847",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Weiss and D\u2019Mello - Fundamentals of Model Theory.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-06 23:59:35"
+                  ],
+                  [
+                    "Title",
+                    "Weiss and D\u2019Mello - Fundamentals of Model Theory.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://www.math.toronto.edu/weiss/model_theory.pdf"
+                  ]
+                ],
+                "resource": "storage/i847.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Fundamentals of Model Theory",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "William Weiss, Cherie D\u2019Mello"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Fundamentals of Model Theory"
+              ]
+            ],
+            "resource": "storage/i847.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Henson.pdf",
+            "item-id": "i865",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Henson.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:10:18"
+              ],
+              [
+                "Title",
+                "Henson.pdf"
+              ],
+              [
+                "URL",
+                "https://people.math.sc.edu/mcnulty/modeltheory/Henson.pdf"
+              ]
+            ],
+            "resource": "storage/i865.pdf"
+          },
+          {
+            "text": "Model Theory and Groups",
+            "item-id": "i859",
+            "nodes": [
+              {
+                "text": "Comment: This a mainly expository paper, the final version of which appeared as a contribution to the book \"Groups and M",
+                "item-id": "n860",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: This a mainly expository paper, the final version of which appeared as a contribution to the book \"Groups and M",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: This a mainly expository paper, the final version of which appeared as a contribution to the book \"Groups and Model Theory, GAGTA Book 2\", edited by Kharlampovich and Sklinos, published in 2021 by de Gruyter</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "Full Text PDF",
+                "item-id": "i863",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:09:55"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2109.03911.pdf"
+                  ]
+                ],
+                "resource": "storage/i863.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i862",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:09:50"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2109.03911"
+                  ]
+                ],
+                "resource": "storage/i862.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Model Theory and Groups",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "This is a largely expository paper about how groups arise or are of interest in model theory. Included are the following topics: classifying groups definable in specific structures or theories and the relation to algebraic groups, groups definable in stable, simple and NIP theories, definable compactifications of groups, definable Galois theory (including differential Galois theory), connections with topological dynamics, model theory of the free group."
+              ],
+              [
+                "Access Date",
+                "2024-02-07 00:09:34"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2109.03911"
+              ],
+              [
+                "Creators",
+                "Anand Pillay"
+              ],
+              [
+                "Date",
+                "2021-09-08 2021-09-08"
+              ],
+              [
+                "Extra",
+                "arXiv:2109.03911 [math]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Model Theory and Groups"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2109.03911"
+              ]
+            ],
+            "resource": "storage/i863.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Model theory and algebraic geometry",
+            "item-id": "i896",
+            "nodes": [
+              {
+                "text": "Bouscaren - 1998 - Model theory and algebraic geometry an introducti.pdf",
+                "item-id": "i895",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Bouscaren - 1998 - Model theory and algebraic geometry an introducti.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Bouscaren - 1998 - Model theory and algebraic geometry an introducti.pdf"
+                  ]
+                ],
+                "resource": "storage/i895.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-book",
+            "item_title": "Model theory and algebraic geometry",
+            "item_type": "book",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Call Number",
+                "QA3 QA9.7 .L28 no. 1696"
+              ],
+              [
+                "Creators",
+                "Elisabeth Bouscaren"
+              ],
+              [
+                "Date",
+                "1998-00-00 1998"
+              ],
+              [
+                "ISBN",
+                "978-3-540-64863-5"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Library of Congress ISBN"
+              ],
+              [
+                "Num Pages",
+                "211"
+              ],
+              [
+                "Place",
+                "Berlin ; New York"
+              ],
+              [
+                "Publisher",
+                "Springer"
+              ],
+              [
+                "Series",
+                "Lecture notes in mathematics"
+              ],
+              [
+                "Series Number",
+                "1696"
+              ],
+              [
+                "Short Title",
+                "Model theory and algebraic geometry"
+              ],
+              [
+                "Title",
+                "Model theory and algebraic geometry: an introduction to E. Hrushovski's proof of the geometric Mordell-Lang conjecture"
+              ]
+            ],
+            "resource": "storage/i895.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Model theory and diophantine geometry",
+            "item-id": "i845",
+            "nodes": [
+              {
+                "text": "Pillay - 1997 - Model theory and diophantine geometry.pdf",
+                "item-id": "i844",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Pillay - 1997 - Model theory and diophantine geometry.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-06 23:56:58"
+                  ],
+                  [
+                    "Title",
+                    "Pillay - 1997 - Model theory and diophantine geometry.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://www.ams.org/journals/bull/1997-34-04/S0273-0979-97-00730-1/S0273-0979-97-00730-1.pdf"
+                  ]
+                ],
+                "resource": "storage/i844.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Model theory and diophantine geometry",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "I discuss some recent applications of model theory to diophantinetype problems in algebraic geometry. I give the required background, as well as a sketch of the proofs."
+              ],
+              [
+                "Access Date",
+                "2024-02-06 23:57:04"
+              ],
+              [
+                "Creators",
+                "Anand Pillay"
+              ],
+              [
+                "DOI",
+                "10.1090/S0273-0979-97-00730-1"
+              ],
+              [
+                "Date",
+                "1997-00-00 1997"
+              ],
+              [
+                "ISSN",
+                "0273-0979, 1088-9485"
+              ],
+              [
+                "Issue",
+                "4"
+              ],
+              [
+                "Journal Abbreviation",
+                "Bull. Amer. Math. Soc."
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Pages",
+                "405-422"
+              ],
+              [
+                "Publication Title",
+                "Bulletin of the American Mathematical Society"
+              ],
+              [
+                "Title",
+                "Model theory and diophantine geometry"
+              ],
+              [
+                "URL",
+                "https://www.ams.org/bull/1997-34-04/S0273-0979-97-00730-1/"
+              ],
+              [
+                "Volume",
+                "34"
+              ]
+            ],
+            "resource": "storage/i844.pdf",
+            "selectable": false
+          },
+          {
+            "text": "ModelTheoryNotes.pdf",
+            "item-id": "i861",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "ModelTheoryNotes.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:09:48"
+              ],
+              [
+                "Title",
+                "ModelTheoryNotes.pdf"
+              ],
+              [
+                "URL",
+                "https://math.berkeley.edu/~scanlon/225af13lectures/ModelTheoryNotes.pdf"
+              ]
+            ],
+            "resource": "storage/i861.pdf"
+          },
+          {
+            "text": "otto.pdf",
+            "item-id": "i864",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "otto.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:09:56"
+              ],
+              [
+                "Title",
+                "otto.pdf"
+              ],
+              [
+                "URL",
+                "https://www.karlin.mff.cuni.cz/~krajicek/otto.pdf"
+              ]
+            ],
+            "resource": "storage/i864.pdf"
+          }
+        ],
+        "item_title": "Model theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Proof theory",
+        "item-id": "c159,iNone",
+        "item_title": "Proof theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Reverse mathematics",
+        "item-id": "c163,iNone",
+        "item_title": "Reverse mathematics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection"
+      },
+      {
+        "text": "Type theory",
+        "item-id": "c161,i882",
+        "nodes": [
+          {
+            "text": "A BRIEF INTRODUCTION TO TYPE THEORY AND THE UNIVALENCE AXIOM",
+            "item-id": "i876",
+            "nodes": [
+              {
+                "text": "Macor - A BRIEF INTRODUCTION TO TYPE THEORY AND THE UNIVAL.pdf",
+                "item-id": "i875",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Macor - A BRIEF INTRODUCTION TO TYPE THEORY AND THE UNIVAL.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:11:21"
+                  ],
+                  [
+                    "Title",
+                    "Macor - A BRIEF INTRODUCTION TO TYPE THEORY AND THE UNIVAL.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://math.uchicago.edu/~may/REU2015/REUPapers/Macor.pdf"
+                  ]
+                ],
+                "resource": "storage/i875.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "A BRIEF INTRODUCTION TO TYPE THEORY AND THE UNIVALENCE AXIOM",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "In this paper, we will introduce the basic concepts and notation of modern type theory in an informal manner. We will discuss functions, type formation, the nature of proof, and proceed to prove some basic results in sentential logic. These e\ufb00orts will culminate in a proof of the axiom of choice in type theory. We will further introduce a few concepts in homotopy type theory, a modern invention which seeks to provide a foundation of mathematics without ZFC set theory. We will conclude with the univalence axiom, an indispensable tool in homotopy type theory, and use it to prove a stronger version of the axiom of choice."
+              ],
+              [
+                "Creators",
+                "Jackson Macor"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "A BRIEF INTRODUCTION TO TYPE THEORY AND THE UNIVALENCE AXIOM"
+              ]
+            ],
+            "resource": "storage/i875.pdf",
+            "selectable": false
+          },
+          {
+            "text": "A Note on Forcing and Type Theory",
+            "item-id": "i880",
+            "nodes": [
+              {
+                "text": "Coquand and Jaber - 2010 - A Note on Forcing and Type Theory.pdf",
+                "item-id": "i878",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Coquand and Jaber - 2010 - A Note on Forcing and Type Theory.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:11:32"
+                  ],
+                  [
+                    "Title",
+                    "Coquand and Jaber - 2010 - A Note on Forcing and Type Theory.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://guilhem.jaber.fr/NoteForcingTypeTheory.pdf"
+                  ]
+                ],
+                "resource": "storage/i878.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "A Note on Forcing and Type Theory",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The goal of this note is to show the uniform continuity of de\ufb01nable functional in intuitionistic type theory as an application of forcing with dependent type theory."
+              ],
+              [
+                "Access Date",
+                "2024-02-07 00:11:42"
+              ],
+              [
+                "Creators",
+                "Thierry Coquand, Guilhem Jaber"
+              ],
+              [
+                "DOI",
+                "10.3233/FI-2010-262"
+              ],
+              [
+                "Date",
+                "2010-00-00 2010"
+              ],
+              [
+                "ISSN",
+                "01692968"
+              ],
+              [
+                "Issue",
+                "1-4"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Pages",
+                "43-52"
+              ],
+              [
+                "Publication Title",
+                "Fundamenta Informaticae"
+              ],
+              [
+                "Title",
+                "A Note on Forcing and Type Theory"
+              ],
+              [
+                "URL",
+                "https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/FI-2010-262"
+              ],
+              [
+                "Volume",
+                "100"
+              ]
+            ],
+            "resource": "storage/i878.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Calculus of constructions",
+            "item-id": "c172,iNone",
+            "item_title": "Calculus of constructions",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Doctor of Philosophy University of Edinburgh 1995",
+            "item-id": "i882",
+            "nodes": [
+              {
+                "text": "Hofmann - Doctor of Philosophy University of Edinburgh 1995.pdf",
+                "item-id": "i881",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Hofmann - Doctor of Philosophy University of Edinburgh 1995.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:11:53"
+                  ],
+                  [
+                    "Title",
+                    "Hofmann - Doctor of Philosophy University of Edinburgh 1995.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://ncatlab.org/nlab/files/HofmannExtensionalIntensionalTypeTheory.pdf"
+                  ]
+                ],
+                "resource": "storage/i881.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Doctor of Philosophy University of Edinburgh 1995",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Martin Hofmann"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Doctor of Philosophy University of Edinburgh 1995"
+              ]
+            ],
+            "resource": "storage/i881.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Homotopy type theory",
+            "item-id": "c173,i873",
+            "nodes": [
+              {
+                "text": "Homotopy Type Theory: Univalent Foundations of Mathematics",
+                "item-id": "i873",
+                "nodes": [
+                  {
+                    "text": "Homotopy Type Theory Univalent Foundations of Mat.pdf",
+                    "item-id": "i871",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Homotopy Type Theory Univalent Foundations of Mat.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 00:10:58"
+                      ],
+                      [
+                        "Title",
+                        "Homotopy Type Theory Univalent Foundations of Mat.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://www.cs.uoregon.edu/research/summerschool/summer14/rwh_notes/hott-book.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i871.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Homotopy Type Theory: Univalent Foundations of Mathematics",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Homotopy Type Theory: Univalent Foundations of Mathematics"
+                  ]
+                ],
+                "resource": "storage/i871.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "Homotopy type theory",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "Introduction to Type Theory",
+            "item-id": "i869",
+            "nodes": [
+              {
+                "text": "Geuvers - 2009 - Introduction to Type Theory.pdf",
+                "item-id": "i868",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Geuvers - 2009 - Introduction to Type Theory.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:10:46"
+                  ],
+                  [
+                    "Title",
+                    "Geuvers - 2009 - Introduction to Type Theory.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://www.cs.ru.nl/~herman/onderwijs/provingwithCA/paper-lncs.pdf"
+                  ]
+                ],
+                "resource": "storage/i868.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-book",
+            "item_title": "Introduction to Type Theory",
+            "item_type": "bookSection",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:10:49"
+              ],
+              [
+                "Book Title",
+                "Language Engineering and Rigorous Software Development"
+              ],
+              [
+                "Creators",
+                "Ana Bove, Lu\u00eds Soares Barbosa, Alberto Pardo, Jorge Sousa Pinto, Herman Geuvers"
+              ],
+              [
+                "Date",
+                "2009-00-00 2009"
+              ],
+              [
+                "Extra",
+                "Series Title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-642-03153-3_1"
+              ],
+              [
+                "ISBN",
+                "978-3-642-03152-6 978-3-642-03153-3"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Pages",
+                "1-56"
+              ],
+              [
+                "Place",
+                "Berlin, Heidelberg"
+              ],
+              [
+                "Publisher",
+                "Springer Berlin Heidelberg"
+              ],
+              [
+                "Title",
+                "Introduction to Type Theory"
+              ],
+              [
+                "URL",
+                "http://link.springer.com/10.1007/978-3-642-03153-3_1"
+              ],
+              [
+                "Volume",
+                "5520"
+              ]
+            ],
+            "resource": "storage/i868.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Intuitionistic type theory",
+            "item-id": "c170,iNone",
+            "item_title": "Intuitionistic type theory",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Lambda calculus",
+            "item-id": "c158,i856",
+            "nodes": [
+              {
+                "text": "A Tutorial Introduction to the Lambda Calculus",
+                "item-id": "i850",
+                "nodes": [
+                  {
+                    "text": "Rojas - A Tutorial Introduction to the Lambda Calculus.pdf",
+                    "item-id": "i849",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Rojas - A Tutorial Introduction to the Lambda Calculus.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 00:03:49"
+                      ],
+                      [
+                        "Title",
+                        "Rojas - A Tutorial Introduction to the Lambda Calculus.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i849.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "A Tutorial Introduction to the Lambda Calculus",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "This paper is a short and painless introduction to the \u03bb calculus. Originally developed in order to study some mathematical properties of e\ufb00ectively computable functions, this formalism has provided a strong theoretical foundation for the family of functional programming languages. We show how to perform some arithmetical computations using the \u03bb calculus and how to de\ufb01ne recursive functions, even though functions in \u03bb calculus are not given names and thus cannot refer explicitly to themselves."
+                  ],
+                  [
+                    "Creators",
+                    "Raul Rojas"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "A Tutorial Introduction to the Lambda Calculus"
+                  ]
+                ],
+                "resource": "storage/i849.pdf",
+                "selectable": false
+              },
+              {
+                "text": "CS522-Fall-2018-Lambda.pdf",
+                "item-id": "i855",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "CS522-Fall-2018-Lambda.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:08:12"
+                  ],
+                  [
+                    "Title",
+                    "CS522-Fall-2018-Lambda.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://fsl.cs.illinois.edu/teaching/2018/cs522/CS522-Fall-2018-Lambda.pdf"
+                  ]
+                ],
+                "resource": "storage/i855.pdf"
+              },
+              {
+                "text": "Lambda.pdf",
+                "item-id": "i839",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Lambda.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Lambda.pdf"
+                  ]
+                ],
+                "resource": "storage/i839.pdf"
+              },
+              {
+                "text": "Lecture Notes on the Lambda Calculus",
+                "item-id": "i852",
+                "nodes": [
+                  {
+                    "text": "Selinger - Lecture Notes on the Lambda Calculus.pdf",
+                    "item-id": "i851",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Selinger - Lecture Notes on the Lambda Calculus.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 00:07:24"
+                      ],
+                      [
+                        "Title",
+                        "Selinger - Lecture Notes on the Lambda Calculus.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://www.mathstat.dal.ca/~selinger/papers/lambdanotes.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i851.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Lecture Notes on the Lambda Calculus",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "This is a set of lecture notes that developed out of courses on the lambda calculus that I taught at the University of Ottawa in 2001 and at Dalhousie University in 2007 and 2013. Topics covered in these notes include the untyped lambda calculus, the Church-Rosser theorem, combinatory algebras, the simply-typed lambda calculus, the Curry-Howard isomorphism, weak and strong normalization, polymorphism, type inference, denotational semantics, complete partial orders, and the language PCF."
+                  ],
+                  [
+                    "Creators",
+                    "Peter Selinger"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Lecture Notes on the Lambda Calculus"
+                  ]
+                ],
+                "resource": "storage/i851.pdf",
+                "selectable": false
+              },
+              {
+                "text": "geuvers.pdf",
+                "item-id": "i856",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "geuvers.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:08:38"
+                  ],
+                  [
+                    "Title",
+                    "geuvers.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf"
+                  ]
+                ],
+                "resource": "storage/i856.pdf"
+              },
+              {
+                "text": "lambda-calculus.pdf",
+                "item-id": "i853",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "lambda-calculus.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:07:39"
+                  ],
+                  [
+                    "Title",
+                    "lambda-calculus.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://builds.openlogicproject.org/content/lambda-calculus/lambda-calculus.pdf"
+                  ]
+                ],
+                "resource": "storage/i853.pdf"
+              },
+              {
+                "text": "lambda-en.pdf",
+                "item-id": "i854",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "lambda-en.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:07:50"
+                  ],
+                  [
+                    "Title",
+                    "lambda-en.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://www21.in.tum.de/teaching/logik/SS13/lambda-en.pdf"
+                  ]
+                ],
+                "resource": "storage/i854.pdf"
+              }
+            ],
+            "item_title": "Lambda calculus",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "Lecture Notes on Type Theory",
+            "item-id": "i872",
+            "nodes": [
+              {
+                "text": "lecturenotesTT.pdf",
+                "item-id": "i870",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "lecturenotesTT.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:10:52"
+                  ],
+                  [
+                    "Title",
+                    "lecturenotesTT.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://staff.math.su.se/palmgren/lecturenotesTT.pdf"
+                  ]
+                ],
+                "resource": "storage/i870.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Lecture Notes on Type Theory",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Erik Palmgren"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Lecture Notes on Type Theory"
+              ]
+            ],
+            "resource": "storage/i870.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Logical framework",
+            "item-id": "c171,iNone",
+            "item_title": "Logical framework",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Proofs and types",
+            "item-id": "i841",
+            "nodes": [
+              {
+                "text": "Girard - 1989 - Proofs and types.pdf",
+                "item-id": "i840",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Girard - 1989 - Proofs and types.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-06 01:55:27"
+                  ],
+                  [
+                    "Title",
+                    "Girard - 1989 - Proofs and types.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://www.paultaylor.eu/stable/prot.pdf"
+                  ]
+                ],
+                "resource": "storage/i840.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-book",
+            "item_title": "Proofs and types",
+            "item_type": "book",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Call Number",
+                "QA9.5 .G57 1989"
+              ],
+              [
+                "Creators",
+                "Jean-Yves Girard"
+              ],
+              [
+                "Date",
+                "1989-00-00 1989"
+              ],
+              [
+                "ISBN",
+                "978-0-521-37181-0"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Library of Congress ISBN"
+              ],
+              [
+                "Num Pages",
+                "176"
+              ],
+              [
+                "Place",
+                "Cambridge [England] ; New York"
+              ],
+              [
+                "Publisher",
+                "Cambridge University Press"
+              ],
+              [
+                "Series",
+                "Cambridge tracts in theoretical computer science"
+              ],
+              [
+                "Series Number",
+                "7"
+              ],
+              [
+                "Title",
+                "Proofs and types"
+              ]
+            ],
+            "resource": "storage/i840.pdf",
+            "selectable": false
+          },
+          {
+            "text": "The Strength of Some Martin\u2013L\u00a8of Type Theories",
+            "item-id": "i879",
+            "nodes": [
+              {
+                "text": "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf",
+                "item-id": "i877",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:11:30"
+                  ],
+                  [
+                    "Title",
+                    "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://www1.maths.leeds.ac.uk/~rathjen/typeOHIO.pdf"
+                  ]
+                ],
+                "resource": "storage/i877.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "The Strength of Some Martin\u2013L\u00a8of Type Theories",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "One objective of this paper is the determination of the proof\u2013theoretic strength of Martin\u2013L\u00a8of\u2019s type theory with a universe and the type of well\u2013founded trees. It is shown that this type system comprehends the consistency of a rather strong classical subsystem of second order arithmetic, namely the one with \u220612 comprehension and bar induction. As Martin-L\u00a8of intended to formulate a system of constructive (intuitionistic) mathematics that has a sound philosophical basis, this yields a constructive consistency proof of a strong classical theory. Also the prooftheoretic strength of other inductive types like Aczel\u2019s type of iterative sets is investigated in various contexts."
+              ],
+              [
+                "Creators",
+                "Michael Rathjen"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "The Strength of Some Martin\u2013L\u00a8of Type Theories"
+              ]
+            ],
+            "resource": "storage/i877.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Type Theory and Applications",
+            "item-id": "i867",
+            "nodes": [
+              {
+                "text": "Eades - Type Theory and Applications.pdf",
+                "item-id": "i866",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Eades - Type Theory and Applications.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-07 00:10:36"
+                  ],
+                  [
+                    "Title",
+                    "Eades - Type Theory and Applications.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://ncatlab.org/nlab/files/EadesTypeTheoryAndApplications.pdf"
+                  ]
+                ],
+                "resource": "storage/i866.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Type Theory and Applications",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Harley Eades"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Type Theory and Applications"
+              ]
+            ],
+            "resource": "storage/i866.pdf",
+            "selectable": false
+          },
+          {
+            "text": "number-theory.pdf",
+            "item-id": "i874",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "number-theory.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-02-07 00:11:10"
+              ],
+              [
+                "Title",
+                "number-theory.pdf"
+              ],
+              [
+                "URL",
+                "https://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf"
+              ]
+            ],
+            "resource": "storage/i874.pdf"
+          }
+        ],
+        "item_title": "Type theory",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      }
+    ],
+    "item_title": "Mathematical logic",
     "item_type": null,
     "item_note": null,
     "node_type": "collection",
