@@ -545,8 +545,91 @@ var tree =
       },
       {
         "text": "Measure theory",
-        "item-id": "c53,iNone",
+        "item-id": "c53,i947",
         "nodes": [
+          {
+            "text": "Measure and Integration",
+            "item-id": "i947",
+            "nodes": [
+              {
+                "text": "Bercovici et al. - 2016 - Measure and Integration.pdf",
+                "item-id": "i946",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Bercovici et al. - 2016 - Measure and Integration.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-17 12:05:44"
+                  ],
+                  [
+                    "Title",
+                    "Bercovici et al. - 2016 - Measure and Integration.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://link.springer.com/content/pdf/10.1007/978-3-319-29046-1_11.pdf"
+                  ]
+                ],
+                "resource": "storage/i946.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-book",
+            "item_title": "Measure and Integration",
+            "item_type": "book",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-03-17 12:05:49"
+              ],
+              [
+                "Creators",
+                "Hari Bercovici, Arlen Brown, Carl Pearcy"
+              ],
+              [
+                "Date",
+                "2016-00-00 2016"
+              ],
+              [
+                "Extra",
+                "DOI: 10.1007/978-3-319-29046-1"
+              ],
+              [
+                "ISBN",
+                "978-3-319-29044-7 978-3-319-29046-1"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "DOI.org (Crossref)"
+              ],
+              [
+                "Place",
+                "Cham"
+              ],
+              [
+                "Publisher",
+                "Springer International Publishing"
+              ],
+              [
+                "Title",
+                "Measure and Integration"
+              ],
+              [
+                "URL",
+                "http://link.springer.com/10.1007/978-3-319-29046-1"
+              ]
+            ],
+            "resource": "storage/i946.pdf",
+            "selectable": false
+          },
           {
             "text": "Probability theory",
             "item-id": "c55,iNone",
@@ -6781,7 +6864,7 @@ var tree =
       },
       {
         "text": "Special relativity",
-        "item-id": "c9,i758",
+        "item-id": "c9,i948",
         "nodes": [
           {
             "text": "A Maupertuis-type principle in relativistic mechanics and applications",
@@ -7009,6 +7092,122 @@ var tree =
               ]
             ],
             "resource": "storage/i53.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Visual Appearance of Extended objects in Special Relativity",
+            "item-id": "i948",
+            "nodes": [
+              {
+                "text": "Comment: 40 pages, 48 figures, 83 equations",
+                "item-id": "n949",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 40 pages, 48 figures, 83 equations",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 40 pages, 48 figures, 83 equations</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i950",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-04-07 20:14:23"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2104.03908.pdf"
+                  ]
+                ],
+                "resource": "storage/i950.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i951",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-04-07 20:14:33"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2104.03908"
+                  ]
+                ],
+                "resource": "storage/i951.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "Visual Appearance of Extended objects in Special Relativity",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "The strange visual appearance of objects is one of the puzzling predictions of Einstein's relativity. This is mainly due to the distinction between measuring and seeing, where the former is described by the Lorentz Transformation and the latter considers the time light rays (emitted by each point on the object) take to reach the observer. We compute the apparent position of a point given its velocity, initial position, and observation time. The apparent speed of a point is calculated, and we obtain that it exceeds the speed of light when approaching the observer, similar to superluminal motion. For parameterizable surfaces, we analyze properties (such as curvature and torsion) of apparent shapes. The observation that a sphere retains its circular silhouette when transformed to its apparent shape, independent of the initial conditions, is proved mathematically. Plots describing the apparent speed and length of objects are made, and the metric tensor for a distorted sphere is calculated. A generalized equation for the Doppler effect and relativistic aberration is derived to analyze regions of redshift and blueshift. Using the Born-rigidity conditions, we compute the hyperbolic trajectories of each point on an extended object given an initial velocity, position, and proper acceleration for any reference point. The claim that a rigid body, accelerating in Special Relativity, cannot exceed a given length in certain circumstances is justified. We obtain many non-trivial results, which are proved algebraically and using light cones, that are tested by taking the limit of acceleration approaching 0 to retrieve results in the constant velocity scenario. In conclusion, these visualizations may be used by teachers to explain SR intuitively. Finally, we provide an overview of extending the same problem to curved spacetime and explain the potential applications of this project."
+              ],
+              [
+                "Access Date",
+                "2024-04-07 20:14:18"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2104.03908"
+              ],
+              [
+                "Creators",
+                "Utkarsh Bajaj"
+              ],
+              [
+                "DOI",
+                "10.48550/arXiv.2104.03908"
+              ],
+              [
+                "Date",
+                "2021-04-04 2021-04-04"
+              ],
+              [
+                "Extra",
+                "arXiv:2104.03908 [gr-qc, physics:physics]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "Visual Appearance of Extended objects in Special Relativity"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2104.03908"
+              ]
+            ],
+            "resource": "storage/i950.pdf",
             "selectable": false
           },
           {
@@ -8310,7 +8509,7 @@ var tree =
   },
   {
     "text": "Mathematical logic",
-    "item-id": "c145,i846",
+    "item-id": "c145,i912",
     "nodes": [
       {
         "text": "Algebraic logic",
@@ -8354,6 +8553,97 @@ var tree =
         "item_type": null,
         "item_note": null,
         "node_type": "collection"
+      },
+      {
+        "text": "Finite Axiomatizability Using Additional Predicates",
+        "item-id": "i912",
+        "nodes": [
+          {
+            "text": "Full Text PDF",
+            "item-id": "i913",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Full Text PDF",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-03-05 23:56:31"
+              ],
+              [
+                "Title",
+                "Full Text PDF"
+              ],
+              [
+                "URL",
+                "https://www.jstor.org/stable/pdf/2964289.pdf?refreqid=fastly-default%3A7ec38984b6c7304a67686dd390cda304&ab_segments=&origin=&initiator=&acceptTC=1"
+              ]
+            ],
+            "resource": "storage/i913.pdf"
+          }
+        ],
+        "icon": "glyphicon glyphicon-file",
+        "item_title": "Finite Axiomatizability Using Additional Predicates",
+        "item_type": "journalArticle",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Access Date",
+            "2024-03-05 23:56:27"
+          ],
+          [
+            "Creators",
+            "W. Craig, R. L. Vaught"
+          ],
+          [
+            "DOI",
+            "10.2307/2964289"
+          ],
+          [
+            "Date",
+            "1958-00-00 1958"
+          ],
+          [
+            "Extra",
+            "Publisher: Association for Symbolic Logic"
+          ],
+          [
+            "ISSN",
+            "0022-4812"
+          ],
+          [
+            "Issue",
+            "3"
+          ],
+          [
+            "Library Catalog",
+            "JSTOR"
+          ],
+          [
+            "Pages",
+            "289-308"
+          ],
+          [
+            "Publication Title",
+            "The Journal of Symbolic Logic"
+          ],
+          [
+            "Title",
+            "Finite Axiomatizability Using Additional Predicates"
+          ],
+          [
+            "URL",
+            "https://www.jstor.org/stable/2964289"
+          ],
+          [
+            "Volume",
+            "23"
+          ]
+        ],
+        "resource": "storage/i913.pdf",
+        "selectable": false
       },
       {
         "text": "Formal languages",
@@ -9455,7 +9745,7 @@ var tree =
         "node_type": "collection"
       },
       {
-        "text": "Type theory",
+        "text": "Type theories",
         "item-id": "c161,i882",
         "nodes": [
           {
@@ -9833,16 +10123,78 @@ var tree =
             "selectable": false
           },
           {
-            "text": "Intuitionistic type theory",
-            "item-id": "c170,iNone",
-            "item_title": "Intuitionistic type theory",
+            "text": "Intuitionistic type theories",
+            "item-id": "c170,i879",
+            "nodes": [
+              {
+                "text": "The Strength of Some Martin\u2013L\u00a8of Type Theories",
+                "item-id": "i879",
+                "nodes": [
+                  {
+                    "text": "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf",
+                    "item-id": "i877",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 00:11:30"
+                      ],
+                      [
+                        "Title",
+                        "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://www1.maths.leeds.ac.uk/~rathjen/typeOHIO.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i877.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "The Strength of Some Martin\u2013L\u00a8of Type Theories",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "One objective of this paper is the determination of the proof\u2013theoretic strength of Martin\u2013L\u00a8of\u2019s type theory with a universe and the type of well\u2013founded trees. It is shown that this type system comprehends the consistency of a rather strong classical subsystem of second order arithmetic, namely the one with \u220612 comprehension and bar induction. As Martin-L\u00a8of intended to formulate a system of constructive (intuitionistic) mathematics that has a sound philosophical basis, this yields a constructive consistency proof of a strong classical theory. Also the prooftheoretic strength of other inductive types like Aczel\u2019s type of iterative sets is investigated in various contexts."
+                  ],
+                  [
+                    "Creators",
+                    "Michael Rathjen"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "The Strength of Some Martin\u2013L\u00a8of Type Theories"
+                  ]
+                ],
+                "resource": "storage/i877.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "Intuitionistic type theories",
             "item_type": null,
             "item_note": null,
-            "node_type": "collection"
+            "node_type": "collection",
+            "selectable": false
           },
           {
             "text": "Lambda calculus",
-            "item-id": "c158,i856",
+            "item-id": "c158,i911",
             "nodes": [
               {
                 "text": "A Tutorial Introduction to the Lambda Calculus",
@@ -9928,6 +10280,120 @@ var tree =
                 "resource": "storage/i855.pdf"
               },
               {
+                "text": "Demonstrating Lambda Calculus Reduction",
+                "item-id": "i900",
+                "nodes": [
+                  {
+                    "text": "Sestoft - Demonstrating Lambda Calculus Reduction.pdf",
+                    "item-id": "i899",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Sestoft - Demonstrating Lambda Calculus Reduction.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 01:42:29"
+                      ],
+                      [
+                        "Title",
+                        "Sestoft - Demonstrating Lambda Calculus Reduction.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://itu.dk/people/sestoft/papers/sestoft-lamreduce.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i899.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Demonstrating Lambda Calculus Reduction",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "We describe lambda calculus reduction strategies, such as call-by-value, call-by-name, normal order, and applicative order, using big-step operational semantics. We show how to simply and e\ufb03ciently trace such reductions, and use this in a web-based lambda calculus reducer available at http://www.dina.kvl.dk/\u02dcsestoft/lamreduce/ ."
+                  ],
+                  [
+                    "Creators",
+                    "Peter Sestoft"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Demonstrating Lambda Calculus Reduction"
+                  ]
+                ],
+                "resource": "storage/i899.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Lambda Calculus and Types",
+                "item-id": "i898",
+                "nodes": [
+                  {
+                    "text": "Ker - Lambda Calculus and Types.pdf",
+                    "item-id": "i897",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Ker - Lambda Calculus and Types.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 01:42:19"
+                      ],
+                      [
+                        "Title",
+                        "Ker - Lambda Calculus and Types.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://www.cs.ox.ac.uk/andrew.ker/docs/lambdacalculus-lecture-notes-ht2009.pdf#page=18"
+                      ]
+                    ],
+                    "resource": "storage/i897.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Lambda Calculus and Types",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "Andrew D Ker"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Lambda Calculus and Types"
+                  ]
+                ],
+                "resource": "storage/i897.pdf",
+                "selectable": false
+              },
+              {
                 "text": "Lambda.pdf",
                 "item-id": "i839",
                 "icon": "glyphicon glyphicon-paperclip",
@@ -9942,6 +10408,65 @@ var tree =
                   ]
                 ],
                 "resource": "storage/i839.pdf"
+              },
+              {
+                "text": "Lecture Notes on The Lambda Calculus",
+                "item-id": "i908",
+                "nodes": [
+                  {
+                    "text": "Pfenning - 2018 - Lecture Notes on The Lambda Calculus.pdf",
+                    "item-id": "i907",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Pfenning - 2018 - Lecture Notes on The Lambda Calculus.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 01:59:51"
+                      ],
+                      [
+                        "Title",
+                        "Pfenning - 2018 - Lecture Notes on The Lambda Calculus.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://www.cs.cmu.edu/~fp/courses/15814-f18/lectures/Notes-15814-f18.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i907.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Lecture Notes on The Lambda Calculus",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "Frank Pfenning"
+                  ],
+                  [
+                    "Date",
+                    "2018-00-00 2018"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "Lecture Notes on The Lambda Calculus"
+                  ]
+                ],
+                "resource": "storage/i907.pdf",
+                "selectable": false
               },
               {
                 "text": "Lecture Notes on the Lambda Calculus",
@@ -10001,6 +10526,193 @@ var tree =
                 ],
                 "resource": "storage/i851.pdf",
                 "selectable": false
+              },
+              {
+                "text": "System F",
+                "item-id": "c178,iNone",
+                "item_title": "System F",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection"
+              },
+              {
+                "text": "TURING CENTENNIAL CELEBRATION Princeton University, May 10-12, 2012",
+                "item-id": "i905",
+                "nodes": [
+                  {
+                    "text": "Francisco - TURING CENTENNIAL CELEBRATION Princeton University.pdf",
+                    "item-id": "i904",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Francisco - TURING CENTENNIAL CELEBRATION Princeton University.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 01:45:58"
+                      ],
+                      [
+                        "Title",
+                        "Francisco - TURING CENTENNIAL CELEBRATION Princeton University.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://turing100.acm.org/lambda_calculus_timeline.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i904.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "TURING CENTENNIAL CELEBRATION Princeton University, May 10-12, 2012",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "San Francisco"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "TURING CENTENNIAL CELEBRATION Princeton University, May 10-12, 2012"
+                  ]
+                ],
+                "resource": "storage/i904.pdf",
+                "selectable": false
+              },
+              {
+                "text": "The Zoo of Lambda-Calculus Reduction Strategies, And Coq",
+                "item-id": "i902",
+                "nodes": [
+                  {
+                    "text": "Biernacka et al. - 2022 - The Zoo of Lambda-Calculus Reduction Strategies, A.pdf",
+                    "item-id": "i901",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Biernacka et al. - 2022 - The Zoo of Lambda-Calculus Reduction Strategies, A.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-02-07 01:42:40"
+                      ],
+                      [
+                        "Title",
+                        "Biernacka et al. - 2022 - The Zoo of Lambda-Calculus Reduction Strategies, A.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://drops.dagstuhl.de/storage/00lipics/lipics-vol237-itp2022/LIPIcs.ITP.2022.7/LIPIcs.ITP.2022.7.pdf"
+                      ]
+                    ],
+                    "resource": "storage/i901.pdf"
+                  },
+                  {
+                    "text": "SeriesInformation",
+                    "item-id": "n903",
+                    "icon": "glyphicon glyphicon-text-background",
+                    "item_title": "SeriesInformation",
+                    "item_type": "note",
+                    "item_note": "<div class=\"zotero-note znv1\"><h2>SeriesInformation</h2>\nLIPIcs, Vol. 237, 13th International Conference on Interactive Theorem Proving (ITP 2022), pages 7:1-7:19</div>",
+                    "node_type": "note"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "The Zoo of Lambda-Calculus Reduction Strategies, And Coq",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "We present a generic framework for the specification and reasoning about reduction strategies in the lambda calculus, representable as sets of term decompositions. It is provided as a Coq formalization that features a novel format of phased strategies. It facilitates concise description and algebraic reasoning about properties of reduction strategies. The formalization accommodates many well-known strategies, both weak and strong, such as call by name, call by value, head reduction, normal order, full \u03b2-reduction, etc. We illustrate the use of the framework as a tool to inspect and categorize the \u201czoo\u201d of existing strategies, as well as to discover and study new ones with particular properties."
+                  ],
+                  [
+                    "Access Date",
+                    "2024-02-07 01:42:42"
+                  ],
+                  [
+                    "Creators",
+                    "Ma\u0142gorzata Biernacka, Witold Charatonik, Tomasz Drab, June Andronick, Leonardo de Moura"
+                  ],
+                  [
+                    "DOI",
+                    "10.4230/LIPICS.ITP.2022.7"
+                  ],
+                  [
+                    "Date",
+                    "2022-00-00 2022"
+                  ],
+                  [
+                    "Extra",
+                    "Artwork Size: 19 pages, 876196 bytes\nISBN: 9783959772525\nMedium: application/pdf\nPublisher: Schloss Dagstuhl \u2013 Leibniz-Zentrum f\u00fcr Informatik"
+                  ],
+                  [
+                    "ISSN",
+                    "1868-8969"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "DOI.org (Datacite)"
+                  ],
+                  [
+                    "Pages",
+                    "19 pages, 876196 bytes"
+                  ],
+                  [
+                    "Rights",
+                    "Creative Commons Attribution 4.0 International license, info:eu-repo/semantics/openAccess"
+                  ],
+                  [
+                    "Title",
+                    "The Zoo of Lambda-Calculus Reduction Strategies, And Coq"
+                  ],
+                  [
+                    "URL",
+                    "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2022.7"
+                  ]
+                ],
+                "resource": "storage/i901.pdf",
+                "selectable": false
+              },
+              {
+                "text": "ch15.pdf",
+                "item-id": "i911",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "ch15.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-02-14 23:50:09"
+                  ],
+                  [
+                    "Title",
+                    "ch15.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://sites.math.washington.edu/~burke/crs/554/notes/ch15.pdf"
+                  ]
+                ],
+                "resource": "storage/i911.pdf"
               },
               {
                 "text": "geuvers.pdf",
@@ -10073,6 +10785,22 @@ var tree =
                   ]
                 ],
                 "resource": "storage/i854.pdf"
+              },
+              {
+                "text": "pllc.pdf",
+                "item-id": "i906",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "pllc.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "pllc.pdf"
+                  ]
+                ],
+                "resource": "storage/i906.pdf"
               }
             ],
             "item_title": "Lambda calculus",
@@ -10232,63 +10960,20 @@ var tree =
             "selectable": false
           },
           {
-            "text": "The Strength of Some Martin\u2013L\u00a8of Type Theories",
-            "item-id": "i879",
-            "nodes": [
-              {
-                "text": "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf",
-                "item-id": "i877",
-                "icon": "glyphicon glyphicon-paperclip",
-                "item_title": "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf",
-                "item_type": "attachment",
-                "item_note": null,
-                "node_type": "item",
-                "metadata": [
-                  [
-                    "Access Date",
-                    "2024-02-07 00:11:30"
-                  ],
-                  [
-                    "Title",
-                    "Rathjen - The Strength of Some Martin\u2013L\u00a8of Type Theories.pdf"
-                  ],
-                  [
-                    "URL",
-                    "https://www1.maths.leeds.ac.uk/~rathjen/typeOHIO.pdf"
-                  ]
-                ],
-                "resource": "storage/i877.pdf"
-              }
-            ],
-            "icon": "glyphicon glyphicon-file",
-            "item_title": "The Strength of Some Martin\u2013L\u00a8of Type Theories",
-            "item_type": "journalArticle",
+            "text": "Sequent calculus",
+            "item-id": "c176,iNone",
+            "item_title": "Sequent calculus",
+            "item_type": null,
             "item_note": null,
-            "node_type": "item",
-            "metadata": [
-              [
-                "Abstract Note",
-                "One objective of this paper is the determination of the proof\u2013theoretic strength of Martin\u2013L\u00a8of\u2019s type theory with a universe and the type of well\u2013founded trees. It is shown that this type system comprehends the consistency of a rather strong classical subsystem of second order arithmetic, namely the one with \u220612 comprehension and bar induction. As Martin-L\u00a8of intended to formulate a system of constructive (intuitionistic) mathematics that has a sound philosophical basis, this yields a constructive consistency proof of a strong classical theory. Also the prooftheoretic strength of other inductive types like Aczel\u2019s type of iterative sets is investigated in various contexts."
-              ],
-              [
-                "Creators",
-                "Michael Rathjen"
-              ],
-              [
-                "Language",
-                "en"
-              ],
-              [
-                "Library Catalog",
-                "Zotero"
-              ],
-              [
-                "Title",
-                "The Strength of Some Martin\u2013L\u00a8of Type Theories"
-              ]
-            ],
-            "resource": "storage/i877.pdf",
-            "selectable": false
+            "node_type": "collection"
+          },
+          {
+            "text": "System T",
+            "item-id": "c177,iNone",
+            "item_title": "System T",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
           },
           {
             "text": "Type Theory and Applications",
@@ -10370,7 +11055,7 @@ var tree =
             "resource": "storage/i874.pdf"
           }
         ],
-        "item_title": "Type theory",
+        "item_title": "Type theories",
         "item_type": null,
         "item_note": null,
         "node_type": "collection",
@@ -10378,6 +11063,1257 @@ var tree =
       }
     ],
     "item_title": "Mathematical logic",
+    "item_type": null,
+    "item_note": null,
+    "node_type": "collection",
+    "selectable": false
+  },
+  {
+    "text": "Philosophy",
+    "item-id": "c179,iNone",
+    "nodes": [
+      {
+        "text": "Epistemology and Metaphysics",
+        "item-id": "c182,i940",
+        "nodes": [
+          {
+            "text": "NIEAOT.pdf",
+            "item-id": "i940",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "NIEAOT.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-03-07 01:22:03"
+              ],
+              [
+                "Title",
+                "NIEAOT.pdf"
+              ],
+              [
+                "URL",
+                "https://philarchive.org/archive/NIEAOT"
+              ]
+            ],
+            "resource": "storage/i940.pdf"
+          },
+          {
+            "text": "Ontology and Social Construction",
+            "item-id": "i936",
+            "nodes": [
+              {
+                "text": "Haslanger - Ontology and Social Construction.pdf",
+                "item-id": "i935",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Haslanger - Ontology and Social Construction.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-06 00:12:17"
+                  ],
+                  [
+                    "Title",
+                    "Haslanger - Ontology and Social Construction.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://learn.uwaterloo.ca/content/enforced/976304-PHIL251_081_cel_1241/media/documents/week12/haslanger-ontology-social-construction.pdf?ou=976304"
+                  ]
+                ],
+                "resource": "storage/i935.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Ontology and Social Construction",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Creators",
+                "Sally Haslanger"
+              ],
+              [
+                "Language",
+                "en"
+              ],
+              [
+                "Library Catalog",
+                "Zotero"
+              ],
+              [
+                "Title",
+                "Ontology and Social Construction"
+              ]
+            ],
+            "resource": "storage/i935.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Problem of induction",
+            "item-id": "c188,i927",
+            "nodes": [
+              {
+                "text": "A Treatise on Induction and Probability",
+                "item-id": "i918",
+                "nodes": [
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i919",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-03-06 00:02:09"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://www.jstor.org/stable/pdf/2182724.pdf?refreqid=fastly-default%3A97cee9df44649aa3ac6dae86125ed5e0&ab_segments=&origin=&initiator=&acceptTC=1"
+                      ]
+                    ],
+                    "resource": "storage/i919.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "A Treatise on Induction and Probability",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-06 00:02:07"
+                  ],
+                  [
+                    "Creators",
+                    "John G. Kemeny"
+                  ],
+                  [
+                    "DOI",
+                    "10.2307/2182724"
+                  ],
+                  [
+                    "Date",
+                    "1953-00-00 1953"
+                  ],
+                  [
+                    "Extra",
+                    "Publisher: [Duke University Press, Philosophical Review]"
+                  ],
+                  [
+                    "ISSN",
+                    "0031-8108"
+                  ],
+                  [
+                    "Issue",
+                    "1"
+                  ],
+                  [
+                    "Library Catalog",
+                    "JSTOR"
+                  ],
+                  [
+                    "Pages",
+                    "93-101"
+                  ],
+                  [
+                    "Publication Title",
+                    "The Philosophical Review"
+                  ],
+                  [
+                    "Title",
+                    "A Treatise on Induction and Probability"
+                  ],
+                  [
+                    "URL",
+                    "https://www.jstor.org/stable/2182724"
+                  ],
+                  [
+                    "Volume",
+                    "62"
+                  ]
+                ],
+                "resource": "storage/i919.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Does Hume's Argument against Induction Rest on a Quantifier-Shift Fallacy?",
+                "item-id": "i922",
+                "nodes": [
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i923",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-03-06 00:03:32"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://www.jstor.org/stable/pdf/4545437.pdf?refreqid=fastly-default%3A3d96f3a35587f091b42dbef1e612ad1d&ab_segments=&origin=&initiator=&acceptTC=1"
+                      ]
+                    ],
+                    "resource": "storage/i923.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Does Hume's Argument against Induction Rest on a Quantifier-Shift Fallacy?",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Abstract Note",
+                    "It is widely agreed that Hume's description of human inductive reasoning is inadequate. But many philosophers think that this inadequacy in no way affects the force of Hume's argument for the unjustifiability of inductive reasoning. I argue that this constellation of opinions contains a serious tension, given that Hume was not merely pointing out that induction is fallible. I then explore a recent diagnosis of where Hume's sceptical argument goes wrong, due to Elliott Sober. Sober argues that Hume committed a quantifier-shift fallacy, i.e. inferred a statement of ?? form from one of ?? form. The implications of this diagnosis for the traditional problem of induction are briefly examined."
+                  ],
+                  [
+                    "Access Date",
+                    "2024-03-06 00:03:28"
+                  ],
+                  [
+                    "Creators",
+                    "Samir Okasha"
+                  ],
+                  [
+                    "Date",
+                    "2005-00-00 2005"
+                  ],
+                  [
+                    "Extra",
+                    "Publisher: [Aristotelian Society, Wiley]"
+                  ],
+                  [
+                    "ISSN",
+                    "0066-7374"
+                  ],
+                  [
+                    "Library Catalog",
+                    "JSTOR"
+                  ],
+                  [
+                    "Pages",
+                    "237-255"
+                  ],
+                  [
+                    "Publication Title",
+                    "Proceedings of the Aristotelian Society"
+                  ],
+                  [
+                    "Title",
+                    "Does Hume's Argument against Induction Rest on a Quantifier-Shift Fallacy?"
+                  ],
+                  [
+                    "URL",
+                    "https://www.jstor.org/stable/4545437"
+                  ],
+                  [
+                    "Volume",
+                    "105"
+                  ]
+                ],
+                "resource": "storage/i923.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Induction, Explanation and Natural Necessity",
+                "item-id": "i927",
+                "nodes": [
+                  {
+                    "text": "Foster - 1983 - Induction, Explanation and Natural Necessity.pdf",
+                    "item-id": "i926",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Foster - 1983 - Induction, Explanation and Natural Necessity.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-03-06 00:08:16"
+                      ],
+                      [
+                        "Title",
+                        "Foster - 1983 - Induction, Explanation and Natural Necessity.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://learn.uwaterloo.ca/content/enforced/976304-PHIL251_081_cel_1241/media/documents/week07/foster-induction-explanation-natural-necessity.pdf?ou=976304"
+                      ]
+                    ],
+                    "resource": "storage/i926.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Induction, Explanation and Natural Necessity",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "John Foster"
+                  ],
+                  [
+                    "Date",
+                    "1983-00-00 1983"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Pages",
+                    "87- 101"
+                  ],
+                  [
+                    "Publication Title",
+                    "Proceedings of the Aristotelian Society, New Series"
+                  ],
+                  [
+                    "Title",
+                    "Induction, Explanation and Natural Necessity"
+                  ],
+                  [
+                    "URL",
+                    "http://www.jstor.org/stable/4544993"
+                  ],
+                  [
+                    "Volume",
+                    "8"
+                  ]
+                ],
+                "resource": "storage/i926.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "Problem of induction",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "Problem of knowledge",
+            "item-id": "c189,i939",
+            "nodes": [
+              {
+                "text": "A Causal Theory of Knowing",
+                "item-id": "i931",
+                "nodes": [
+                  {
+                    "text": "Goldman - 1967 - A Causal Theory of Knowing.pdf",
+                    "item-id": "i930",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Goldman - 1967 - A Causal Theory of Knowing.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-03-06 00:09:59"
+                      ],
+                      [
+                        "Title",
+                        "Goldman - 1967 - A Causal Theory of Knowing.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://learn.uwaterloo.ca/content/enforced/976304-PHIL251_081_cel_1241/media/documents/week09/goldman-a-causal-theory-of-knowing.pdf?ou=976304"
+                      ]
+                    ],
+                    "resource": "storage/i930.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "A Causal Theory of Knowing",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-06 00:10:01"
+                  ],
+                  [
+                    "Creators",
+                    "Alvin I. Goldman"
+                  ],
+                  [
+                    "DOI",
+                    "10.2307/2024268"
+                  ],
+                  [
+                    "Date",
+                    "1967-06-22 1967-06-22"
+                  ],
+                  [
+                    "ISSN",
+                    "0022362X"
+                  ],
+                  [
+                    "Issue",
+                    "12"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "The Journal of Philosophy"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "DOI.org (Crossref)"
+                  ],
+                  [
+                    "Pages",
+                    "357"
+                  ],
+                  [
+                    "Publication Title",
+                    "The Journal of Philosophy"
+                  ],
+                  [
+                    "Title",
+                    "A Causal Theory of Knowing"
+                  ],
+                  [
+                    "URL",
+                    "http://www.pdcnet.org/oom/service?url_ver=Z39.88-2004&rft_val_fmt=&rft.imuse_id=jphil_1967_0064_0012_0357_0372&svc_id=info:www.pdcnet.org/collection"
+                  ],
+                  [
+                    "Volume",
+                    "64"
+                  ]
+                ],
+                "resource": "storage/i930.pdf",
+                "selectable": false
+              },
+              {
+                "text": "Has foundationalism been refuted?",
+                "item-id": "i939",
+                "nodes": [
+                  {
+                    "text": "Alston - 1976 - Has foundationalism been refuted.pdf",
+                    "item-id": "i938",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Alston - 1976 - Has foundationalism been refuted.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-03-06 00:15:34"
+                      ],
+                      [
+                        "Title",
+                        "Alston - 1976 - Has foundationalism been refuted.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://learn.uwaterloo.ca/content/enforced/976304-PHIL251_081_cel_1241/media/documents/week10/alston-has-foundationalism-been-refuted.pdf?ou=976304"
+                      ]
+                    ],
+                    "resource": "storage/i938.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "Has foundationalism been refuted?",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-06 00:15:36"
+                  ],
+                  [
+                    "Creators",
+                    "William P. Alston"
+                  ],
+                  [
+                    "DOI",
+                    "10.1007/BF00473439"
+                  ],
+                  [
+                    "Date",
+                    "1976-05-00 5/1976"
+                  ],
+                  [
+                    "ISSN",
+                    "0031-8116, 1573-0883"
+                  ],
+                  [
+                    "Issue",
+                    "5"
+                  ],
+                  [
+                    "Journal Abbreviation",
+                    "Philos Stud"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "DOI.org (Crossref)"
+                  ],
+                  [
+                    "Pages",
+                    "287-305"
+                  ],
+                  [
+                    "Publication Title",
+                    "Philosophical Studies"
+                  ],
+                  [
+                    "Title",
+                    "Has foundationalism been refuted?"
+                  ],
+                  [
+                    "URL",
+                    "http://link.springer.com/10.1007/BF00473439"
+                  ],
+                  [
+                    "Volume",
+                    "29"
+                  ]
+                ],
+                "resource": "storage/i938.pdf",
+                "selectable": false
+              },
+              {
+                "text": "IS JUSTIFIED TRUE BELIEF KNOWLEDGE?",
+                "item-id": "i929",
+                "nodes": [
+                  {
+                    "text": "Gettier - IS JUSTIFIED TRUE BELIEF KNOWLEDGE.pdf",
+                    "item-id": "i928",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Gettier - IS JUSTIFIED TRUE BELIEF KNOWLEDGE.pdf",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-03-06 00:09:40"
+                      ],
+                      [
+                        "Title",
+                        "Gettier - IS JUSTIFIED TRUE BELIEF KNOWLEDGE.pdf"
+                      ],
+                      [
+                        "URL",
+                        "https://learn.uwaterloo.ca/content/enforced/976304-PHIL251_081_cel_1241/media/documents/week09/gettier-is-justified-true-belief-knowledge.pdf?ou=976304"
+                      ]
+                    ],
+                    "resource": "storage/i928.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "IS JUSTIFIED TRUE BELIEF KNOWLEDGE?",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Creators",
+                    "Edmund L Gettier"
+                  ],
+                  [
+                    "Language",
+                    "en"
+                  ],
+                  [
+                    "Library Catalog",
+                    "Zotero"
+                  ],
+                  [
+                    "Title",
+                    "IS JUSTIFIED TRUE BELIEF KNOWLEDGE?"
+                  ]
+                ],
+                "resource": "storage/i928.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "Problem of knowledge",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "Problem of universals",
+            "item-id": "c190,i914",
+            "nodes": [
+              {
+                "text": "The Nature of Laws",
+                "item-id": "i914",
+                "nodes": [
+                  {
+                    "text": "Full Text PDF",
+                    "item-id": "i915",
+                    "icon": "glyphicon glyphicon-paperclip",
+                    "item_title": "Full Text PDF",
+                    "item_type": "attachment",
+                    "item_note": null,
+                    "node_type": "item",
+                    "metadata": [
+                      [
+                        "Access Date",
+                        "2024-03-06 00:00:43"
+                      ],
+                      [
+                        "Title",
+                        "Full Text PDF"
+                      ],
+                      [
+                        "URL",
+                        "https://www.jstor.org/stable/pdf/40230714.pdf?refreqid=fastly-default%3A4333b8f5a2ace51ca2142f9cbbac6074&ab_segments=&origin=&initiator=&acceptTC=1"
+                      ]
+                    ],
+                    "resource": "storage/i915.pdf"
+                  }
+                ],
+                "icon": "glyphicon glyphicon-file",
+                "item_title": "The Nature of Laws",
+                "item_type": "journalArticle",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-06 00:00:40"
+                  ],
+                  [
+                    "Creators",
+                    "Michael Tooley"
+                  ],
+                  [
+                    "Date",
+                    "1977-00-00 1977"
+                  ],
+                  [
+                    "Extra",
+                    "Publisher: [Taylor & Francis, Ltd., Canadian Journal of Philosophy]"
+                  ],
+                  [
+                    "ISSN",
+                    "0045-5091"
+                  ],
+                  [
+                    "Issue",
+                    "4"
+                  ],
+                  [
+                    "Library Catalog",
+                    "JSTOR"
+                  ],
+                  [
+                    "Pages",
+                    "667-698"
+                  ],
+                  [
+                    "Publication Title",
+                    "Canadian Journal of Philosophy"
+                  ],
+                  [
+                    "Title",
+                    "The Nature of Laws"
+                  ],
+                  [
+                    "URL",
+                    "https://www.jstor.org/stable/40230714"
+                  ],
+                  [
+                    "Volume",
+                    "7"
+                  ]
+                ],
+                "resource": "storage/i915.pdf",
+                "selectable": false
+              }
+            ],
+            "item_title": "Problem of universals",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "Swamping problem",
+            "item-id": "c206,iNone",
+            "item_title": "Swamping problem",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "mills-alternative-epistemologies.pdf",
+            "item-id": "i937",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "mills-alternative-epistemologies.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-03-06 00:14:31"
+              ],
+              [
+                "Title",
+                "mills-alternative-epistemologies.pdf"
+              ],
+              [
+                "URL",
+                "https://learn.uwaterloo.ca/content/enforced/976304-PHIL251_081_cel_1241/media/documents/week11/mills-alternative-epistemologies.pdf?ou=976304"
+              ]
+            ],
+            "resource": "storage/i937.pdf"
+          }
+        ],
+        "item_title": "Epistemology and Metaphysics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Ethics",
+        "item-id": "c195,iNone",
+        "nodes": [
+          {
+            "text": "Non-identity problem",
+            "item-id": "c205,iNone",
+            "item_title": "Non-identity problem",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Problem of normativity",
+            "item-id": "c208,i940",
+            "nodes": [
+              {
+                "text": "NIEAOT.pdf",
+                "item-id": "i940",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "NIEAOT.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-07 01:22:03"
+                  ],
+                  [
+                    "Title",
+                    "NIEAOT.pdf"
+                  ],
+                  [
+                    "URL",
+                    "https://philarchive.org/archive/NIEAOT"
+                  ]
+                ],
+                "resource": "storage/i940.pdf"
+              }
+            ],
+            "item_title": "Problem of normativity",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          }
+        ],
+        "item_title": "Ethics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Philosophy of language",
+        "item-id": "c186,iNone",
+        "nodes": [
+          {
+            "text": "Problem of predication",
+            "item-id": "c210,iNone",
+            "item_title": "Problem of predication",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Philosophy of language",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Philosophy of mathematics",
+        "item-id": "c185,i924",
+        "nodes": [
+          {
+            "text": "Identity and General Similarity",
+            "item-id": "i924",
+            "nodes": [
+              {
+                "text": "Full Text PDF",
+                "item-id": "i925",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-06 00:03:53"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://www.jstor.org/stable/pdf/2676146.pdf?refreqid=fastly-default%3Ae39c17314fac735c66a28b000241a153&ab_segments=&origin=&initiator=&acceptTC=1"
+                  ]
+                ],
+                "resource": "storage/i925.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Identity and General Similarity",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-03-06 00:03:51"
+              ],
+              [
+                "Creators",
+                "Harry Deutsch"
+              ],
+              [
+                "Date",
+                "1998-00-00 1998"
+              ],
+              [
+                "Extra",
+                "Publisher: [Ridgeview Publishing Company, Wiley]"
+              ],
+              [
+                "ISSN",
+                "1520-8583"
+              ],
+              [
+                "Library Catalog",
+                "JSTOR"
+              ],
+              [
+                "Pages",
+                "177-199"
+              ],
+              [
+                "Publication Title",
+                "Philosophical Perspectives"
+              ],
+              [
+                "Title",
+                "Identity and General Similarity"
+              ],
+              [
+                "URL",
+                "https://www.jstor.org/stable/2676146"
+              ],
+              [
+                "Volume",
+                "12"
+              ]
+            ],
+            "resource": "storage/i925.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Logic and Ontology",
+            "item-id": "i920",
+            "nodes": [
+              {
+                "text": "Full Text PDF",
+                "item-id": "i921",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-06 00:03:08"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://www.jstor.org/stable/pdf/1398384.pdf?refreqid=fastly-default%3Afc441378efad3d84444eeb476312828b&ab_segments=&origin=&initiator=&acceptTC=1"
+                  ]
+                ],
+                "resource": "storage/i921.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Logic and Ontology",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-03-06 00:03:07"
+              ],
+              [
+                "Creators",
+                "J. M. Bochenski"
+              ],
+              [
+                "DOI",
+                "10.2307/1398384"
+              ],
+              [
+                "Date",
+                "1974-00-00 1974"
+              ],
+              [
+                "Extra",
+                "Publisher: University of Hawai'i Press"
+              ],
+              [
+                "ISSN",
+                "0031-8221"
+              ],
+              [
+                "Issue",
+                "3"
+              ],
+              [
+                "Library Catalog",
+                "JSTOR"
+              ],
+              [
+                "Pages",
+                "275-292"
+              ],
+              [
+                "Publication Title",
+                "Philosophy East and West"
+              ],
+              [
+                "Title",
+                "Logic and Ontology"
+              ],
+              [
+                "URL",
+                "https://www.jstor.org/stable/1398384"
+              ],
+              [
+                "Volume",
+                "24"
+              ]
+            ],
+            "resource": "storage/i921.pdf",
+            "selectable": false
+          }
+        ],
+        "item_title": "Philosophy of mathematics",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Philosophy of mind",
+        "item-id": "c187,iNone",
+        "nodes": [
+          {
+            "text": "AI",
+            "item-id": "c202,iNone",
+            "nodes": [
+              {
+                "text": "Frame problem",
+                "item-id": "c203,iNone",
+                "item_title": "Frame problem",
+                "item_type": null,
+                "item_note": null,
+                "node_type": "collection"
+              }
+            ],
+            "item_title": "AI",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection",
+            "selectable": false
+          },
+          {
+            "text": "Mind-body problem",
+            "item-id": "c191,iNone",
+            "item_title": "Mind-body problem",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Problem of association",
+            "item-id": "c211,iNone",
+            "item_title": "Problem of association",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Problem of consciousness",
+            "item-id": "c193,iNone",
+            "item_title": "Problem of consciousness",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Problem of memory",
+            "item-id": "c207,iNone",
+            "item_title": "Problem of memory",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Problem of perception",
+            "item-id": "c192,iNone",
+            "item_title": "Problem of perception",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Philosophy of mind",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Philosophy of science",
+        "item-id": "c180,i916",
+        "nodes": [
+          {
+            "text": "Armstrong, Cartwright, and Earman on Laws and Symmetry",
+            "item-id": "i916",
+            "nodes": [
+              {
+                "text": "Full Text PDF",
+                "item-id": "i917",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Full Text PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-06 00:01:03"
+                  ],
+                  [
+                    "Title",
+                    "Full Text PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://www.jstor.org/stable/pdf/2107781.pdf?refreqid=fastly-default%3A92ccc6f49aa3f6bc91078a933d690beb&ab_segments=&origin=&initiator=&acceptTC=1"
+                  ]
+                ],
+                "resource": "storage/i917.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Armstrong, Cartwright, and Earman on Laws and Symmetry",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2024-03-06 00:00:49"
+              ],
+              [
+                "Creators",
+                "Bas C. van Fraassen"
+              ],
+              [
+                "DOI",
+                "10.2307/2107781"
+              ],
+              [
+                "Date",
+                "1993-00-00 1993"
+              ],
+              [
+                "Extra",
+                "Publisher: [International Phenomenological Society, Philosophy and Phenomenological Research, Wiley]"
+              ],
+              [
+                "ISSN",
+                "0031-8205"
+              ],
+              [
+                "Issue",
+                "2"
+              ],
+              [
+                "Library Catalog",
+                "JSTOR"
+              ],
+              [
+                "Pages",
+                "431-444"
+              ],
+              [
+                "Publication Title",
+                "Philosophy and Phenomenological Research"
+              ],
+              [
+                "Title",
+                "Armstrong, Cartwright, and Earman on Laws and Symmetry"
+              ],
+              [
+                "URL",
+                "https://www.jstor.org/stable/2107781"
+              ],
+              [
+                "Volume",
+                "53"
+              ]
+            ],
+            "resource": "storage/i917.pdf",
+            "selectable": false
+          },
+          {
+            "text": "Problem of realism",
+            "item-id": "c194,iNone",
+            "item_title": "Problem of realism",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Problem of reduction",
+            "item-id": "c212,iNone",
+            "item_title": "Problem of reduction",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Problem of underdetermination",
+            "item-id": "c209,iNone",
+            "item_title": "Problem of underdetermination",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Philosophy of science",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Political philosophy",
+        "item-id": "c196,iNone",
+        "nodes": [
+          {
+            "text": "Problem of dirty hands",
+            "item-id": "c201,iNone",
+            "item_title": "Problem of dirty hands",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Political philosophy",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      },
+      {
+        "text": "Religion",
+        "item-id": "c198,iNone",
+        "nodes": [
+          {
+            "text": "Problem of God",
+            "item-id": "c199,iNone",
+            "item_title": "Problem of God",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          },
+          {
+            "text": "Problem of evil",
+            "item-id": "c200,iNone",
+            "item_title": "Problem of evil",
+            "item_type": null,
+            "item_note": null,
+            "node_type": "collection"
+          }
+        ],
+        "item_title": "Religion",
+        "item_type": null,
+        "item_note": null,
+        "node_type": "collection",
+        "selectable": false
+      }
+    ],
+    "item_title": "Philosophy",
     "item_type": null,
     "item_note": null,
     "node_type": "collection",
@@ -13847,7 +15783,7 @@ var tree =
       },
       {
         "text": "Quantum information theory",
-        "item-id": "c13,i288",
+        "item-id": "c13,i942",
         "nodes": [
           {
             "text": "Completeness of the ZX-calculus",
@@ -13959,6 +15895,122 @@ var tree =
               ]
             ],
             "resource": "storage/i291.pdf",
+            "selectable": false
+          },
+          {
+            "text": "On the construction of a quantum channel corresponding to non-commutative graph for a qubit interacting with quantum oscillator",
+            "item-id": "i942",
+            "nodes": [
+              {
+                "text": "Comment: 6 pages",
+                "item-id": "n943",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Comment: 6 pages",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Comment: 6 pages</div>",
+                "node_type": "note"
+              },
+              {
+                "text": "arXiv Fulltext PDF",
+                "item-id": "i944",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv Fulltext PDF",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-13 00:03:34"
+                  ],
+                  [
+                    "Title",
+                    "arXiv Fulltext PDF"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/pdf/2403.06733.pdf"
+                  ]
+                ],
+                "resource": "storage/i944.pdf"
+              },
+              {
+                "text": "arXiv.org Snapshot",
+                "item-id": "i945",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "arXiv.org Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2024-03-13 00:03:40"
+                  ],
+                  [
+                    "Title",
+                    "arXiv.org Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://arxiv.org/abs/2403.06733"
+                  ]
+                ],
+                "resource": "storage/i945.html"
+              }
+            ],
+            "icon": "glyphicon glyphicon-unchecked",
+            "item_title": "On the construction of a quantum channel corresponding to non-commutative graph for a qubit interacting with quantum oscillator",
+            "item_type": "preprint",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We consider error correction, based on the theory of non-commutative graphs, for a model of a qubit interacting with quantum oscillator. The dynamics of the composite system is governed by the Schr\\\"odinger equation which generates positive operator-valued measure (POVM) for the system dynamics. We construct a quantum channel generating the non-commutative graph as a linear envelope of the POVM. The idea is based on applying a generalized version of a quantum channel using the apparatus of von Neumann algebras. The results are analyzes for a non-commutative graph generated by a qubit interacting with quantum oscillator. For this model the quantum anticlique which determines the error correcting subspace has an explicit expression."
+              ],
+              [
+                "Access Date",
+                "2024-03-13 00:03:33"
+              ],
+              [
+                "Archiveid",
+                "arXiv:2403.06733"
+              ],
+              [
+                "Creators",
+                "G. G. Amosov, A. S. Mokeev, A. N. Pechen"
+              ],
+              [
+                "DOI",
+                "10.48550/arXiv.2403.06733"
+              ],
+              [
+                "Date",
+                "2024-03-11 2024-03-11"
+              ],
+              [
+                "Extra",
+                "arXiv:2403.06733 [quant-ph]"
+              ],
+              [
+                "Library Catalog",
+                "arXiv.org"
+              ],
+              [
+                "Repository",
+                "arXiv"
+              ],
+              [
+                "Title",
+                "On the construction of a quantum channel corresponding to non-commutative graph for a qubit interacting with quantum oscillator"
+              ],
+              [
+                "URL",
+                "http://arxiv.org/abs/2403.06733"
+              ]
+            ],
+            "resource": "storage/i944.pdf",
             "selectable": false
           },
           {
@@ -15055,7 +17107,7 @@ var tree =
       },
       {
         "text": "Quantum theory",
-        "item-id": "c86,i836",
+        "item-id": "c86,i701",
         "nodes": [
           {
             "text": "Categorical Semantics for Time Travel",
